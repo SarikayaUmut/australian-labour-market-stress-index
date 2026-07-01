@@ -1,0 +1,397 @@
+date,industry,vacancies_thousands
+2009Q4,Manufacturing,9.8
+2010Q1,Manufacturing,12.3
+2010Q2,Manufacturing,11.2
+2010Q3,Manufacturing,14.0
+2010Q4,Manufacturing,12.7
+2011Q1,Manufacturing,12.1
+2011Q2,Manufacturing,10.7
+2011Q3,Manufacturing,10.4
+2011Q4,Manufacturing,11.0
+2012Q1,Manufacturing,12.1
+2012Q2,Manufacturing,12.2
+2012Q3,Manufacturing,12.4
+2012Q4,Manufacturing,9.0
+2013Q1,Manufacturing,10.6
+2013Q2,Manufacturing,9.3
+2013Q3,Manufacturing,9.0
+2013Q4,Manufacturing,6.1
+2014Q1,Manufacturing,8.0
+2014Q2,Manufacturing,11.0
+2014Q3,Manufacturing,10.6
+2014Q4,Manufacturing,9.6
+2015Q1,Manufacturing,10.0
+2015Q2,Manufacturing,10.1
+2015Q3,Manufacturing,7.3
+2015Q4,Manufacturing,8.7
+2016Q1,Manufacturing,9.1
+2016Q2,Manufacturing,10.7
+2016Q3,Manufacturing,7.7
+2016Q4,Manufacturing,8.7
+2017Q1,Manufacturing,10.6
+2017Q2,Manufacturing,9.2
+2017Q3,Manufacturing,10.9
+2017Q4,Manufacturing,12.7
+2018Q1,Manufacturing,12.4
+2018Q2,Manufacturing,11.2
+2018Q3,Manufacturing,10.3
+2018Q4,Manufacturing,11.4
+2019Q1,Manufacturing,12.2
+2019Q2,Manufacturing,11.5
+2019Q3,Manufacturing,11.6
+2019Q4,Manufacturing,10.9
+2020Q1,Manufacturing,12.2
+2020Q2,Manufacturing,7.0
+2020Q3,Manufacturing,13.5
+2020Q4,Manufacturing,15.3
+2021Q1,Manufacturing,16.6
+2021Q2,Manufacturing,20.7
+2021Q3,Manufacturing,23.2
+2021Q4,Manufacturing,29.5
+2022Q1,Manufacturing,30.6
+2022Q2,Manufacturing,28.9
+2022Q3,Manufacturing,28.3
+2022Q4,Manufacturing,25.9
+2023Q1,Manufacturing,25.1
+2023Q2,Manufacturing,22.6
+2023Q3,Manufacturing,25.1
+2023Q4,Manufacturing,23.4
+2024Q1,Manufacturing,23.3
+2024Q2,Manufacturing,16.4
+2024Q3,Manufacturing,14.7
+2024Q4,Manufacturing,14.8
+2025Q1,Manufacturing,18.2
+2025Q2,Manufacturing,19.6
+2025Q3,Manufacturing,21.5
+2025Q4,Manufacturing,19.7
+2026Q1,Manufacturing,18.6
+2009Q4,Construction,11.8
+2010Q1,Construction,13.4
+2010Q2,Construction,13.1
+2010Q3,Construction,13.5
+2010Q4,Construction,12.0
+2011Q1,Construction,20.1
+2011Q2,Construction,19.4
+2011Q3,Construction,23.9
+2011Q4,Construction,13.7
+2012Q1,Construction,16.1
+2012Q2,Construction,20.3
+2012Q3,Construction,16.8
+2012Q4,Construction,16.7
+2013Q1,Construction,12.7
+2013Q2,Construction,16.5
+2013Q3,Construction,12.8
+2013Q4,Construction,9.9
+2014Q1,Construction,13.9
+2014Q2,Construction,13.4
+2014Q3,Construction,12.3
+2014Q4,Construction,11.3
+2015Q1,Construction,13.2
+2015Q2,Construction,12.7
+2015Q3,Construction,9.8
+2015Q4,Construction,9.5
+2016Q1,Construction,11.3
+2016Q2,Construction,10.0
+2016Q3,Construction,10.6
+2016Q4,Construction,11.2
+2017Q1,Construction,12.4
+2017Q2,Construction,11.8
+2017Q3,Construction,13.4
+2017Q4,Construction,13.7
+2018Q1,Construction,14.5
+2018Q2,Construction,14.8
+2018Q3,Construction,16.0
+2018Q4,Construction,17.3
+2019Q1,Construction,19.3
+2019Q2,Construction,15.7
+2019Q3,Construction,14.9
+2019Q4,Construction,16.6
+2020Q1,Construction,16.6
+2020Q2,Construction,8.3
+2020Q3,Construction,15.9
+2020Q4,Construction,17.9
+2021Q1,Construction,26.7
+2021Q2,Construction,29.9
+2021Q3,Construction,23.2
+2021Q4,Construction,30.0
+2022Q1,Construction,35.2
+2022Q2,Construction,39.9
+2022Q3,Construction,33.5
+2022Q4,Construction,29.9
+2023Q1,Construction,31.2
+2023Q2,Construction,33.1
+2023Q3,Construction,28.8
+2023Q4,Construction,28.5
+2024Q1,Construction,27.9
+2024Q2,Construction,24.9
+2024Q3,Construction,25.1
+2024Q4,Construction,22.2
+2025Q1,Construction,18.5
+2025Q2,Construction,22.3
+2025Q3,Construction,19.5
+2025Q4,Construction,18.1
+2026Q1,Construction,21.6
+2009Q4,Accommodation and Food Services,18.1
+2010Q1,Accommodation and Food Services,13.2
+2010Q2,Accommodation and Food Services,7.7
+2010Q3,Accommodation and Food Services,13.7
+2010Q4,Accommodation and Food Services,17.5
+2011Q1,Accommodation and Food Services,15.3
+2011Q2,Accommodation and Food Services,11.9
+2011Q3,Accommodation and Food Services,10.3
+2011Q4,Accommodation and Food Services,18.8
+2012Q1,Accommodation and Food Services,15.4
+2012Q2,Accommodation and Food Services,12.7
+2012Q3,Accommodation and Food Services,13.6
+2012Q4,Accommodation and Food Services,9.7
+2013Q1,Accommodation and Food Services,11.5
+2013Q2,Accommodation and Food Services,9.3
+2013Q3,Accommodation and Food Services,10.9
+2013Q4,Accommodation and Food Services,17.6
+2014Q1,Accommodation and Food Services,13.7
+2014Q2,Accommodation and Food Services,9.9
+2014Q3,Accommodation and Food Services,10.9
+2014Q4,Accommodation and Food Services,14.8
+2015Q1,Accommodation and Food Services,13.3
+2015Q2,Accommodation and Food Services,13.0
+2015Q3,Accommodation and Food Services,15.9
+2015Q4,Accommodation and Food Services,17.9
+2016Q1,Accommodation and Food Services,19.2
+2016Q2,Accommodation and Food Services,13.1
+2016Q3,Accommodation and Food Services,16.6
+2016Q4,Accommodation and Food Services,16.0
+2017Q1,Accommodation and Food Services,17.8
+2017Q2,Accommodation and Food Services,13.5
+2017Q3,Accommodation and Food Services,17.4
+2017Q4,Accommodation and Food Services,18.6
+2018Q1,Accommodation and Food Services,17.0
+2018Q2,Accommodation and Food Services,13.8
+2018Q3,Accommodation and Food Services,17.1
+2018Q4,Accommodation and Food Services,15.1
+2019Q1,Accommodation and Food Services,16.7
+2019Q2,Accommodation and Food Services,14.0
+2019Q3,Accommodation and Food Services,14.5
+2019Q4,Accommodation and Food Services,14.5
+2020Q1,Accommodation and Food Services,14.7
+2020Q2,Accommodation and Food Services,5.0
+2020Q3,Accommodation and Food Services,13.5
+2020Q4,Accommodation and Food Services,22.4
+2021Q1,Accommodation and Food Services,27.6
+2021Q2,Accommodation and Food Services,38.2
+2021Q3,Accommodation and Food Services,27.6
+2021Q4,Accommodation and Food Services,45.8
+2022Q1,Accommodation and Food Services,46.1
+2022Q2,Accommodation and Food Services,51.9
+2022Q3,Accommodation and Food Services,59.1
+2022Q4,Accommodation and Food Services,56.3
+2023Q1,Accommodation and Food Services,57.8
+2023Q2,Accommodation and Food Services,42.5
+2023Q3,Accommodation and Food Services,41.4
+2023Q4,Accommodation and Food Services,38.8
+2024Q1,Accommodation and Food Services,35.1
+2024Q2,Accommodation and Food Services,38.3
+2024Q3,Accommodation and Food Services,31.7
+2024Q4,Accommodation and Food Services,38.0
+2025Q1,Accommodation and Food Services,38.7
+2025Q2,Accommodation and Food Services,38.1
+2025Q3,Accommodation and Food Services,37.7
+2025Q4,Accommodation and Food Services,38.2
+2026Q1,Accommodation and Food Services,40.6
+2009Q4,"Professional, Scientific and Technical Services",14.8
+2010Q1,"Professional, Scientific and Technical Services",19.1
+2010Q2,"Professional, Scientific and Technical Services",14.2
+2010Q3,"Professional, Scientific and Technical Services",15.8
+2010Q4,"Professional, Scientific and Technical Services",18.6
+2011Q1,"Professional, Scientific and Technical Services",24.0
+2011Q2,"Professional, Scientific and Technical Services",25.0
+2011Q3,"Professional, Scientific and Technical Services",21.8
+2011Q4,"Professional, Scientific and Technical Services",22.8
+2012Q1,"Professional, Scientific and Technical Services",22.1
+2012Q2,"Professional, Scientific and Technical Services",20.2
+2012Q3,"Professional, Scientific and Technical Services",18.4
+2012Q4,"Professional, Scientific and Technical Services",20.4
+2013Q1,"Professional, Scientific and Technical Services",16.8
+2013Q2,"Professional, Scientific and Technical Services",15.0
+2013Q3,"Professional, Scientific and Technical Services",17.6
+2013Q4,"Professional, Scientific and Technical Services",16.2
+2014Q1,"Professional, Scientific and Technical Services",15.4
+2014Q2,"Professional, Scientific and Technical Services",19.1
+2014Q3,"Professional, Scientific and Technical Services",19.3
+2014Q4,"Professional, Scientific and Technical Services",20.3
+2015Q1,"Professional, Scientific and Technical Services",19.2
+2015Q2,"Professional, Scientific and Technical Services",18.4
+2015Q3,"Professional, Scientific and Technical Services",20.5
+2015Q4,"Professional, Scientific and Technical Services",19.7
+2016Q1,"Professional, Scientific and Technical Services",19.3
+2016Q2,"Professional, Scientific and Technical Services",16.9
+2016Q3,"Professional, Scientific and Technical Services",21.3
+2016Q4,"Professional, Scientific and Technical Services",20.3
+2017Q1,"Professional, Scientific and Technical Services",21.2
+2017Q2,"Professional, Scientific and Technical Services",18.7
+2017Q3,"Professional, Scientific and Technical Services",23.4
+2017Q4,"Professional, Scientific and Technical Services",21.3
+2018Q1,"Professional, Scientific and Technical Services",24.6
+2018Q2,"Professional, Scientific and Technical Services",26.9
+2018Q3,"Professional, Scientific and Technical Services",28.9
+2018Q4,"Professional, Scientific and Technical Services",24.8
+2019Q1,"Professional, Scientific and Technical Services",28.3
+2019Q2,"Professional, Scientific and Technical Services",28.6
+2019Q3,"Professional, Scientific and Technical Services",25.0
+2019Q4,"Professional, Scientific and Technical Services",23.7
+2020Q1,"Professional, Scientific and Technical Services",26.3
+2020Q2,"Professional, Scientific and Technical Services",13.1
+2020Q3,"Professional, Scientific and Technical Services",23.5
+2020Q4,"Professional, Scientific and Technical Services",27.0
+2021Q1,"Professional, Scientific and Technical Services",31.2
+2021Q2,"Professional, Scientific and Technical Services",31.9
+2021Q3,"Professional, Scientific and Technical Services",31.7
+2021Q4,"Professional, Scientific and Technical Services",37.1
+2022Q1,"Professional, Scientific and Technical Services",42.1
+2022Q2,"Professional, Scientific and Technical Services",42.9
+2022Q3,"Professional, Scientific and Technical Services",44.1
+2022Q4,"Professional, Scientific and Technical Services",40.8
+2023Q1,"Professional, Scientific and Technical Services",47.6
+2023Q2,"Professional, Scientific and Technical Services",44.7
+2023Q3,"Professional, Scientific and Technical Services",42.5
+2023Q4,"Professional, Scientific and Technical Services",41.4
+2024Q1,"Professional, Scientific and Technical Services",34.6
+2024Q2,"Professional, Scientific and Technical Services",40.1
+2024Q3,"Professional, Scientific and Technical Services",38.7
+2024Q4,"Professional, Scientific and Technical Services",41.1
+2025Q1,"Professional, Scientific and Technical Services",34.1
+2025Q2,"Professional, Scientific and Technical Services",38.4
+2025Q3,"Professional, Scientific and Technical Services",34.3
+2025Q4,"Professional, Scientific and Technical Services",33.6
+2026Q1,"Professional, Scientific and Technical Services",36.2
+2009Q4,Education and Training,3.4
+2010Q1,Education and Training,4.0
+2010Q2,Education and Training,4.2
+2010Q3,Education and Training,3.2
+2010Q4,Education and Training,3.7
+2011Q1,Education and Training,5.1
+2011Q2,Education and Training,3.0
+2011Q3,Education and Training,4.0
+2011Q4,Education and Training,4.6
+2012Q1,Education and Training,3.1
+2012Q2,Education and Training,4.5
+2012Q3,Education and Training,3.3
+2012Q4,Education and Training,3.3
+2013Q1,Education and Training,4.2
+2013Q2,Education and Training,4.7
+2013Q3,Education and Training,4.9
+2013Q4,Education and Training,3.1
+2014Q1,Education and Training,2.6
+2014Q2,Education and Training,2.2
+2014Q3,Education and Training,2.9
+2014Q4,Education and Training,3.8
+2015Q1,Education and Training,3.4
+2015Q2,Education and Training,3.6
+2015Q3,Education and Training,4.2
+2015Q4,Education and Training,5.0
+2016Q1,Education and Training,5.9
+2016Q2,Education and Training,6.5
+2016Q3,Education and Training,6.6
+2016Q4,Education and Training,6.1
+2017Q1,Education and Training,6.1
+2017Q2,Education and Training,6.0
+2017Q3,Education and Training,7.2
+2017Q4,Education and Training,5.7
+2018Q1,Education and Training,6.8
+2018Q2,Education and Training,6.4
+2018Q3,Education and Training,7.3
+2018Q4,Education and Training,6.6
+2019Q1,Education and Training,7.4
+2019Q2,Education and Training,7.1
+2019Q3,Education and Training,6.6
+2019Q4,Education and Training,7.3
+2020Q1,Education and Training,7.7
+2020Q2,Education and Training,3.6
+2020Q3,Education and Training,6.4
+2020Q4,Education and Training,6.7
+2021Q1,Education and Training,8.5
+2021Q2,Education and Training,10.5
+2021Q3,Education and Training,9.8
+2021Q4,Education and Training,10.2
+2022Q1,Education and Training,11.6
+2022Q2,Education and Training,12.7
+2022Q3,Education and Training,11.2
+2022Q4,Education and Training,11.1
+2023Q1,Education and Training,13.5
+2023Q2,Education and Training,15.9
+2023Q3,Education and Training,15.5
+2023Q4,Education and Training,13.6
+2024Q1,Education and Training,15.6
+2024Q2,Education and Training,12.3
+2024Q3,Education and Training,12.1
+2024Q4,Education and Training,10.9
+2025Q1,Education and Training,11.6
+2025Q2,Education and Training,12.2
+2025Q3,Education and Training,12.9
+2025Q4,Education and Training,10.9
+2026Q1,Education and Training,11.8
+2009Q4,Health Care and Social Assistance,12.9
+2010Q1,Health Care and Social Assistance,12.0
+2010Q2,Health Care and Social Assistance,14.6
+2010Q3,Health Care and Social Assistance,19.7
+2010Q4,Health Care and Social Assistance,16.7
+2011Q1,Health Care and Social Assistance,16.4
+2011Q2,Health Care and Social Assistance,16.6
+2011Q3,Health Care and Social Assistance,15.3
+2011Q4,Health Care and Social Assistance,13.2
+2012Q1,Health Care and Social Assistance,13.8
+2012Q2,Health Care and Social Assistance,13.3
+2012Q3,Health Care and Social Assistance,14.2
+2012Q4,Health Care and Social Assistance,14.1
+2013Q1,Health Care and Social Assistance,14.2
+2013Q2,Health Care and Social Assistance,13.2
+2013Q3,Health Care and Social Assistance,13.3
+2013Q4,Health Care and Social Assistance,13.3
+2014Q1,Health Care and Social Assistance,14.0
+2014Q2,Health Care and Social Assistance,13.8
+2014Q3,Health Care and Social Assistance,12.7
+2014Q4,Health Care and Social Assistance,14.4
+2015Q1,Health Care and Social Assistance,16.1
+2015Q2,Health Care and Social Assistance,13.2
+2015Q3,Health Care and Social Assistance,16.5
+2015Q4,Health Care and Social Assistance,16.0
+2016Q1,Health Care and Social Assistance,15.9
+2016Q2,Health Care and Social Assistance,18.1
+2016Q3,Health Care and Social Assistance,20.9
+2016Q4,Health Care and Social Assistance,19.9
+2017Q1,Health Care and Social Assistance,20.6
+2017Q2,Health Care and Social Assistance,20.5
+2017Q3,Health Care and Social Assistance,24.2
+2017Q4,Health Care and Social Assistance,23.4
+2018Q1,Health Care and Social Assistance,23.9
+2018Q2,Health Care and Social Assistance,24.0
+2018Q3,Health Care and Social Assistance,27.1
+2018Q4,Health Care and Social Assistance,29.0
+2019Q1,Health Care and Social Assistance,29.4
+2019Q2,Health Care and Social Assistance,29.8
+2019Q3,Health Care and Social Assistance,27.4
+2019Q4,Health Care and Social Assistance,28.0
+2020Q1,Health Care and Social Assistance,29.8
+2020Q2,Health Care and Social Assistance,19.7
+2020Q3,Health Care and Social Assistance,28.4
+2020Q4,Health Care and Social Assistance,37.7
+2021Q1,Health Care and Social Assistance,39.1
+2021Q2,Health Care and Social Assistance,47.7
+2021Q3,Health Care and Social Assistance,51.2
+2021Q4,Health Care and Social Assistance,60.2
+2022Q1,Health Care and Social Assistance,60.2
+2022Q2,Health Care and Social Assistance,68.9
+2022Q3,Health Care and Social Assistance,74.3
+2022Q4,Health Care and Social Assistance,62.7
+2023Q1,Health Care and Social Assistance,72.4
+2023Q2,Health Care and Social Assistance,72.9
+2023Q3,Health Care and Social Assistance,68.1
+2023Q4,Health Care and Social Assistance,67.5
+2024Q1,Health Care and Social Assistance,65.0
+2024Q2,Health Care and Social Assistance,61.8
+2024Q3,Health Care and Social Assistance,60.9
+2024Q4,Health Care and Social Assistance,62.7
+2025Q1,Health Care and Social Assistance,59.1
+2025Q2,Health Care and Social Assistance,55.2
+2025Q3,Health Care and Social Assistance,55.3
+2025Q4,Health Care and Social Assistance,59.6
+2026Q1,Health Care and Social Assistance,57.8

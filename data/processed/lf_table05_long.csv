@@ -1,0 +1,3155 @@
+date,state,industry,employed_thousands
+Nov-1984,New South Wales,Manufacturing,391.9
+Feb-1985,New South Wales,Manufacturing,378.9
+May-1985,New South Wales,Manufacturing,383.5
+Aug-1985,New South Wales,Manufacturing,353.1
+Nov-1985,New South Wales,Manufacturing,376.6
+Feb-1986,New South Wales,Manufacturing,392.4
+May-1986,New South Wales,Manufacturing,395.2
+Aug-1986,New South Wales,Manufacturing,386.8
+Nov-1986,New South Wales,Manufacturing,383.5
+Feb-1987,New South Wales,Manufacturing,380.4
+May-1987,New South Wales,Manufacturing,381.3
+Aug-1987,New South Wales,Manufacturing,380.9
+Nov-1987,New South Wales,Manufacturing,392.0
+Feb-1988,New South Wales,Manufacturing,405.1
+May-1988,New South Wales,Manufacturing,396.3
+Aug-1988,New South Wales,Manufacturing,393.3
+Nov-1988,New South Wales,Manufacturing,396.8
+Feb-1989,New South Wales,Manufacturing,398.0
+May-1989,New South Wales,Manufacturing,401.7
+Aug-1989,New South Wales,Manufacturing,393.7
+Nov-1989,New South Wales,Manufacturing,402.2
+Feb-1990,New South Wales,Manufacturing,391.0
+May-1990,New South Wales,Manufacturing,385.1
+Aug-1990,New South Wales,Manufacturing,372.7
+Nov-1990,New South Wales,Manufacturing,384.8
+Feb-1991,New South Wales,Manufacturing,358.2
+May-1991,New South Wales,Manufacturing,364.3
+Aug-1991,New South Wales,Manufacturing,347.8
+Nov-1991,New South Wales,Manufacturing,362.1
+Feb-1992,New South Wales,Manufacturing,355.6
+May-1992,New South Wales,Manufacturing,350.0
+Aug-1992,New South Wales,Manufacturing,346.1
+Nov-1992,New South Wales,Manufacturing,366.7
+Feb-1993,New South Wales,Manufacturing,355.6
+May-1993,New South Wales,Manufacturing,352.8
+Aug-1993,New South Wales,Manufacturing,351.7
+Nov-1993,New South Wales,Manufacturing,358.4
+Feb-1994,New South Wales,Manufacturing,367.0
+May-1994,New South Wales,Manufacturing,361.6
+Aug-1994,New South Wales,Manufacturing,362.8
+Nov-1994,New South Wales,Manufacturing,348.7
+Feb-1995,New South Wales,Manufacturing,357.4
+May-1995,New South Wales,Manufacturing,347.4
+Aug-1995,New South Wales,Manufacturing,352.0
+Nov-1995,New South Wales,Manufacturing,333.2
+Feb-1996,New South Wales,Manufacturing,338.7
+May-1996,New South Wales,Manufacturing,337.0
+Aug-1996,New South Wales,Manufacturing,354.0
+Nov-1996,New South Wales,Manufacturing,367.8
+Feb-1997,New South Wales,Manufacturing,364.0
+May-1997,New South Wales,Manufacturing,361.9
+Aug-1997,New South Wales,Manufacturing,383.2
+Nov-1997,New South Wales,Manufacturing,372.5
+Feb-1998,New South Wales,Manufacturing,346.7
+May-1998,New South Wales,Manufacturing,335.0
+Aug-1998,New South Wales,Manufacturing,345.7
+Nov-1998,New South Wales,Manufacturing,332.9
+Feb-1999,New South Wales,Manufacturing,324.4
+May-1999,New South Wales,Manufacturing,325.0
+Aug-1999,New South Wales,Manufacturing,326.4
+Nov-1999,New South Wales,Manufacturing,326.4
+Feb-2000,New South Wales,Manufacturing,324.2
+May-2000,New South Wales,Manufacturing,353.6
+Aug-2000,New South Wales,Manufacturing,340.1
+Nov-2000,New South Wales,Manufacturing,322.3
+Feb-2001,New South Wales,Manufacturing,343.2
+May-2001,New South Wales,Manufacturing,334.7
+Aug-2001,New South Wales,Manufacturing,314.8
+Nov-2001,New South Wales,Manufacturing,319.2
+Feb-2002,New South Wales,Manufacturing,319.5
+May-2002,New South Wales,Manufacturing,335.3
+Aug-2002,New South Wales,Manufacturing,343.4
+Nov-2002,New South Wales,Manufacturing,352.0
+Feb-2003,New South Wales,Manufacturing,353.0
+May-2003,New South Wales,Manufacturing,320.9
+Aug-2003,New South Wales,Manufacturing,320.0
+Nov-2003,New South Wales,Manufacturing,299.9
+Feb-2004,New South Wales,Manufacturing,309.0
+May-2004,New South Wales,Manufacturing,310.2
+Aug-2004,New South Wales,Manufacturing,320.0
+Nov-2004,New South Wales,Manufacturing,309.6
+Feb-2005,New South Wales,Manufacturing,311.6
+May-2005,New South Wales,Manufacturing,303.4
+Aug-2005,New South Wales,Manufacturing,307.5
+Nov-2005,New South Wales,Manufacturing,313.7
+Feb-2006,New South Wales,Manufacturing,300.7
+May-2006,New South Wales,Manufacturing,286.4
+Aug-2006,New South Wales,Manufacturing,284.8
+Nov-2006,New South Wales,Manufacturing,294.1
+Feb-2007,New South Wales,Manufacturing,301.3
+May-2007,New South Wales,Manufacturing,295.1
+Aug-2007,New South Wales,Manufacturing,307.9
+Nov-2007,New South Wales,Manufacturing,317.7
+Feb-2008,New South Wales,Manufacturing,324.5
+May-2008,New South Wales,Manufacturing,304.7
+Aug-2008,New South Wales,Manufacturing,296.3
+Nov-2008,New South Wales,Manufacturing,297.6
+Feb-2009,New South Wales,Manufacturing,296.2
+May-2009,New South Wales,Manufacturing,305.4
+Aug-2009,New South Wales,Manufacturing,305.2
+Nov-2009,New South Wales,Manufacturing,301.6
+Feb-2010,New South Wales,Manufacturing,304.1
+May-2010,New South Wales,Manufacturing,288.8
+Aug-2010,New South Wales,Manufacturing,288.6
+Nov-2010,New South Wales,Manufacturing,294.4
+Feb-2011,New South Wales,Manufacturing,309.3
+May-2011,New South Wales,Manufacturing,279.1
+Aug-2011,New South Wales,Manufacturing,269.4
+Nov-2011,New South Wales,Manufacturing,279.9
+Feb-2012,New South Wales,Manufacturing,282.6
+May-2012,New South Wales,Manufacturing,266.2
+Aug-2012,New South Wales,Manufacturing,291.0
+Nov-2012,New South Wales,Manufacturing,310.3
+Feb-2013,New South Wales,Manufacturing,297.1
+May-2013,New South Wales,Manufacturing,284.5
+Aug-2013,New South Wales,Manufacturing,263.2
+Nov-2013,New South Wales,Manufacturing,269.1
+Feb-2014,New South Wales,Manufacturing,287.1
+May-2014,New South Wales,Manufacturing,281.3
+Aug-2014,New South Wales,Manufacturing,269.5
+Nov-2014,New South Wales,Manufacturing,287.6
+Feb-2015,New South Wales,Manufacturing,279.9
+May-2015,New South Wales,Manufacturing,266.3
+Aug-2015,New South Wales,Manufacturing,265.4
+Nov-2015,New South Wales,Manufacturing,245.6
+Feb-2016,New South Wales,Manufacturing,280.5
+May-2016,New South Wales,Manufacturing,263.4
+Aug-2016,New South Wales,Manufacturing,248.6
+Nov-2016,New South Wales,Manufacturing,286.7
+Feb-2017,New South Wales,Manufacturing,274.0
+May-2017,New South Wales,Manufacturing,276.7
+Aug-2017,New South Wales,Manufacturing,258.0
+Nov-2017,New South Wales,Manufacturing,266.6
+Feb-2018,New South Wales,Manufacturing,269.6
+May-2018,New South Wales,Manufacturing,314.5
+Aug-2018,New South Wales,Manufacturing,295.2
+Nov-2018,New South Wales,Manufacturing,249.1
+Feb-2019,New South Wales,Manufacturing,249.3
+May-2019,New South Wales,Manufacturing,274.4
+Aug-2019,New South Wales,Manufacturing,246.3
+Nov-2019,New South Wales,Manufacturing,265.9
+Feb-2020,New South Wales,Manufacturing,279.9
+May-2020,New South Wales,Manufacturing,229.5
+Aug-2020,New South Wales,Manufacturing,246.8
+Nov-2020,New South Wales,Manufacturing,237.3
+Feb-2021,New South Wales,Manufacturing,269.4
+May-2021,New South Wales,Manufacturing,267.5
+Aug-2021,New South Wales,Manufacturing,273.7
+Nov-2021,New South Wales,Manufacturing,232.4
+Feb-2022,New South Wales,Manufacturing,231.9
+May-2022,New South Wales,Manufacturing,240.9
+Aug-2022,New South Wales,Manufacturing,236.1
+Nov-2022,New South Wales,Manufacturing,260.3
+Feb-2023,New South Wales,Manufacturing,236.9
+May-2023,New South Wales,Manufacturing,250.9
+Aug-2023,New South Wales,Manufacturing,267.7
+Nov-2023,New South Wales,Manufacturing,292.5
+Feb-2024,New South Wales,Manufacturing,286.4
+May-2024,New South Wales,Manufacturing,248.3
+Aug-2024,New South Wales,Manufacturing,228.1
+Nov-2024,New South Wales,Manufacturing,250.3
+Feb-2025,New South Wales,Manufacturing,257.1
+May-2025,New South Wales,Manufacturing,251.0
+Aug-2025,New South Wales,Manufacturing,243.4
+Nov-2025,New South Wales,Manufacturing,250.5
+Feb-2026,New South Wales,Manufacturing,248.5
+Nov-1984,New South Wales,Construction,153.2
+Feb-1985,New South Wales,Construction,154.3
+May-1985,New South Wales,Construction,160.6
+Aug-1985,New South Wales,Construction,158.7
+Nov-1985,New South Wales,Construction,160.4
+Feb-1986,New South Wales,Construction,152.3
+May-1986,New South Wales,Construction,161.1
+Aug-1986,New South Wales,Construction,162.6
+Nov-1986,New South Wales,Construction,158.7
+Feb-1987,New South Wales,Construction,170.3
+May-1987,New South Wales,Construction,175.3
+Aug-1987,New South Wales,Construction,165.1
+Nov-1987,New South Wales,Construction,163.7
+Feb-1988,New South Wales,Construction,173.0
+May-1988,New South Wales,Construction,169.4
+Aug-1988,New South Wales,Construction,167.7
+Nov-1988,New South Wales,Construction,185.0
+Feb-1989,New South Wales,Construction,191.6
+May-1989,New South Wales,Construction,196.7
+Aug-1989,New South Wales,Construction,205.4
+Nov-1989,New South Wales,Construction,207.9
+Feb-1990,New South Wales,Construction,215.8
+May-1990,New South Wales,Construction,203.1
+Aug-1990,New South Wales,Construction,202.3
+Nov-1990,New South Wales,Construction,216.4
+Feb-1991,New South Wales,Construction,215.4
+May-1991,New South Wales,Construction,196.6
+Aug-1991,New South Wales,Construction,175.7
+Nov-1991,New South Wales,Construction,178.4
+Feb-1992,New South Wales,Construction,179.8
+May-1992,New South Wales,Construction,175.6
+Aug-1992,New South Wales,Construction,172.4
+Nov-1992,New South Wales,Construction,170.3
+Feb-1993,New South Wales,Construction,180.4
+May-1993,New South Wales,Construction,183.0
+Aug-1993,New South Wales,Construction,189.7
+Nov-1993,New South Wales,Construction,181.1
+Feb-1994,New South Wales,Construction,183.3
+May-1994,New South Wales,Construction,183.2
+Aug-1994,New South Wales,Construction,178.2
+Nov-1994,New South Wales,Construction,176.5
+Feb-1995,New South Wales,Construction,185.7
+May-1995,New South Wales,Construction,211.2
+Aug-1995,New South Wales,Construction,208.3
+Nov-1995,New South Wales,Construction,209.0
+Feb-1996,New South Wales,Construction,210.8
+May-1996,New South Wales,Construction,202.2
+Aug-1996,New South Wales,Construction,205.7
+Nov-1996,New South Wales,Construction,183.8
+Feb-1997,New South Wales,Construction,196.0
+May-1997,New South Wales,Construction,190.8
+Aug-1997,New South Wales,Construction,180.3
+Nov-1997,New South Wales,Construction,204.8
+Feb-1998,New South Wales,Construction,204.8
+May-1998,New South Wales,Construction,209.5
+Aug-1998,New South Wales,Construction,217.5
+Nov-1998,New South Wales,Construction,216.1
+Feb-1999,New South Wales,Construction,207.5
+May-1999,New South Wales,Construction,214.4
+Aug-1999,New South Wales,Construction,234.4
+Nov-1999,New South Wales,Construction,253.4
+Feb-2000,New South Wales,Construction,239.4
+May-2000,New South Wales,Construction,239.5
+Aug-2000,New South Wales,Construction,248.7
+Nov-2000,New South Wales,Construction,234.1
+Feb-2001,New South Wales,Construction,211.0
+May-2001,New South Wales,Construction,224.7
+Aug-2001,New South Wales,Construction,221.2
+Nov-2001,New South Wales,Construction,237.1
+Feb-2002,New South Wales,Construction,236.2
+May-2002,New South Wales,Construction,231.4
+Aug-2002,New South Wales,Construction,209.1
+Nov-2002,New South Wales,Construction,244.1
+Feb-2003,New South Wales,Construction,254.8
+May-2003,New South Wales,Construction,240.4
+Aug-2003,New South Wales,Construction,249.1
+Nov-2003,New South Wales,Construction,265.5
+Feb-2004,New South Wales,Construction,254.8
+May-2004,New South Wales,Construction,273.4
+Aug-2004,New South Wales,Construction,279.5
+Nov-2004,New South Wales,Construction,276.2
+Feb-2005,New South Wales,Construction,273.4
+May-2005,New South Wales,Construction,266.8
+Aug-2005,New South Wales,Construction,262.5
+Nov-2005,New South Wales,Construction,259.4
+Feb-2006,New South Wales,Construction,267.0
+May-2006,New South Wales,Construction,271.6
+Aug-2006,New South Wales,Construction,270.8
+Nov-2006,New South Wales,Construction,288.0
+Feb-2007,New South Wales,Construction,287.2
+May-2007,New South Wales,Construction,286.6
+Aug-2007,New South Wales,Construction,279.4
+Nov-2007,New South Wales,Construction,285.0
+Feb-2008,New South Wales,Construction,303.3
+May-2008,New South Wales,Construction,284.7
+Aug-2008,New South Wales,Construction,297.6
+Nov-2008,New South Wales,Construction,295.0
+Feb-2009,New South Wales,Construction,297.3
+May-2009,New South Wales,Construction,296.4
+Aug-2009,New South Wales,Construction,285.9
+Nov-2009,New South Wales,Construction,284.1
+Feb-2010,New South Wales,Construction,286.6
+May-2010,New South Wales,Construction,293.8
+Aug-2010,New South Wales,Construction,270.0
+Nov-2010,New South Wales,Construction,294.4
+Feb-2011,New South Wales,Construction,266.0
+May-2011,New South Wales,Construction,287.1
+Aug-2011,New South Wales,Construction,277.2
+Nov-2011,New South Wales,Construction,292.9
+Feb-2012,New South Wales,Construction,296.3
+May-2012,New South Wales,Construction,302.1
+Aug-2012,New South Wales,Construction,277.6
+Nov-2012,New South Wales,Construction,277.1
+Feb-2013,New South Wales,Construction,275.1
+May-2013,New South Wales,Construction,276.2
+Aug-2013,New South Wales,Construction,287.7
+Nov-2013,New South Wales,Construction,273.9
+Feb-2014,New South Wales,Construction,303.9
+May-2014,New South Wales,Construction,323.3
+Aug-2014,New South Wales,Construction,316.9
+Nov-2014,New South Wales,Construction,339.8
+Feb-2015,New South Wales,Construction,306.7
+May-2015,New South Wales,Construction,319.1
+Aug-2015,New South Wales,Construction,304.6
+Nov-2015,New South Wales,Construction,312.7
+Feb-2016,New South Wales,Construction,299.3
+May-2016,New South Wales,Construction,343.2
+Aug-2016,New South Wales,Construction,337.8
+Nov-2016,New South Wales,Construction,337.8
+Feb-2017,New South Wales,Construction,359.8
+May-2017,New South Wales,Construction,335.7
+Aug-2017,New South Wales,Construction,357.4
+Nov-2017,New South Wales,Construction,377.2
+Feb-2018,New South Wales,Construction,387.6
+May-2018,New South Wales,Construction,359.8
+Aug-2018,New South Wales,Construction,380.1
+Nov-2018,New South Wales,Construction,391.7
+Feb-2019,New South Wales,Construction,352.8
+May-2019,New South Wales,Construction,364.8
+Aug-2019,New South Wales,Construction,360.5
+Nov-2019,New South Wales,Construction,357.7
+Feb-2020,New South Wales,Construction,371.8
+May-2020,New South Wales,Construction,394.9
+Aug-2020,New South Wales,Construction,388.8
+Nov-2020,New South Wales,Construction,392.8
+Feb-2021,New South Wales,Construction,362.9
+May-2021,New South Wales,Construction,346.9
+Aug-2021,New South Wales,Construction,303.5
+Nov-2021,New South Wales,Construction,338.4
+Feb-2022,New South Wales,Construction,359.2
+May-2022,New South Wales,Construction,367.2
+Aug-2022,New South Wales,Construction,386.4
+Nov-2022,New South Wales,Construction,395.9
+Feb-2023,New South Wales,Construction,400.8
+May-2023,New South Wales,Construction,426.1
+Aug-2023,New South Wales,Construction,402.1
+Nov-2023,New South Wales,Construction,418.6
+Feb-2024,New South Wales,Construction,407.8
+May-2024,New South Wales,Construction,417.4
+Aug-2024,New South Wales,Construction,383.3
+Nov-2024,New South Wales,Construction,411.7
+Feb-2025,New South Wales,Construction,448.6
+May-2025,New South Wales,Construction,403.2
+Aug-2025,New South Wales,Construction,424.2
+Nov-2025,New South Wales,Construction,420.1
+Feb-2026,New South Wales,Construction,430.8
+Nov-1984,New South Wales,Accommodation and Food Services,115.4
+Feb-1985,New South Wales,Accommodation and Food Services,113.7
+May-1985,New South Wales,Accommodation and Food Services,109.8
+Aug-1985,New South Wales,Accommodation and Food Services,107.1
+Nov-1985,New South Wales,Accommodation and Food Services,120.8
+Feb-1986,New South Wales,Accommodation and Food Services,118.7
+May-1986,New South Wales,Accommodation and Food Services,125.8
+Aug-1986,New South Wales,Accommodation and Food Services,124.7
+Nov-1986,New South Wales,Accommodation and Food Services,117.7
+Feb-1987,New South Wales,Accommodation and Food Services,117.2
+May-1987,New South Wales,Accommodation and Food Services,127.2
+Aug-1987,New South Wales,Accommodation and Food Services,123.8
+Nov-1987,New South Wales,Accommodation and Food Services,136.0
+Feb-1988,New South Wales,Accommodation and Food Services,131.9
+May-1988,New South Wales,Accommodation and Food Services,131.0
+Aug-1988,New South Wales,Accommodation and Food Services,136.2
+Nov-1988,New South Wales,Accommodation and Food Services,149.2
+Feb-1989,New South Wales,Accommodation and Food Services,138.4
+May-1989,New South Wales,Accommodation and Food Services,137.9
+Aug-1989,New South Wales,Accommodation and Food Services,134.2
+Nov-1989,New South Wales,Accommodation and Food Services,142.5
+Feb-1990,New South Wales,Accommodation and Food Services,149.6
+May-1990,New South Wales,Accommodation and Food Services,157.1
+Aug-1990,New South Wales,Accommodation and Food Services,160.5
+Nov-1990,New South Wales,Accommodation and Food Services,159.0
+Feb-1991,New South Wales,Accommodation and Food Services,162.9
+May-1991,New South Wales,Accommodation and Food Services,166.1
+Aug-1991,New South Wales,Accommodation and Food Services,163.2
+Nov-1991,New South Wales,Accommodation and Food Services,163.2
+Feb-1992,New South Wales,Accommodation and Food Services,166.2
+May-1992,New South Wales,Accommodation and Food Services,172.7
+Aug-1992,New South Wales,Accommodation and Food Services,175.4
+Nov-1992,New South Wales,Accommodation and Food Services,162.1
+Feb-1993,New South Wales,Accommodation and Food Services,164.8
+May-1993,New South Wales,Accommodation and Food Services,171.5
+Aug-1993,New South Wales,Accommodation and Food Services,154.4
+Nov-1993,New South Wales,Accommodation and Food Services,168.2
+Feb-1994,New South Wales,Accommodation and Food Services,172.9
+May-1994,New South Wales,Accommodation and Food Services,174.3
+Aug-1994,New South Wales,Accommodation and Food Services,188.4
+Nov-1994,New South Wales,Accommodation and Food Services,189.6
+Feb-1995,New South Wales,Accommodation and Food Services,192.0
+May-1995,New South Wales,Accommodation and Food Services,197.5
+Aug-1995,New South Wales,Accommodation and Food Services,194.5
+Nov-1995,New South Wales,Accommodation and Food Services,193.9
+Feb-1996,New South Wales,Accommodation and Food Services,185.2
+May-1996,New South Wales,Accommodation and Food Services,185.1
+Aug-1996,New South Wales,Accommodation and Food Services,186.1
+Nov-1996,New South Wales,Accommodation and Food Services,188.8
+Feb-1997,New South Wales,Accommodation and Food Services,206.7
+May-1997,New South Wales,Accommodation and Food Services,212.3
+Aug-1997,New South Wales,Accommodation and Food Services,197.8
+Nov-1997,New South Wales,Accommodation and Food Services,190.2
+Feb-1998,New South Wales,Accommodation and Food Services,186.3
+May-1998,New South Wales,Accommodation and Food Services,195.2
+Aug-1998,New South Wales,Accommodation and Food Services,193.1
+Nov-1998,New South Wales,Accommodation and Food Services,191.6
+Feb-1999,New South Wales,Accommodation and Food Services,195.8
+May-1999,New South Wales,Accommodation and Food Services,198.1
+Aug-1999,New South Wales,Accommodation and Food Services,188.9
+Nov-1999,New South Wales,Accommodation and Food Services,211.3
+Feb-2000,New South Wales,Accommodation and Food Services,201.8
+May-2000,New South Wales,Accommodation and Food Services,209.5
+Aug-2000,New South Wales,Accommodation and Food Services,204.6
+Nov-2000,New South Wales,Accommodation and Food Services,223.7
+Feb-2001,New South Wales,Accommodation and Food Services,224.4
+May-2001,New South Wales,Accommodation and Food Services,210.0
+Aug-2001,New South Wales,Accommodation and Food Services,212.2
+Nov-2001,New South Wales,Accommodation and Food Services,207.4
+Feb-2002,New South Wales,Accommodation and Food Services,231.6
+May-2002,New South Wales,Accommodation and Food Services,223.5
+Aug-2002,New South Wales,Accommodation and Food Services,206.1
+Nov-2002,New South Wales,Accommodation and Food Services,222.6
+Feb-2003,New South Wales,Accommodation and Food Services,214.9
+May-2003,New South Wales,Accommodation and Food Services,222.9
+Aug-2003,New South Wales,Accommodation and Food Services,212.4
+Nov-2003,New South Wales,Accommodation and Food Services,235.9
+Feb-2004,New South Wales,Accommodation and Food Services,234.2
+May-2004,New South Wales,Accommodation and Food Services,235.9
+Aug-2004,New South Wales,Accommodation and Food Services,219.4
+Nov-2004,New South Wales,Accommodation and Food Services,238.8
+Feb-2005,New South Wales,Accommodation and Food Services,230.1
+May-2005,New South Wales,Accommodation and Food Services,234.0
+Aug-2005,New South Wales,Accommodation and Food Services,229.8
+Nov-2005,New South Wales,Accommodation and Food Services,236.5
+Feb-2006,New South Wales,Accommodation and Food Services,217.5
+May-2006,New South Wales,Accommodation and Food Services,227.6
+Aug-2006,New South Wales,Accommodation and Food Services,231.2
+Nov-2006,New South Wales,Accommodation and Food Services,217.8
+Feb-2007,New South Wales,Accommodation and Food Services,238.9
+May-2007,New South Wales,Accommodation and Food Services,233.4
+Aug-2007,New South Wales,Accommodation and Food Services,234.7
+Nov-2007,New South Wales,Accommodation and Food Services,219.2
+Feb-2008,New South Wales,Accommodation and Food Services,249.0
+May-2008,New South Wales,Accommodation and Food Services,257.7
+Aug-2008,New South Wales,Accommodation and Food Services,236.4
+Nov-2008,New South Wales,Accommodation and Food Services,235.3
+Feb-2009,New South Wales,Accommodation and Food Services,227.1
+May-2009,New South Wales,Accommodation and Food Services,233.8
+Aug-2009,New South Wales,Accommodation and Food Services,252.6
+Nov-2009,New South Wales,Accommodation and Food Services,247.3
+Feb-2010,New South Wales,Accommodation and Food Services,240.3
+May-2010,New South Wales,Accommodation and Food Services,227.6
+Aug-2010,New South Wales,Accommodation and Food Services,224.2
+Nov-2010,New South Wales,Accommodation and Food Services,232.3
+Feb-2011,New South Wales,Accommodation and Food Services,263.8
+May-2011,New South Wales,Accommodation and Food Services,262.1
+Aug-2011,New South Wales,Accommodation and Food Services,253.0
+Nov-2011,New South Wales,Accommodation and Food Services,253.7
+Feb-2012,New South Wales,Accommodation and Food Services,238.4
+May-2012,New South Wales,Accommodation and Food Services,249.4
+Aug-2012,New South Wales,Accommodation and Food Services,257.5
+Nov-2012,New South Wales,Accommodation and Food Services,270.6
+Feb-2013,New South Wales,Accommodation and Food Services,285.4
+May-2013,New South Wales,Accommodation and Food Services,282.3
+Aug-2013,New South Wales,Accommodation and Food Services,260.8
+Nov-2013,New South Wales,Accommodation and Food Services,263.4
+Feb-2014,New South Wales,Accommodation and Food Services,250.7
+May-2014,New South Wales,Accommodation and Food Services,257.8
+Aug-2014,New South Wales,Accommodation and Food Services,246.3
+Nov-2014,New South Wales,Accommodation and Food Services,262.7
+Feb-2015,New South Wales,Accommodation and Food Services,272.1
+May-2015,New South Wales,Accommodation and Food Services,273.8
+Aug-2015,New South Wales,Accommodation and Food Services,260.7
+Nov-2015,New South Wales,Accommodation and Food Services,263.9
+Feb-2016,New South Wales,Accommodation and Food Services,264.2
+May-2016,New South Wales,Accommodation and Food Services,276.2
+Aug-2016,New South Wales,Accommodation and Food Services,266.7
+Nov-2016,New South Wales,Accommodation and Food Services,262.6
+Feb-2017,New South Wales,Accommodation and Food Services,262.3
+May-2017,New South Wales,Accommodation and Food Services,283.5
+Aug-2017,New South Wales,Accommodation and Food Services,266.0
+Nov-2017,New South Wales,Accommodation and Food Services,265.8
+Feb-2018,New South Wales,Accommodation and Food Services,269.7
+May-2018,New South Wales,Accommodation and Food Services,275.2
+Aug-2018,New South Wales,Accommodation and Food Services,254.9
+Nov-2018,New South Wales,Accommodation and Food Services,278.0
+Feb-2019,New South Wales,Accommodation and Food Services,306.5
+May-2019,New South Wales,Accommodation and Food Services,323.0
+Aug-2019,New South Wales,Accommodation and Food Services,313.2
+Nov-2019,New South Wales,Accommodation and Food Services,299.2
+Feb-2020,New South Wales,Accommodation and Food Services,283.4
+May-2020,New South Wales,Accommodation and Food Services,204.6
+Aug-2020,New South Wales,Accommodation and Food Services,262.0
+Nov-2020,New South Wales,Accommodation and Food Services,270.8
+Feb-2021,New South Wales,Accommodation and Food Services,268.4
+May-2021,New South Wales,Accommodation and Food Services,256.9
+Aug-2021,New South Wales,Accommodation and Food Services,194.3
+Nov-2021,New South Wales,Accommodation and Food Services,248.9
+Feb-2022,New South Wales,Accommodation and Food Services,274.0
+May-2022,New South Wales,Accommodation and Food Services,282.3
+Aug-2022,New South Wales,Accommodation and Food Services,288.4
+Nov-2022,New South Wales,Accommodation and Food Services,309.8
+Feb-2023,New South Wales,Accommodation and Food Services,303.8
+May-2023,New South Wales,Accommodation and Food Services,304.7
+Aug-2023,New South Wales,Accommodation and Food Services,293.3
+Nov-2023,New South Wales,Accommodation and Food Services,286.9
+Feb-2024,New South Wales,Accommodation and Food Services,289.2
+May-2024,New South Wales,Accommodation and Food Services,291.4
+Aug-2024,New South Wales,Accommodation and Food Services,303.5
+Nov-2024,New South Wales,Accommodation and Food Services,313.0
+Feb-2025,New South Wales,Accommodation and Food Services,311.7
+May-2025,New South Wales,Accommodation and Food Services,275.0
+Aug-2025,New South Wales,Accommodation and Food Services,274.7
+Nov-2025,New South Wales,Accommodation and Food Services,295.0
+Feb-2026,New South Wales,Accommodation and Food Services,293.1
+Nov-1984,New South Wales,"Professional, Scientific and Technical Services",98.4
+Feb-1985,New South Wales,"Professional, Scientific and Technical Services",101.0
+May-1985,New South Wales,"Professional, Scientific and Technical Services",92.1
+Aug-1985,New South Wales,"Professional, Scientific and Technical Services",95.3
+Nov-1985,New South Wales,"Professional, Scientific and Technical Services",100.1
+Feb-1986,New South Wales,"Professional, Scientific and Technical Services",105.0
+May-1986,New South Wales,"Professional, Scientific and Technical Services",106.9
+Aug-1986,New South Wales,"Professional, Scientific and Technical Services",103.9
+Nov-1986,New South Wales,"Professional, Scientific and Technical Services",107.6
+Feb-1987,New South Wales,"Professional, Scientific and Technical Services",107.1
+May-1987,New South Wales,"Professional, Scientific and Technical Services",110.0
+Aug-1987,New South Wales,"Professional, Scientific and Technical Services",110.0
+Nov-1987,New South Wales,"Professional, Scientific and Technical Services",114.4
+Feb-1988,New South Wales,"Professional, Scientific and Technical Services",112.9
+May-1988,New South Wales,"Professional, Scientific and Technical Services",114.4
+Aug-1988,New South Wales,"Professional, Scientific and Technical Services",123.7
+Nov-1988,New South Wales,"Professional, Scientific and Technical Services",122.0
+Feb-1989,New South Wales,"Professional, Scientific and Technical Services",125.6
+May-1989,New South Wales,"Professional, Scientific and Technical Services",125.4
+Aug-1989,New South Wales,"Professional, Scientific and Technical Services",132.6
+Nov-1989,New South Wales,"Professional, Scientific and Technical Services",138.0
+Feb-1990,New South Wales,"Professional, Scientific and Technical Services",138.8
+May-1990,New South Wales,"Professional, Scientific and Technical Services",128.2
+Aug-1990,New South Wales,"Professional, Scientific and Technical Services",129.7
+Nov-1990,New South Wales,"Professional, Scientific and Technical Services",127.6
+Feb-1991,New South Wales,"Professional, Scientific and Technical Services",133.7
+May-1991,New South Wales,"Professional, Scientific and Technical Services",140.7
+Aug-1991,New South Wales,"Professional, Scientific and Technical Services",145.4
+Nov-1991,New South Wales,"Professional, Scientific and Technical Services",139.9
+Feb-1992,New South Wales,"Professional, Scientific and Technical Services",140.2
+May-1992,New South Wales,"Professional, Scientific and Technical Services",148.4
+Aug-1992,New South Wales,"Professional, Scientific and Technical Services",145.1
+Nov-1992,New South Wales,"Professional, Scientific and Technical Services",138.6
+Feb-1993,New South Wales,"Professional, Scientific and Technical Services",127.5
+May-1993,New South Wales,"Professional, Scientific and Technical Services",125.0
+Aug-1993,New South Wales,"Professional, Scientific and Technical Services",131.1
+Nov-1993,New South Wales,"Professional, Scientific and Technical Services",136.5
+Feb-1994,New South Wales,"Professional, Scientific and Technical Services",145.3
+May-1994,New South Wales,"Professional, Scientific and Technical Services",139.4
+Aug-1994,New South Wales,"Professional, Scientific and Technical Services",137.8
+Nov-1994,New South Wales,"Professional, Scientific and Technical Services",137.8
+Feb-1995,New South Wales,"Professional, Scientific and Technical Services",141.8
+May-1995,New South Wales,"Professional, Scientific and Technical Services",153.1
+Aug-1995,New South Wales,"Professional, Scientific and Technical Services",161.2
+Nov-1995,New South Wales,"Professional, Scientific and Technical Services",161.7
+Feb-1996,New South Wales,"Professional, Scientific and Technical Services",167.2
+May-1996,New South Wales,"Professional, Scientific and Technical Services",177.5
+Aug-1996,New South Wales,"Professional, Scientific and Technical Services",180.7
+Nov-1996,New South Wales,"Professional, Scientific and Technical Services",169.9
+Feb-1997,New South Wales,"Professional, Scientific and Technical Services",175.1
+May-1997,New South Wales,"Professional, Scientific and Technical Services",178.8
+Aug-1997,New South Wales,"Professional, Scientific and Technical Services",180.2
+Nov-1997,New South Wales,"Professional, Scientific and Technical Services",177.0
+Feb-1998,New South Wales,"Professional, Scientific and Technical Services",186.3
+May-1998,New South Wales,"Professional, Scientific and Technical Services",185.2
+Aug-1998,New South Wales,"Professional, Scientific and Technical Services",188.8
+Nov-1998,New South Wales,"Professional, Scientific and Technical Services",191.4
+Feb-1999,New South Wales,"Professional, Scientific and Technical Services",199.7
+May-1999,New South Wales,"Professional, Scientific and Technical Services",207.6
+Aug-1999,New South Wales,"Professional, Scientific and Technical Services",190.5
+Nov-1999,New South Wales,"Professional, Scientific and Technical Services",204.1
+Feb-2000,New South Wales,"Professional, Scientific and Technical Services",207.8
+May-2000,New South Wales,"Professional, Scientific and Technical Services",208.8
+Aug-2000,New South Wales,"Professional, Scientific and Technical Services",219.3
+Nov-2000,New South Wales,"Professional, Scientific and Technical Services",222.9
+Feb-2001,New South Wales,"Professional, Scientific and Technical Services",240.0
+May-2001,New South Wales,"Professional, Scientific and Technical Services",233.7
+Aug-2001,New South Wales,"Professional, Scientific and Technical Services",221.0
+Nov-2001,New South Wales,"Professional, Scientific and Technical Services",214.5
+Feb-2002,New South Wales,"Professional, Scientific and Technical Services",226.2
+May-2002,New South Wales,"Professional, Scientific and Technical Services",227.7
+Aug-2002,New South Wales,"Professional, Scientific and Technical Services",238.8
+Nov-2002,New South Wales,"Professional, Scientific and Technical Services",225.1
+Feb-2003,New South Wales,"Professional, Scientific and Technical Services",215.1
+May-2003,New South Wales,"Professional, Scientific and Technical Services",226.5
+Aug-2003,New South Wales,"Professional, Scientific and Technical Services",232.4
+Nov-2003,New South Wales,"Professional, Scientific and Technical Services",244.8
+Feb-2004,New South Wales,"Professional, Scientific and Technical Services",226.6
+May-2004,New South Wales,"Professional, Scientific and Technical Services",230.0
+Aug-2004,New South Wales,"Professional, Scientific and Technical Services",224.5
+Nov-2004,New South Wales,"Professional, Scientific and Technical Services",228.7
+Feb-2005,New South Wales,"Professional, Scientific and Technical Services",236.5
+May-2005,New South Wales,"Professional, Scientific and Technical Services",249.4
+Aug-2005,New South Wales,"Professional, Scientific and Technical Services",248.5
+Nov-2005,New South Wales,"Professional, Scientific and Technical Services",255.1
+Feb-2006,New South Wales,"Professional, Scientific and Technical Services",262.8
+May-2006,New South Wales,"Professional, Scientific and Technical Services",258.2
+Aug-2006,New South Wales,"Professional, Scientific and Technical Services",259.7
+Nov-2006,New South Wales,"Professional, Scientific and Technical Services",270.3
+Feb-2007,New South Wales,"Professional, Scientific and Technical Services",248.7
+May-2007,New South Wales,"Professional, Scientific and Technical Services",252.1
+Aug-2007,New South Wales,"Professional, Scientific and Technical Services",246.4
+Nov-2007,New South Wales,"Professional, Scientific and Technical Services",244.3
+Feb-2008,New South Wales,"Professional, Scientific and Technical Services",278.0
+May-2008,New South Wales,"Professional, Scientific and Technical Services",286.5
+Aug-2008,New South Wales,"Professional, Scientific and Technical Services",278.1
+Nov-2008,New South Wales,"Professional, Scientific and Technical Services",279.6
+Feb-2009,New South Wales,"Professional, Scientific and Technical Services",267.1
+May-2009,New South Wales,"Professional, Scientific and Technical Services",269.2
+Aug-2009,New South Wales,"Professional, Scientific and Technical Services",274.0
+Nov-2009,New South Wales,"Professional, Scientific and Technical Services",275.6
+Feb-2010,New South Wales,"Professional, Scientific and Technical Services",300.0
+May-2010,New South Wales,"Professional, Scientific and Technical Services",292.8
+Aug-2010,New South Wales,"Professional, Scientific and Technical Services",309.0
+Nov-2010,New South Wales,"Professional, Scientific and Technical Services",298.5
+Feb-2011,New South Wales,"Professional, Scientific and Technical Services",302.6
+May-2011,New South Wales,"Professional, Scientific and Technical Services",287.8
+Aug-2011,New South Wales,"Professional, Scientific and Technical Services",303.0
+Nov-2011,New South Wales,"Professional, Scientific and Technical Services",301.1
+Feb-2012,New South Wales,"Professional, Scientific and Technical Services",311.4
+May-2012,New South Wales,"Professional, Scientific and Technical Services",330.2
+Aug-2012,New South Wales,"Professional, Scientific and Technical Services",310.6
+Nov-2012,New South Wales,"Professional, Scientific and Technical Services",304.4
+Feb-2013,New South Wales,"Professional, Scientific and Technical Services",299.4
+May-2013,New South Wales,"Professional, Scientific and Technical Services",303.3
+Aug-2013,New South Wales,"Professional, Scientific and Technical Services",293.0
+Nov-2013,New South Wales,"Professional, Scientific and Technical Services",304.1
+Feb-2014,New South Wales,"Professional, Scientific and Technical Services",297.5
+May-2014,New South Wales,"Professional, Scientific and Technical Services",312.0
+Aug-2014,New South Wales,"Professional, Scientific and Technical Services",296.3
+Nov-2014,New South Wales,"Professional, Scientific and Technical Services",316.9
+Feb-2015,New South Wales,"Professional, Scientific and Technical Services",328.3
+May-2015,New South Wales,"Professional, Scientific and Technical Services",354.3
+Aug-2015,New South Wales,"Professional, Scientific and Technical Services",347.3
+Nov-2015,New South Wales,"Professional, Scientific and Technical Services",373.8
+Feb-2016,New South Wales,"Professional, Scientific and Technical Services",371.3
+May-2016,New South Wales,"Professional, Scientific and Technical Services",357.7
+Aug-2016,New South Wales,"Professional, Scientific and Technical Services",374.5
+Nov-2016,New South Wales,"Professional, Scientific and Technical Services",371.9
+Feb-2017,New South Wales,"Professional, Scientific and Technical Services",377.9
+May-2017,New South Wales,"Professional, Scientific and Technical Services",396.9
+Aug-2017,New South Wales,"Professional, Scientific and Technical Services",373.0
+Nov-2017,New South Wales,"Professional, Scientific and Technical Services",354.4
+Feb-2018,New South Wales,"Professional, Scientific and Technical Services",363.4
+May-2018,New South Wales,"Professional, Scientific and Technical Services",387.6
+Aug-2018,New South Wales,"Professional, Scientific and Technical Services",423.1
+Nov-2018,New South Wales,"Professional, Scientific and Technical Services",407.9
+Feb-2019,New South Wales,"Professional, Scientific and Technical Services",418.1
+May-2019,New South Wales,"Professional, Scientific and Technical Services",401.4
+Aug-2019,New South Wales,"Professional, Scientific and Technical Services",403.4
+Nov-2019,New South Wales,"Professional, Scientific and Technical Services",410.0
+Feb-2020,New South Wales,"Professional, Scientific and Technical Services",416.2
+May-2020,New South Wales,"Professional, Scientific and Technical Services",380.4
+Aug-2020,New South Wales,"Professional, Scientific and Technical Services",395.2
+Nov-2020,New South Wales,"Professional, Scientific and Technical Services",421.1
+Feb-2021,New South Wales,"Professional, Scientific and Technical Services",438.4
+May-2021,New South Wales,"Professional, Scientific and Technical Services",437.8
+Aug-2021,New South Wales,"Professional, Scientific and Technical Services",415.8
+Nov-2021,New South Wales,"Professional, Scientific and Technical Services",414.2
+Feb-2022,New South Wales,"Professional, Scientific and Technical Services",414.8
+May-2022,New South Wales,"Professional, Scientific and Technical Services",440.4
+Aug-2022,New South Wales,"Professional, Scientific and Technical Services",440.5
+Nov-2022,New South Wales,"Professional, Scientific and Technical Services",448.5
+Feb-2023,New South Wales,"Professional, Scientific and Technical Services",452.2
+May-2023,New South Wales,"Professional, Scientific and Technical Services",457.0
+Aug-2023,New South Wales,"Professional, Scientific and Technical Services",452.3
+Nov-2023,New South Wales,"Professional, Scientific and Technical Services",447.7
+Feb-2024,New South Wales,"Professional, Scientific and Technical Services",463.4
+May-2024,New South Wales,"Professional, Scientific and Technical Services",496.0
+Aug-2024,New South Wales,"Professional, Scientific and Technical Services",452.7
+Nov-2024,New South Wales,"Professional, Scientific and Technical Services",439.4
+Feb-2025,New South Wales,"Professional, Scientific and Technical Services",413.5
+May-2025,New South Wales,"Professional, Scientific and Technical Services",471.8
+Aug-2025,New South Wales,"Professional, Scientific and Technical Services",476.0
+Nov-2025,New South Wales,"Professional, Scientific and Technical Services",462.0
+Feb-2026,New South Wales,"Professional, Scientific and Technical Services",520.0
+Nov-1984,New South Wales,Education and Training,150.3
+Feb-1985,New South Wales,Education and Training,138.0
+May-1985,New South Wales,Education and Training,134.5
+Aug-1985,New South Wales,Education and Training,133.3
+Nov-1985,New South Wales,Education and Training,143.9
+Feb-1986,New South Wales,Education and Training,127.8
+May-1986,New South Wales,Education and Training,128.9
+Aug-1986,New South Wales,Education and Training,141.0
+Nov-1986,New South Wales,Education and Training,157.4
+Feb-1987,New South Wales,Education and Training,146.8
+May-1987,New South Wales,Education and Training,158.6
+Aug-1987,New South Wales,Education and Training,153.8
+Nov-1987,New South Wales,Education and Training,150.6
+Feb-1988,New South Wales,Education and Training,147.0
+May-1988,New South Wales,Education and Training,157.9
+Aug-1988,New South Wales,Education and Training,154.9
+Nov-1988,New South Wales,Education and Training,160.3
+Feb-1989,New South Wales,Education and Training,143.3
+May-1989,New South Wales,Education and Training,159.2
+Aug-1989,New South Wales,Education and Training,165.1
+Nov-1989,New South Wales,Education and Training,168.2
+Feb-1990,New South Wales,Education and Training,157.5
+May-1990,New South Wales,Education and Training,178.1
+Aug-1990,New South Wales,Education and Training,176.6
+Nov-1990,New South Wales,Education and Training,172.1
+Feb-1991,New South Wales,Education and Training,162.6
+May-1991,New South Wales,Education and Training,174.9
+Aug-1991,New South Wales,Education and Training,187.0
+Nov-1991,New South Wales,Education and Training,171.8
+Feb-1992,New South Wales,Education and Training,163.8
+May-1992,New South Wales,Education and Training,181.5
+Aug-1992,New South Wales,Education and Training,189.2
+Nov-1992,New South Wales,Education and Training,175.8
+Feb-1993,New South Wales,Education and Training,161.9
+May-1993,New South Wales,Education and Training,176.7
+Aug-1993,New South Wales,Education and Training,186.0
+Nov-1993,New South Wales,Education and Training,177.0
+Feb-1994,New South Wales,Education and Training,160.3
+May-1994,New South Wales,Education and Training,188.2
+Aug-1994,New South Wales,Education and Training,185.8
+Nov-1994,New South Wales,Education and Training,188.4
+Feb-1995,New South Wales,Education and Training,172.3
+May-1995,New South Wales,Education and Training,193.8
+Aug-1995,New South Wales,Education and Training,191.9
+Nov-1995,New South Wales,Education and Training,199.5
+Feb-1996,New South Wales,Education and Training,187.4
+May-1996,New South Wales,Education and Training,206.9
+Aug-1996,New South Wales,Education and Training,206.3
+Nov-1996,New South Wales,Education and Training,202.9
+Feb-1997,New South Wales,Education and Training,185.2
+May-1997,New South Wales,Education and Training,198.7
+Aug-1997,New South Wales,Education and Training,197.8
+Nov-1997,New South Wales,Education and Training,193.5
+Feb-1998,New South Wales,Education and Training,180.1
+May-1998,New South Wales,Education and Training,198.7
+Aug-1998,New South Wales,Education and Training,204.6
+Nov-1998,New South Wales,Education and Training,205.5
+Feb-1999,New South Wales,Education and Training,210.3
+May-1999,New South Wales,Education and Training,217.3
+Aug-1999,New South Wales,Education and Training,216.6
+Nov-1999,New South Wales,Education and Training,205.3
+Feb-2000,New South Wales,Education and Training,188.0
+May-2000,New South Wales,Education and Training,209.7
+Aug-2000,New South Wales,Education and Training,209.3
+Nov-2000,New South Wales,Education and Training,216.4
+Feb-2001,New South Wales,Education and Training,193.1
+May-2001,New South Wales,Education and Training,203.8
+Aug-2001,New South Wales,Education and Training,215.5
+Nov-2001,New South Wales,Education and Training,218.9
+Feb-2002,New South Wales,Education and Training,203.9
+May-2002,New South Wales,Education and Training,214.0
+Aug-2002,New South Wales,Education and Training,224.7
+Nov-2002,New South Wales,Education and Training,218.7
+Feb-2003,New South Wales,Education and Training,210.3
+May-2003,New South Wales,Education and Training,217.5
+Aug-2003,New South Wales,Education and Training,237.9
+Nov-2003,New South Wales,Education and Training,224.1
+Feb-2004,New South Wales,Education and Training,214.3
+May-2004,New South Wales,Education and Training,239.5
+Aug-2004,New South Wales,Education and Training,232.4
+Nov-2004,New South Wales,Education and Training,218.1
+Feb-2005,New South Wales,Education and Training,191.4
+May-2005,New South Wales,Education and Training,209.4
+Aug-2005,New South Wales,Education and Training,227.6
+Nov-2005,New South Wales,Education and Training,243.3
+Feb-2006,New South Wales,Education and Training,242.0
+May-2006,New South Wales,Education and Training,236.3
+Aug-2006,New South Wales,Education and Training,218.0
+Nov-2006,New South Wales,Education and Training,231.3
+Feb-2007,New South Wales,Education and Training,226.0
+May-2007,New South Wales,Education and Training,234.6
+Aug-2007,New South Wales,Education and Training,226.9
+Nov-2007,New South Wales,Education and Training,234.7
+Feb-2008,New South Wales,Education and Training,234.7
+May-2008,New South Wales,Education and Training,257.7
+Aug-2008,New South Wales,Education and Training,239.7
+Nov-2008,New South Wales,Education and Training,245.0
+Feb-2009,New South Wales,Education and Training,227.5
+May-2009,New South Wales,Education and Training,233.4
+Aug-2009,New South Wales,Education and Training,246.0
+Nov-2009,New South Wales,Education and Training,253.0
+Feb-2010,New South Wales,Education and Training,230.4
+May-2010,New South Wales,Education and Training,251.1
+Aug-2010,New South Wales,Education and Training,269.7
+Nov-2010,New South Wales,Education and Training,263.2
+Feb-2011,New South Wales,Education and Training,247.7
+May-2011,New South Wales,Education and Training,269.5
+Aug-2011,New South Wales,Education and Training,253.4
+Nov-2011,New South Wales,Education and Training,252.2
+Feb-2012,New South Wales,Education and Training,230.8
+May-2012,New South Wales,Education and Training,271.3
+Aug-2012,New South Wales,Education and Training,260.5
+Nov-2012,New South Wales,Education and Training,261.4
+Feb-2013,New South Wales,Education and Training,262.7
+May-2013,New South Wales,Education and Training,289.4
+Aug-2013,New South Wales,Education and Training,278.3
+Nov-2013,New South Wales,Education and Training,282.6
+Feb-2014,New South Wales,Education and Training,284.0
+May-2014,New South Wales,Education and Training,278.2
+Aug-2014,New South Wales,Education and Training,305.2
+Nov-2014,New South Wales,Education and Training,284.0
+Feb-2015,New South Wales,Education and Training,275.0
+May-2015,New South Wales,Education and Training,285.8
+Aug-2015,New South Wales,Education and Training,294.3
+Nov-2015,New South Wales,Education and Training,299.4
+Feb-2016,New South Wales,Education and Training,280.9
+May-2016,New South Wales,Education and Training,313.6
+Aug-2016,New South Wales,Education and Training,306.7
+Nov-2016,New South Wales,Education and Training,319.5
+Feb-2017,New South Wales,Education and Training,299.1
+May-2017,New South Wales,Education and Training,300.0
+Aug-2017,New South Wales,Education and Training,326.0
+Nov-2017,New South Wales,Education and Training,328.2
+Feb-2018,New South Wales,Education and Training,322.8
+May-2018,New South Wales,Education and Training,302.9
+Aug-2018,New South Wales,Education and Training,317.2
+Nov-2018,New South Wales,Education and Training,331.6
+Feb-2019,New South Wales,Education and Training,291.8
+May-2019,New South Wales,Education and Training,314.8
+Aug-2019,New South Wales,Education and Training,328.1
+Nov-2019,New South Wales,Education and Training,330.2
+Feb-2020,New South Wales,Education and Training,319.4
+May-2020,New South Wales,Education and Training,315.1
+Aug-2020,New South Wales,Education and Training,337.0
+Nov-2020,New South Wales,Education and Training,352.9
+Feb-2021,New South Wales,Education and Training,334.4
+May-2021,New South Wales,Education and Training,377.9
+Aug-2021,New South Wales,Education and Training,353.3
+Nov-2021,New South Wales,Education and Training,359.2
+Feb-2022,New South Wales,Education and Training,331.2
+May-2022,New South Wales,Education and Training,337.4
+Aug-2022,New South Wales,Education and Training,341.6
+Nov-2022,New South Wales,Education and Training,353.9
+Feb-2023,New South Wales,Education and Training,344.1
+May-2023,New South Wales,Education and Training,343.1
+Aug-2023,New South Wales,Education and Training,351.3
+Nov-2023,New South Wales,Education and Training,377.3
+Feb-2024,New South Wales,Education and Training,362.1
+May-2024,New South Wales,Education and Training,382.4
+Aug-2024,New South Wales,Education and Training,397.2
+Nov-2024,New South Wales,Education and Training,401.3
+Feb-2025,New South Wales,Education and Training,378.8
+May-2025,New South Wales,Education and Training,399.0
+Aug-2025,New South Wales,Education and Training,422.6
+Nov-2025,New South Wales,Education and Training,427.7
+Feb-2026,New South Wales,Education and Training,390.0
+Nov-1984,New South Wales,Health Care and Social Assistance,184.8
+Feb-1985,New South Wales,Health Care and Social Assistance,192.8
+May-1985,New South Wales,Health Care and Social Assistance,175.1
+Aug-1985,New South Wales,Health Care and Social Assistance,181.5
+Nov-1985,New South Wales,Health Care and Social Assistance,185.4
+Feb-1986,New South Wales,Health Care and Social Assistance,188.7
+May-1986,New South Wales,Health Care and Social Assistance,190.1
+Aug-1986,New South Wales,Health Care and Social Assistance,185.9
+Nov-1986,New South Wales,Health Care and Social Assistance,191.8
+Feb-1987,New South Wales,Health Care and Social Assistance,196.3
+May-1987,New South Wales,Health Care and Social Assistance,197.6
+Aug-1987,New South Wales,Health Care and Social Assistance,199.0
+Nov-1987,New South Wales,Health Care and Social Assistance,196.3
+Feb-1988,New South Wales,Health Care and Social Assistance,197.9
+May-1988,New South Wales,Health Care and Social Assistance,214.1
+Aug-1988,New South Wales,Health Care and Social Assistance,215.8
+Nov-1988,New South Wales,Health Care and Social Assistance,207.0
+Feb-1989,New South Wales,Health Care and Social Assistance,215.5
+May-1989,New South Wales,Health Care and Social Assistance,226.5
+Aug-1989,New South Wales,Health Care and Social Assistance,212.9
+Nov-1989,New South Wales,Health Care and Social Assistance,210.2
+Feb-1990,New South Wales,Health Care and Social Assistance,201.5
+May-1990,New South Wales,Health Care and Social Assistance,213.9
+Aug-1990,New South Wales,Health Care and Social Assistance,224.1
+Nov-1990,New South Wales,Health Care and Social Assistance,221.1
+Feb-1991,New South Wales,Health Care and Social Assistance,220.4
+May-1991,New South Wales,Health Care and Social Assistance,233.0
+Aug-1991,New South Wales,Health Care and Social Assistance,230.2
+Nov-1991,New South Wales,Health Care and Social Assistance,234.2
+Feb-1992,New South Wales,Health Care and Social Assistance,232.4
+May-1992,New South Wales,Health Care and Social Assistance,222.8
+Aug-1992,New South Wales,Health Care and Social Assistance,232.6
+Nov-1992,New South Wales,Health Care and Social Assistance,224.4
+Feb-1993,New South Wales,Health Care and Social Assistance,223.9
+May-1993,New South Wales,Health Care and Social Assistance,218.9
+Aug-1993,New South Wales,Health Care and Social Assistance,228.7
+Nov-1993,New South Wales,Health Care and Social Assistance,228.9
+Feb-1994,New South Wales,Health Care and Social Assistance,243.2
+May-1994,New South Wales,Health Care and Social Assistance,250.5
+Aug-1994,New South Wales,Health Care and Social Assistance,229.0
+Nov-1994,New South Wales,Health Care and Social Assistance,239.5
+Feb-1995,New South Wales,Health Care and Social Assistance,236.0
+May-1995,New South Wales,Health Care and Social Assistance,240.8
+Aug-1995,New South Wales,Health Care and Social Assistance,249.4
+Nov-1995,New South Wales,Health Care and Social Assistance,247.1
+Feb-1996,New South Wales,Health Care and Social Assistance,243.1
+May-1996,New South Wales,Health Care and Social Assistance,245.3
+Aug-1996,New South Wales,Health Care and Social Assistance,235.1
+Nov-1996,New South Wales,Health Care and Social Assistance,256.4
+Feb-1997,New South Wales,Health Care and Social Assistance,239.8
+May-1997,New South Wales,Health Care and Social Assistance,252.3
+Aug-1997,New South Wales,Health Care and Social Assistance,255.5
+Nov-1997,New South Wales,Health Care and Social Assistance,268.9
+Feb-1998,New South Wales,Health Care and Social Assistance,260.7
+May-1998,New South Wales,Health Care and Social Assistance,260.8
+Aug-1998,New South Wales,Health Care and Social Assistance,246.8
+Nov-1998,New South Wales,Health Care and Social Assistance,251.8
+Feb-1999,New South Wales,Health Care and Social Assistance,273.8
+May-1999,New South Wales,Health Care and Social Assistance,278.7
+Aug-1999,New South Wales,Health Care and Social Assistance,274.0
+Nov-1999,New South Wales,Health Care and Social Assistance,275.8
+Feb-2000,New South Wales,Health Care and Social Assistance,271.9
+May-2000,New South Wales,Health Care and Social Assistance,283.3
+Aug-2000,New South Wales,Health Care and Social Assistance,267.6
+Nov-2000,New South Wales,Health Care and Social Assistance,263.7
+Feb-2001,New South Wales,Health Care and Social Assistance,281.2
+May-2001,New South Wales,Health Care and Social Assistance,302.7
+Aug-2001,New South Wales,Health Care and Social Assistance,290.8
+Nov-2001,New South Wales,Health Care and Social Assistance,299.7
+Feb-2002,New South Wales,Health Care and Social Assistance,302.6
+May-2002,New South Wales,Health Care and Social Assistance,302.5
+Aug-2002,New South Wales,Health Care and Social Assistance,299.4
+Nov-2002,New South Wales,Health Care and Social Assistance,307.8
+Feb-2003,New South Wales,Health Care and Social Assistance,303.7
+May-2003,New South Wales,Health Care and Social Assistance,310.0
+Aug-2003,New South Wales,Health Care and Social Assistance,287.5
+Nov-2003,New South Wales,Health Care and Social Assistance,308.8
+Feb-2004,New South Wales,Health Care and Social Assistance,311.8
+May-2004,New South Wales,Health Care and Social Assistance,305.3
+Aug-2004,New South Wales,Health Care and Social Assistance,310.9
+Nov-2004,New South Wales,Health Care and Social Assistance,298.9
+Feb-2005,New South Wales,Health Care and Social Assistance,314.7
+May-2005,New South Wales,Health Care and Social Assistance,303.8
+Aug-2005,New South Wales,Health Care and Social Assistance,316.2
+Nov-2005,New South Wales,Health Care and Social Assistance,304.3
+Feb-2006,New South Wales,Health Care and Social Assistance,329.0
+May-2006,New South Wales,Health Care and Social Assistance,331.5
+Aug-2006,New South Wales,Health Care and Social Assistance,311.5
+Nov-2006,New South Wales,Health Care and Social Assistance,332.5
+Feb-2007,New South Wales,Health Care and Social Assistance,338.3
+May-2007,New South Wales,Health Care and Social Assistance,355.2
+Aug-2007,New South Wales,Health Care and Social Assistance,335.6
+Nov-2007,New South Wales,Health Care and Social Assistance,355.0
+Feb-2008,New South Wales,Health Care and Social Assistance,353.6
+May-2008,New South Wales,Health Care and Social Assistance,350.4
+Aug-2008,New South Wales,Health Care and Social Assistance,361.4
+Nov-2008,New South Wales,Health Care and Social Assistance,345.9
+Feb-2009,New South Wales,Health Care and Social Assistance,351.1
+May-2009,New South Wales,Health Care and Social Assistance,365.8
+Aug-2009,New South Wales,Health Care and Social Assistance,376.6
+Nov-2009,New South Wales,Health Care and Social Assistance,371.2
+Feb-2010,New South Wales,Health Care and Social Assistance,378.2
+May-2010,New South Wales,Health Care and Social Assistance,388.1
+Aug-2010,New South Wales,Health Care and Social Assistance,407.6
+Nov-2010,New South Wales,Health Care and Social Assistance,414.3
+Feb-2011,New South Wales,Health Care and Social Assistance,411.7
+May-2011,New South Wales,Health Care and Social Assistance,384.9
+Aug-2011,New South Wales,Health Care and Social Assistance,414.4
+Nov-2011,New South Wales,Health Care and Social Assistance,422.4
+Feb-2012,New South Wales,Health Care and Social Assistance,410.8
+May-2012,New South Wales,Health Care and Social Assistance,421.9
+Aug-2012,New South Wales,Health Care and Social Assistance,414.7
+Nov-2012,New South Wales,Health Care and Social Assistance,421.3
+Feb-2013,New South Wales,Health Care and Social Assistance,435.2
+May-2013,New South Wales,Health Care and Social Assistance,427.1
+Aug-2013,New South Wales,Health Care and Social Assistance,447.2
+Nov-2013,New South Wales,Health Care and Social Assistance,441.5
+Feb-2014,New South Wales,Health Care and Social Assistance,464.0
+May-2014,New South Wales,Health Care and Social Assistance,418.0
+Aug-2014,New South Wales,Health Care and Social Assistance,431.8
+Nov-2014,New South Wales,Health Care and Social Assistance,427.9
+Feb-2015,New South Wales,Health Care and Social Assistance,462.4
+May-2015,New South Wales,Health Care and Social Assistance,484.6
+Aug-2015,New South Wales,Health Care and Social Assistance,478.0
+Nov-2015,New South Wales,Health Care and Social Assistance,495.9
+Feb-2016,New South Wales,Health Care and Social Assistance,489.0
+May-2016,New South Wales,Health Care and Social Assistance,497.0
+Aug-2016,New South Wales,Health Care and Social Assistance,489.7
+Nov-2016,New South Wales,Health Care and Social Assistance,493.0
+Feb-2017,New South Wales,Health Care and Social Assistance,476.7
+May-2017,New South Wales,Health Care and Social Assistance,493.4
+Aug-2017,New South Wales,Health Care and Social Assistance,513.6
+Nov-2017,New South Wales,Health Care and Social Assistance,534.5
+Feb-2018,New South Wales,Health Care and Social Assistance,523.2
+May-2018,New South Wales,Health Care and Social Assistance,511.4
+Aug-2018,New South Wales,Health Care and Social Assistance,511.5
+Nov-2018,New South Wales,Health Care and Social Assistance,531.4
+Feb-2019,New South Wales,Health Care and Social Assistance,516.9
+May-2019,New South Wales,Health Care and Social Assistance,535.4
+Aug-2019,New South Wales,Health Care and Social Assistance,562.6
+Nov-2019,New South Wales,Health Care and Social Assistance,563.2
+Feb-2020,New South Wales,Health Care and Social Assistance,574.4
+May-2020,New South Wales,Health Care and Social Assistance,526.2
+Aug-2020,New South Wales,Health Care and Social Assistance,531.6
+Nov-2020,New South Wales,Health Care and Social Assistance,512.7
+Feb-2021,New South Wales,Health Care and Social Assistance,527.0
+May-2021,New South Wales,Health Care and Social Assistance,562.0
+Aug-2021,New South Wales,Health Care and Social Assistance,561.2
+Nov-2021,New South Wales,Health Care and Social Assistance,564.9
+Feb-2022,New South Wales,Health Care and Social Assistance,615.0
+May-2022,New South Wales,Health Care and Social Assistance,587.4
+Aug-2022,New South Wales,Health Care and Social Assistance,609.4
+Nov-2022,New South Wales,Health Care and Social Assistance,631.8
+Feb-2023,New South Wales,Health Care and Social Assistance,635.2
+May-2023,New South Wales,Health Care and Social Assistance,645.4
+Aug-2023,New South Wales,Health Care and Social Assistance,633.6
+Nov-2023,New South Wales,Health Care and Social Assistance,669.7
+Feb-2024,New South Wales,Health Care and Social Assistance,669.4
+May-2024,New South Wales,Health Care and Social Assistance,684.5
+Aug-2024,New South Wales,Health Care and Social Assistance,682.9
+Nov-2024,New South Wales,Health Care and Social Assistance,683.6
+Feb-2025,New South Wales,Health Care and Social Assistance,711.7
+May-2025,New South Wales,Health Care and Social Assistance,716.6
+Aug-2025,New South Wales,Health Care and Social Assistance,681.0
+Nov-2025,New South Wales,Health Care and Social Assistance,655.6
+Feb-2026,New South Wales,Health Care and Social Assistance,686.5
+Nov-1984,Victoria,Manufacturing,373.1
+Feb-1985,Victoria,Manufacturing,381.7
+May-1985,Victoria,Manufacturing,370.9
+Aug-1985,Victoria,Manufacturing,378.5
+Nov-1985,Victoria,Manufacturing,362.8
+Feb-1986,Victoria,Manufacturing,357.1
+May-1986,Victoria,Manufacturing,355.5
+Aug-1986,Victoria,Manufacturing,351.0
+Nov-1986,Victoria,Manufacturing,353.0
+Feb-1987,Victoria,Manufacturing,357.2
+May-1987,Victoria,Manufacturing,369.6
+Aug-1987,Victoria,Manufacturing,369.3
+Nov-1987,Victoria,Manufacturing,379.1
+Feb-1988,Victoria,Manufacturing,369.3
+May-1988,Victoria,Manufacturing,362.8
+Aug-1988,Victoria,Manufacturing,383.6
+Nov-1988,Victoria,Manufacturing,371.8
+Feb-1989,Victoria,Manufacturing,371.5
+May-1989,Victoria,Manufacturing,382.2
+Aug-1989,Victoria,Manufacturing,379.8
+Nov-1989,Victoria,Manufacturing,375.7
+Feb-1990,Victoria,Manufacturing,363.4
+May-1990,Victoria,Manufacturing,362.7
+Aug-1990,Victoria,Manufacturing,367.7
+Nov-1990,Victoria,Manufacturing,353.1
+Feb-1991,Victoria,Manufacturing,347.9
+May-1991,Victoria,Manufacturing,339.5
+Aug-1991,Victoria,Manufacturing,346.5
+Nov-1991,Victoria,Manufacturing,347.9
+Feb-1992,Victoria,Manufacturing,326.4
+May-1992,Victoria,Manufacturing,337.9
+Aug-1992,Victoria,Manufacturing,333.2
+Nov-1992,Victoria,Manufacturing,337.9
+Feb-1993,Victoria,Manufacturing,323.2
+May-1993,Victoria,Manufacturing,323.1
+Aug-1993,Victoria,Manufacturing,317.6
+Nov-1993,Victoria,Manufacturing,323.9
+Feb-1994,Victoria,Manufacturing,322.3
+May-1994,Victoria,Manufacturing,324.6
+Aug-1994,Victoria,Manufacturing,326.9
+Nov-1994,Victoria,Manufacturing,343.6
+Feb-1995,Victoria,Manufacturing,340.4
+May-1995,Victoria,Manufacturing,324.5
+Aug-1995,Victoria,Manufacturing,335.8
+Nov-1995,Victoria,Manufacturing,347.8
+Feb-1996,Victoria,Manufacturing,338.0
+May-1996,Victoria,Manufacturing,349.6
+Aug-1996,Victoria,Manufacturing,350.7
+Nov-1996,Victoria,Manufacturing,347.3
+Feb-1997,Victoria,Manufacturing,341.7
+May-1997,Victoria,Manufacturing,337.6
+Aug-1997,Victoria,Manufacturing,331.6
+Nov-1997,Victoria,Manufacturing,345.4
+Feb-1998,Victoria,Manufacturing,333.2
+May-1998,Victoria,Manufacturing,323.6
+Aug-1998,Victoria,Manufacturing,325.0
+Nov-1998,Victoria,Manufacturing,315.9
+Feb-1999,Victoria,Manufacturing,335.6
+May-1999,Victoria,Manufacturing,324.2
+Aug-1999,Victoria,Manufacturing,315.3
+Nov-1999,Victoria,Manufacturing,327.8
+Feb-2000,Victoria,Manufacturing,337.8
+May-2000,Victoria,Manufacturing,344.7
+Aug-2000,Victoria,Manufacturing,347.4
+Nov-2000,Victoria,Manufacturing,351.3
+Feb-2001,Victoria,Manufacturing,341.8
+May-2001,Victoria,Manufacturing,342.2
+Aug-2001,Victoria,Manufacturing,337.5
+Nov-2001,Victoria,Manufacturing,335.2
+Feb-2002,Victoria,Manufacturing,324.0
+May-2002,Victoria,Manufacturing,323.0
+Aug-2002,Victoria,Manufacturing,331.0
+Nov-2002,Victoria,Manufacturing,333.2
+Feb-2003,Victoria,Manufacturing,334.4
+May-2003,Victoria,Manufacturing,331.7
+Aug-2003,Victoria,Manufacturing,320.3
+Nov-2003,Victoria,Manufacturing,308.2
+Feb-2004,Victoria,Manufacturing,314.1
+May-2004,Victoria,Manufacturing,329.8
+Aug-2004,Victoria,Manufacturing,333.9
+Nov-2004,Victoria,Manufacturing,321.1
+Feb-2005,Victoria,Manufacturing,325.6
+May-2005,Victoria,Manufacturing,318.6
+Aug-2005,Victoria,Manufacturing,312.1
+Nov-2005,Victoria,Manufacturing,323.2
+Feb-2006,Victoria,Manufacturing,329.0
+May-2006,Victoria,Manufacturing,314.3
+Aug-2006,Victoria,Manufacturing,305.3
+Nov-2006,Victoria,Manufacturing,305.2
+Feb-2007,Victoria,Manufacturing,321.0
+May-2007,Victoria,Manufacturing,335.2
+Aug-2007,Victoria,Manufacturing,319.8
+Nov-2007,Victoria,Manufacturing,319.1
+Feb-2008,Victoria,Manufacturing,326.6
+May-2008,Victoria,Manufacturing,337.2
+Aug-2008,Victoria,Manufacturing,316.8
+Nov-2008,Victoria,Manufacturing,306.0
+Feb-2009,Victoria,Manufacturing,315.3
+May-2009,Victoria,Manufacturing,297.8
+Aug-2009,Victoria,Manufacturing,304.3
+Nov-2009,Victoria,Manufacturing,293.3
+Feb-2010,Victoria,Manufacturing,309.7
+May-2010,Victoria,Manufacturing,289.4
+Aug-2010,Victoria,Manufacturing,299.5
+Nov-2010,Victoria,Manufacturing,304.7
+Feb-2011,Victoria,Manufacturing,301.8
+May-2011,Victoria,Manufacturing,300.6
+Aug-2011,Victoria,Manufacturing,287.6
+Nov-2011,Victoria,Manufacturing,290.5
+Feb-2012,Victoria,Manufacturing,304.8
+May-2012,Victoria,Manufacturing,307.9
+Aug-2012,Victoria,Manufacturing,304.3
+Nov-2012,Victoria,Manufacturing,279.8
+Feb-2013,Victoria,Manufacturing,289.8
+May-2013,Victoria,Manufacturing,287.0
+Aug-2013,Victoria,Manufacturing,283.3
+Nov-2013,Victoria,Manufacturing,270.9
+Feb-2014,Victoria,Manufacturing,280.6
+May-2014,Victoria,Manufacturing,275.5
+Aug-2014,Victoria,Manufacturing,289.3
+Nov-2014,Victoria,Manufacturing,288.1
+Feb-2015,Victoria,Manufacturing,283.6
+May-2015,Victoria,Manufacturing,290.0
+Aug-2015,Victoria,Manufacturing,262.2
+Nov-2015,Victoria,Manufacturing,265.1
+Feb-2016,Victoria,Manufacturing,273.4
+May-2016,Victoria,Manufacturing,278.3
+Aug-2016,Victoria,Manufacturing,276.9
+Nov-2016,Victoria,Manufacturing,308.7
+Feb-2017,Victoria,Manufacturing,282.4
+May-2017,Victoria,Manufacturing,281.0
+Aug-2017,Victoria,Manufacturing,279.7
+Nov-2017,Victoria,Manufacturing,284.4
+Feb-2018,Victoria,Manufacturing,285.5
+May-2018,Victoria,Manufacturing,283.1
+Aug-2018,Victoria,Manufacturing,286.2
+Nov-2018,Victoria,Manufacturing,277.4
+Feb-2019,Victoria,Manufacturing,269.7
+May-2019,Victoria,Manufacturing,270.3
+Aug-2019,Victoria,Manufacturing,272.1
+Nov-2019,Victoria,Manufacturing,298.2
+Feb-2020,Victoria,Manufacturing,291.7
+May-2020,Victoria,Manufacturing,290.4
+Aug-2020,Victoria,Manufacturing,262.7
+Nov-2020,Victoria,Manufacturing,260.4
+Feb-2021,Victoria,Manufacturing,265.6
+May-2021,Victoria,Manufacturing,269.6
+Aug-2021,Victoria,Manufacturing,286.8
+Nov-2021,Victoria,Manufacturing,260.6
+Feb-2022,Victoria,Manufacturing,259.3
+May-2022,Victoria,Manufacturing,244.4
+Aug-2022,Victoria,Manufacturing,255.7
+Nov-2022,Victoria,Manufacturing,260.0
+Feb-2023,Victoria,Manufacturing,256.4
+May-2023,Victoria,Manufacturing,283.0
+Aug-2023,Victoria,Manufacturing,296.8
+Nov-2023,Victoria,Manufacturing,262.1
+Feb-2024,Victoria,Manufacturing,264.5
+May-2024,Victoria,Manufacturing,285.5
+Aug-2024,Victoria,Manufacturing,290.2
+Nov-2024,Victoria,Manufacturing,287.0
+Feb-2025,Victoria,Manufacturing,273.1
+May-2025,Victoria,Manufacturing,249.8
+Aug-2025,Victoria,Manufacturing,246.8
+Nov-2025,Victoria,Manufacturing,268.3
+Feb-2026,Victoria,Manufacturing,267.8
+Nov-1984,Victoria,Construction,108.0
+Feb-1985,Victoria,Construction,128.6
+May-1985,Victoria,Construction,123.7
+Aug-1985,Victoria,Construction,111.2
+Nov-1985,Victoria,Construction,111.3
+Feb-1986,Victoria,Construction,115.1
+May-1986,Victoria,Construction,117.5
+Aug-1986,Victoria,Construction,127.5
+Nov-1986,Victoria,Construction,130.0
+Feb-1987,Victoria,Construction,129.0
+May-1987,Victoria,Construction,130.2
+Aug-1987,Victoria,Construction,129.1
+Nov-1987,Victoria,Construction,127.6
+Feb-1988,Victoria,Construction,123.6
+May-1988,Victoria,Construction,133.4
+Aug-1988,Victoria,Construction,133.3
+Nov-1988,Victoria,Construction,145.2
+Feb-1989,Victoria,Construction,149.4
+May-1989,Victoria,Construction,164.1
+Aug-1989,Victoria,Construction,158.8
+Nov-1989,Victoria,Construction,162.2
+Feb-1990,Victoria,Construction,162.1
+May-1990,Victoria,Construction,146.5
+Aug-1990,Victoria,Construction,150.5
+Nov-1990,Victoria,Construction,143.4
+Feb-1991,Victoria,Construction,137.0
+May-1991,Victoria,Construction,124.9
+Aug-1991,Victoria,Construction,119.0
+Nov-1991,Victoria,Construction,113.4
+Feb-1992,Victoria,Construction,118.4
+May-1992,Victoria,Construction,121.1
+Aug-1992,Victoria,Construction,117.8
+Nov-1992,Victoria,Construction,120.0
+Feb-1993,Victoria,Construction,121.5
+May-1993,Victoria,Construction,116.3
+Aug-1993,Victoria,Construction,111.2
+Nov-1993,Victoria,Construction,117.2
+Feb-1994,Victoria,Construction,119.7
+May-1994,Victoria,Construction,115.8
+Aug-1994,Victoria,Construction,117.9
+Nov-1994,Victoria,Construction,127.2
+Feb-1995,Victoria,Construction,132.2
+May-1995,Victoria,Construction,132.1
+Aug-1995,Victoria,Construction,127.0
+Nov-1995,Victoria,Construction,127.5
+Feb-1996,Victoria,Construction,131.4
+May-1996,Victoria,Construction,137.2
+Aug-1996,Victoria,Construction,133.9
+Nov-1996,Victoria,Construction,133.0
+Feb-1997,Victoria,Construction,121.1
+May-1997,Victoria,Construction,118.7
+Aug-1997,Victoria,Construction,125.7
+Nov-1997,Victoria,Construction,130.9
+Feb-1998,Victoria,Construction,136.7
+May-1998,Victoria,Construction,139.8
+Aug-1998,Victoria,Construction,142.3
+Nov-1998,Victoria,Construction,146.1
+Feb-1999,Victoria,Construction,137.3
+May-1999,Victoria,Construction,143.2
+Aug-1999,Victoria,Construction,148.5
+Nov-1999,Victoria,Construction,152.3
+Feb-2000,Victoria,Construction,152.4
+May-2000,Victoria,Construction,152.9
+Aug-2000,Victoria,Construction,155.1
+Nov-2000,Victoria,Construction,161.4
+Feb-2001,Victoria,Construction,154.5
+May-2001,Victoria,Construction,149.3
+Aug-2001,Victoria,Construction,152.1
+Nov-2001,Victoria,Construction,174.9
+Feb-2002,Victoria,Construction,179.4
+May-2002,Victoria,Construction,186.8
+Aug-2002,Victoria,Construction,176.8
+Nov-2002,Victoria,Construction,171.0
+Feb-2003,Victoria,Construction,180.1
+May-2003,Victoria,Construction,176.5
+Aug-2003,Victoria,Construction,179.7
+Nov-2003,Victoria,Construction,179.4
+Feb-2004,Victoria,Construction,184.5
+May-2004,Victoria,Construction,186.6
+Aug-2004,Victoria,Construction,180.8
+Nov-2004,Victoria,Construction,190.8
+Feb-2005,Victoria,Construction,185.8
+May-2005,Victoria,Construction,195.2
+Aug-2005,Victoria,Construction,203.6
+Nov-2005,Victoria,Construction,205.1
+Feb-2006,Victoria,Construction,211.8
+May-2006,Victoria,Construction,210.5
+Aug-2006,Victoria,Construction,219.7
+Nov-2006,Victoria,Construction,230.8
+Feb-2007,Victoria,Construction,229.1
+May-2007,Victoria,Construction,215.4
+Aug-2007,Victoria,Construction,211.2
+Nov-2007,Victoria,Construction,212.5
+Feb-2008,Victoria,Construction,228.1
+May-2008,Victoria,Construction,228.8
+Aug-2008,Victoria,Construction,213.4
+Nov-2008,Victoria,Construction,223.9
+Feb-2009,Victoria,Construction,226.1
+May-2009,Victoria,Construction,227.3
+Aug-2009,Victoria,Construction,224.4
+Nov-2009,Victoria,Construction,220.8
+Feb-2010,Victoria,Construction,238.6
+May-2010,Victoria,Construction,251.9
+Aug-2010,Victoria,Construction,244.8
+Nov-2010,Victoria,Construction,246.7
+Feb-2011,Victoria,Construction,252.7
+May-2011,Victoria,Construction,253.4
+Aug-2011,Victoria,Construction,255.0
+Nov-2011,Victoria,Construction,261.0
+Feb-2012,Victoria,Construction,236.7
+May-2012,Victoria,Construction,234.6
+Aug-2012,Victoria,Construction,218.0
+Nov-2012,Victoria,Construction,250.3
+Feb-2013,Victoria,Construction,251.5
+May-2013,Victoria,Construction,237.5
+Aug-2013,Victoria,Construction,248.9
+Nov-2013,Victoria,Construction,244.0
+Feb-2014,Victoria,Construction,251.8
+May-2014,Victoria,Construction,239.7
+Aug-2014,Victoria,Construction,232.1
+Nov-2014,Victoria,Construction,236.8
+Feb-2015,Victoria,Construction,248.8
+May-2015,Victoria,Construction,252.0
+Aug-2015,Victoria,Construction,250.6
+Nov-2015,Victoria,Construction,270.4
+Feb-2016,Victoria,Construction,286.3
+May-2016,Victoria,Construction,278.7
+Aug-2016,Victoria,Construction,258.8
+Nov-2016,Victoria,Construction,256.3
+Feb-2017,Victoria,Construction,263.1
+May-2017,Victoria,Construction,280.0
+Aug-2017,Victoria,Construction,285.5
+Nov-2017,Victoria,Construction,288.7
+Feb-2018,Victoria,Construction,305.8
+May-2018,Victoria,Construction,329.0
+Aug-2018,Victoria,Construction,314.5
+Nov-2018,Victoria,Construction,293.7
+Feb-2019,Victoria,Construction,297.4
+May-2019,Victoria,Construction,312.3
+Aug-2019,Victoria,Construction,304.9
+Nov-2019,Victoria,Construction,333.1
+Feb-2020,Victoria,Construction,308.3
+May-2020,Victoria,Construction,298.5
+Aug-2020,Victoria,Construction,292.9
+Nov-2020,Victoria,Construction,295.4
+Feb-2021,Victoria,Construction,315.5
+May-2021,Victoria,Construction,315.0
+Aug-2021,Victoria,Construction,317.6
+Nov-2021,Victoria,Construction,317.4
+Feb-2022,Victoria,Construction,304.9
+May-2022,Victoria,Construction,327.5
+Aug-2022,Victoria,Construction,337.1
+Nov-2022,Victoria,Construction,355.4
+Feb-2023,Victoria,Construction,369.4
+May-2023,Victoria,Construction,347.1
+Aug-2023,Victoria,Construction,325.0
+Nov-2023,Victoria,Construction,355.7
+Feb-2024,Victoria,Construction,353.7
+May-2024,Victoria,Construction,366.4
+Aug-2024,Victoria,Construction,350.1
+Nov-2024,Victoria,Construction,348.2
+Feb-2025,Victoria,Construction,356.5
+May-2025,Victoria,Construction,341.9
+Aug-2025,Victoria,Construction,319.7
+Nov-2025,Victoria,Construction,329.2
+Feb-2026,Victoria,Construction,346.1
+Nov-1984,Victoria,Accommodation and Food Services,78.3
+Feb-1985,Victoria,Accommodation and Food Services,72.5
+May-1985,Victoria,Accommodation and Food Services,75.7
+Aug-1985,Victoria,Accommodation and Food Services,74.4
+Nov-1985,Victoria,Accommodation and Food Services,75.9
+Feb-1986,Victoria,Accommodation and Food Services,78.2
+May-1986,Victoria,Accommodation and Food Services,76.3
+Aug-1986,Victoria,Accommodation and Food Services,78.5
+Nov-1986,Victoria,Accommodation and Food Services,85.1
+Feb-1987,Victoria,Accommodation and Food Services,82.1
+May-1987,Victoria,Accommodation and Food Services,85.2
+Aug-1987,Victoria,Accommodation and Food Services,89.3
+Nov-1987,Victoria,Accommodation and Food Services,90.9
+Feb-1988,Victoria,Accommodation and Food Services,89.5
+May-1988,Victoria,Accommodation and Food Services,91.0
+Aug-1988,Victoria,Accommodation and Food Services,83.6
+Nov-1988,Victoria,Accommodation and Food Services,82.5
+Feb-1989,Victoria,Accommodation and Food Services,87.1
+May-1989,Victoria,Accommodation and Food Services,97.2
+Aug-1989,Victoria,Accommodation and Food Services,105.0
+Nov-1989,Victoria,Accommodation and Food Services,100.1
+Feb-1990,Victoria,Accommodation and Food Services,100.5
+May-1990,Victoria,Accommodation and Food Services,106.6
+Aug-1990,Victoria,Accommodation and Food Services,97.1
+Nov-1990,Victoria,Accommodation and Food Services,92.3
+Feb-1991,Victoria,Accommodation and Food Services,101.2
+May-1991,Victoria,Accommodation and Food Services,107.0
+Aug-1991,Victoria,Accommodation and Food Services,105.2
+Nov-1991,Victoria,Accommodation and Food Services,105.2
+Feb-1992,Victoria,Accommodation and Food Services,102.1
+May-1992,Victoria,Accommodation and Food Services,101.8
+Aug-1992,Victoria,Accommodation and Food Services,100.8
+Nov-1992,Victoria,Accommodation and Food Services,96.5
+Feb-1993,Victoria,Accommodation and Food Services,105.9
+May-1993,Victoria,Accommodation and Food Services,98.1
+Aug-1993,Victoria,Accommodation and Food Services,103.3
+Nov-1993,Victoria,Accommodation and Food Services,105.7
+Feb-1994,Victoria,Accommodation and Food Services,101.9
+May-1994,Victoria,Accommodation and Food Services,102.8
+Aug-1994,Victoria,Accommodation and Food Services,104.0
+Nov-1994,Victoria,Accommodation and Food Services,110.9
+Feb-1995,Victoria,Accommodation and Food Services,119.5
+May-1995,Victoria,Accommodation and Food Services,114.8
+Aug-1995,Victoria,Accommodation and Food Services,120.5
+Nov-1995,Victoria,Accommodation and Food Services,117.7
+Feb-1996,Victoria,Accommodation and Food Services,112.9
+May-1996,Victoria,Accommodation and Food Services,130.9
+Aug-1996,Victoria,Accommodation and Food Services,117.6
+Nov-1996,Victoria,Accommodation and Food Services,120.0
+Feb-1997,Victoria,Accommodation and Food Services,114.6
+May-1997,Victoria,Accommodation and Food Services,121.0
+Aug-1997,Victoria,Accommodation and Food Services,123.5
+Nov-1997,Victoria,Accommodation and Food Services,124.6
+Feb-1998,Victoria,Accommodation and Food Services,117.4
+May-1998,Victoria,Accommodation and Food Services,123.2
+Aug-1998,Victoria,Accommodation and Food Services,126.5
+Nov-1998,Victoria,Accommodation and Food Services,134.2
+Feb-1999,Victoria,Accommodation and Food Services,129.0
+May-1999,Victoria,Accommodation and Food Services,132.4
+Aug-1999,Victoria,Accommodation and Food Services,129.6
+Nov-1999,Victoria,Accommodation and Food Services,131.8
+Feb-2000,Victoria,Accommodation and Food Services,127.0
+May-2000,Victoria,Accommodation and Food Services,139.0
+Aug-2000,Victoria,Accommodation and Food Services,134.4
+Nov-2000,Victoria,Accommodation and Food Services,149.0
+Feb-2001,Victoria,Accommodation and Food Services,144.3
+May-2001,Victoria,Accommodation and Food Services,135.3
+Aug-2001,Victoria,Accommodation and Food Services,129.4
+Nov-2001,Victoria,Accommodation and Food Services,130.6
+Feb-2002,Victoria,Accommodation and Food Services,132.3
+May-2002,Victoria,Accommodation and Food Services,133.6
+Aug-2002,Victoria,Accommodation and Food Services,130.0
+Nov-2002,Victoria,Accommodation and Food Services,148.5
+Feb-2003,Victoria,Accommodation and Food Services,146.5
+May-2003,Victoria,Accommodation and Food Services,154.9
+Aug-2003,Victoria,Accommodation and Food Services,148.4
+Nov-2003,Victoria,Accommodation and Food Services,148.0
+Feb-2004,Victoria,Accommodation and Food Services,151.5
+May-2004,Victoria,Accommodation and Food Services,152.6
+Aug-2004,Victoria,Accommodation and Food Services,157.8
+Nov-2004,Victoria,Accommodation and Food Services,155.8
+Feb-2005,Victoria,Accommodation and Food Services,164.9
+May-2005,Victoria,Accommodation and Food Services,164.8
+Aug-2005,Victoria,Accommodation and Food Services,151.4
+Nov-2005,Victoria,Accommodation and Food Services,151.8
+Feb-2006,Victoria,Accommodation and Food Services,138.0
+May-2006,Victoria,Accommodation and Food Services,137.1
+Aug-2006,Victoria,Accommodation and Food Services,144.6
+Nov-2006,Victoria,Accommodation and Food Services,156.8
+Feb-2007,Victoria,Accommodation and Food Services,164.9
+May-2007,Victoria,Accommodation and Food Services,167.1
+Aug-2007,Victoria,Accommodation and Food Services,165.5
+Nov-2007,Victoria,Accommodation and Food Services,161.1
+Feb-2008,Victoria,Accommodation and Food Services,153.5
+May-2008,Victoria,Accommodation and Food Services,154.0
+Aug-2008,Victoria,Accommodation and Food Services,157.4
+Nov-2008,Victoria,Accommodation and Food Services,161.1
+Feb-2009,Victoria,Accommodation and Food Services,171.9
+May-2009,Victoria,Accommodation and Food Services,181.2
+Aug-2009,Victoria,Accommodation and Food Services,176.9
+Nov-2009,Victoria,Accommodation and Food Services,175.8
+Feb-2010,Victoria,Accommodation and Food Services,179.8
+May-2010,Victoria,Accommodation and Food Services,200.6
+Aug-2010,Victoria,Accommodation and Food Services,178.3
+Nov-2010,Victoria,Accommodation and Food Services,177.9
+Feb-2011,Victoria,Accommodation and Food Services,179.9
+May-2011,Victoria,Accommodation and Food Services,177.3
+Aug-2011,Victoria,Accommodation and Food Services,173.4
+Nov-2011,Victoria,Accommodation and Food Services,169.7
+Feb-2012,Victoria,Accommodation and Food Services,175.6
+May-2012,Victoria,Accommodation and Food Services,192.6
+Aug-2012,Victoria,Accommodation and Food Services,185.2
+Nov-2012,Victoria,Accommodation and Food Services,173.6
+Feb-2013,Victoria,Accommodation and Food Services,191.6
+May-2013,Victoria,Accommodation and Food Services,191.5
+Aug-2013,Victoria,Accommodation and Food Services,192.2
+Nov-2013,Victoria,Accommodation and Food Services,184.2
+Feb-2014,Victoria,Accommodation and Food Services,165.3
+May-2014,Victoria,Accommodation and Food Services,189.5
+Aug-2014,Victoria,Accommodation and Food Services,188.9
+Nov-2014,Victoria,Accommodation and Food Services,199.3
+Feb-2015,Victoria,Accommodation and Food Services,210.1
+May-2015,Victoria,Accommodation and Food Services,209.2
+Aug-2015,Victoria,Accommodation and Food Services,197.1
+Nov-2015,Victoria,Accommodation and Food Services,198.8
+Feb-2016,Victoria,Accommodation and Food Services,204.9
+May-2016,Victoria,Accommodation and Food Services,217.0
+Aug-2016,Victoria,Accommodation and Food Services,215.0
+Nov-2016,Victoria,Accommodation and Food Services,225.3
+Feb-2017,Victoria,Accommodation and Food Services,221.1
+May-2017,Victoria,Accommodation and Food Services,219.3
+Aug-2017,Victoria,Accommodation and Food Services,222.0
+Nov-2017,Victoria,Accommodation and Food Services,234.1
+Feb-2018,Victoria,Accommodation and Food Services,228.9
+May-2018,Victoria,Accommodation and Food Services,242.5
+Aug-2018,Victoria,Accommodation and Food Services,216.3
+Nov-2018,Victoria,Accommodation and Food Services,213.4
+Feb-2019,Victoria,Accommodation and Food Services,207.1
+May-2019,Victoria,Accommodation and Food Services,199.2
+Aug-2019,Victoria,Accommodation and Food Services,209.2
+Nov-2019,Victoria,Accommodation and Food Services,206.8
+Feb-2020,Victoria,Accommodation and Food Services,219.2
+May-2020,Victoria,Accommodation and Food Services,149.6
+Aug-2020,Victoria,Accommodation and Food Services,148.8
+Nov-2020,Victoria,Accommodation and Food Services,174.3
+Feb-2021,Victoria,Accommodation and Food Services,191.0
+May-2021,Victoria,Accommodation and Food Services,215.8
+Aug-2021,Victoria,Accommodation and Food Services,212.6
+Nov-2021,Victoria,Accommodation and Food Services,200.6
+Feb-2022,Victoria,Accommodation and Food Services,205.5
+May-2022,Victoria,Accommodation and Food Services,222.2
+Aug-2022,Victoria,Accommodation and Food Services,219.3
+Nov-2022,Victoria,Accommodation and Food Services,224.0
+Feb-2023,Victoria,Accommodation and Food Services,230.0
+May-2023,Victoria,Accommodation and Food Services,232.1
+Aug-2023,Victoria,Accommodation and Food Services,218.7
+Nov-2023,Victoria,Accommodation and Food Services,215.1
+Feb-2024,Victoria,Accommodation and Food Services,225.2
+May-2024,Victoria,Accommodation and Food Services,224.9
+Aug-2024,Victoria,Accommodation and Food Services,215.4
+Nov-2024,Victoria,Accommodation and Food Services,233.9
+Feb-2025,Victoria,Accommodation and Food Services,227.7
+May-2025,Victoria,Accommodation and Food Services,245.0
+Aug-2025,Victoria,Accommodation and Food Services,257.8
+Nov-2025,Victoria,Accommodation and Food Services,252.1
+Feb-2026,Victoria,Accommodation and Food Services,237.0
+Nov-1984,Victoria,"Professional, Scientific and Technical Services",67.5
+Feb-1985,Victoria,"Professional, Scientific and Technical Services",67.8
+May-1985,Victoria,"Professional, Scientific and Technical Services",79.3
+Aug-1985,Victoria,"Professional, Scientific and Technical Services",75.2
+Nov-1985,Victoria,"Professional, Scientific and Technical Services",74.7
+Feb-1986,Victoria,"Professional, Scientific and Technical Services",82.2
+May-1986,Victoria,"Professional, Scientific and Technical Services",84.1
+Aug-1986,Victoria,"Professional, Scientific and Technical Services",82.6
+Nov-1986,Victoria,"Professional, Scientific and Technical Services",85.8
+Feb-1987,Victoria,"Professional, Scientific and Technical Services",89.3
+May-1987,Victoria,"Professional, Scientific and Technical Services",84.2
+Aug-1987,Victoria,"Professional, Scientific and Technical Services",83.9
+Nov-1987,Victoria,"Professional, Scientific and Technical Services",81.9
+Feb-1988,Victoria,"Professional, Scientific and Technical Services",84.4
+May-1988,Victoria,"Professional, Scientific and Technical Services",87.8
+Aug-1988,Victoria,"Professional, Scientific and Technical Services",86.9
+Nov-1988,Victoria,"Professional, Scientific and Technical Services",89.4
+Feb-1989,Victoria,"Professional, Scientific and Technical Services",90.7
+May-1989,Victoria,"Professional, Scientific and Technical Services",89.0
+Aug-1989,Victoria,"Professional, Scientific and Technical Services",89.9
+Nov-1989,Victoria,"Professional, Scientific and Technical Services",94.5
+Feb-1990,Victoria,"Professional, Scientific and Technical Services",99.9
+May-1990,Victoria,"Professional, Scientific and Technical Services",98.8
+Aug-1990,Victoria,"Professional, Scientific and Technical Services",98.5
+Nov-1990,Victoria,"Professional, Scientific and Technical Services",103.4
+Feb-1991,Victoria,"Professional, Scientific and Technical Services",91.5
+May-1991,Victoria,"Professional, Scientific and Technical Services",92.6
+Aug-1991,Victoria,"Professional, Scientific and Technical Services",99.0
+Nov-1991,Victoria,"Professional, Scientific and Technical Services",99.4
+Feb-1992,Victoria,"Professional, Scientific and Technical Services",106.0
+May-1992,Victoria,"Professional, Scientific and Technical Services",99.8
+Aug-1992,Victoria,"Professional, Scientific and Technical Services",107.0
+Nov-1992,Victoria,"Professional, Scientific and Technical Services",103.1
+Feb-1993,Victoria,"Professional, Scientific and Technical Services",91.2
+May-1993,Victoria,"Professional, Scientific and Technical Services",95.1
+Aug-1993,Victoria,"Professional, Scientific and Technical Services",96.0
+Nov-1993,Victoria,"Professional, Scientific and Technical Services",93.3
+Feb-1994,Victoria,"Professional, Scientific and Technical Services",104.4
+May-1994,Victoria,"Professional, Scientific and Technical Services",104.5
+Aug-1994,Victoria,"Professional, Scientific and Technical Services",122.7
+Nov-1994,Victoria,"Professional, Scientific and Technical Services",119.6
+Feb-1995,Victoria,"Professional, Scientific and Technical Services",123.9
+May-1995,Victoria,"Professional, Scientific and Technical Services",139.0
+Aug-1995,Victoria,"Professional, Scientific and Technical Services",137.6
+Nov-1995,Victoria,"Professional, Scientific and Technical Services",145.2
+Feb-1996,Victoria,"Professional, Scientific and Technical Services",139.8
+May-1996,Victoria,"Professional, Scientific and Technical Services",139.6
+Aug-1996,Victoria,"Professional, Scientific and Technical Services",140.7
+Nov-1996,Victoria,"Professional, Scientific and Technical Services",137.0
+Feb-1997,Victoria,"Professional, Scientific and Technical Services",135.0
+May-1997,Victoria,"Professional, Scientific and Technical Services",148.4
+Aug-1997,Victoria,"Professional, Scientific and Technical Services",157.8
+Nov-1997,Victoria,"Professional, Scientific and Technical Services",155.9
+Feb-1998,Victoria,"Professional, Scientific and Technical Services",158.8
+May-1998,Victoria,"Professional, Scientific and Technical Services",155.1
+Aug-1998,Victoria,"Professional, Scientific and Technical Services",160.7
+Nov-1998,Victoria,"Professional, Scientific and Technical Services",158.1
+Feb-1999,Victoria,"Professional, Scientific and Technical Services",146.7
+May-1999,Victoria,"Professional, Scientific and Technical Services",151.0
+Aug-1999,Victoria,"Professional, Scientific and Technical Services",166.3
+Nov-1999,Victoria,"Professional, Scientific and Technical Services",158.5
+Feb-2000,Victoria,"Professional, Scientific and Technical Services",153.8
+May-2000,Victoria,"Professional, Scientific and Technical Services",153.7
+Aug-2000,Victoria,"Professional, Scientific and Technical Services",155.1
+Nov-2000,Victoria,"Professional, Scientific and Technical Services",158.6
+Feb-2001,Victoria,"Professional, Scientific and Technical Services",167.7
+May-2001,Victoria,"Professional, Scientific and Technical Services",162.4
+Aug-2001,Victoria,"Professional, Scientific and Technical Services",156.3
+Nov-2001,Victoria,"Professional, Scientific and Technical Services",146.1
+Feb-2002,Victoria,"Professional, Scientific and Technical Services",162.2
+May-2002,Victoria,"Professional, Scientific and Technical Services",159.7
+Aug-2002,Victoria,"Professional, Scientific and Technical Services",153.3
+Nov-2002,Victoria,"Professional, Scientific and Technical Services",152.7
+Feb-2003,Victoria,"Professional, Scientific and Technical Services",168.5
+May-2003,Victoria,"Professional, Scientific and Technical Services",161.2
+Aug-2003,Victoria,"Professional, Scientific and Technical Services",167.3
+Nov-2003,Victoria,"Professional, Scientific and Technical Services",165.5
+Feb-2004,Victoria,"Professional, Scientific and Technical Services",164.1
+May-2004,Victoria,"Professional, Scientific and Technical Services",163.3
+Aug-2004,Victoria,"Professional, Scientific and Technical Services",160.6
+Nov-2004,Victoria,"Professional, Scientific and Technical Services",167.7
+Feb-2005,Victoria,"Professional, Scientific and Technical Services",167.2
+May-2005,Victoria,"Professional, Scientific and Technical Services",170.5
+Aug-2005,Victoria,"Professional, Scientific and Technical Services",185.6
+Nov-2005,Victoria,"Professional, Scientific and Technical Services",193.1
+Feb-2006,Victoria,"Professional, Scientific and Technical Services",189.0
+May-2006,Victoria,"Professional, Scientific and Technical Services",192.0
+Aug-2006,Victoria,"Professional, Scientific and Technical Services",196.5
+Nov-2006,Victoria,"Professional, Scientific and Technical Services",186.3
+Feb-2007,Victoria,"Professional, Scientific and Technical Services",189.9
+May-2007,Victoria,"Professional, Scientific and Technical Services",195.6
+Aug-2007,Victoria,"Professional, Scientific and Technical Services",212.1
+Nov-2007,Victoria,"Professional, Scientific and Technical Services",212.9
+Feb-2008,Victoria,"Professional, Scientific and Technical Services",215.0
+May-2008,Victoria,"Professional, Scientific and Technical Services",205.5
+Aug-2008,Victoria,"Professional, Scientific and Technical Services",193.7
+Nov-2008,Victoria,"Professional, Scientific and Technical Services",215.3
+Feb-2009,Victoria,"Professional, Scientific and Technical Services",204.5
+May-2009,Victoria,"Professional, Scientific and Technical Services",193.3
+Aug-2009,Victoria,"Professional, Scientific and Technical Services",207.4
+Nov-2009,Victoria,"Professional, Scientific and Technical Services",222.9
+Feb-2010,Victoria,"Professional, Scientific and Technical Services",220.3
+May-2010,Victoria,"Professional, Scientific and Technical Services",216.9
+Aug-2010,Victoria,"Professional, Scientific and Technical Services",219.0
+Nov-2010,Victoria,"Professional, Scientific and Technical Services",218.1
+Feb-2011,Victoria,"Professional, Scientific and Technical Services",234.0
+May-2011,Victoria,"Professional, Scientific and Technical Services",222.5
+Aug-2011,Victoria,"Professional, Scientific and Technical Services",236.9
+Nov-2011,Victoria,"Professional, Scientific and Technical Services",221.1
+Feb-2012,Victoria,"Professional, Scientific and Technical Services",241.9
+May-2012,Victoria,"Professional, Scientific and Technical Services",246.4
+Aug-2012,Victoria,"Professional, Scientific and Technical Services",245.6
+Nov-2012,Victoria,"Professional, Scientific and Technical Services",248.0
+Feb-2013,Victoria,"Professional, Scientific and Technical Services",253.8
+May-2013,Victoria,"Professional, Scientific and Technical Services",244.8
+Aug-2013,Victoria,"Professional, Scientific and Technical Services",272.4
+Nov-2013,Victoria,"Professional, Scientific and Technical Services",250.0
+Feb-2014,Victoria,"Professional, Scientific and Technical Services",245.2
+May-2014,Victoria,"Professional, Scientific and Technical Services",250.4
+Aug-2014,Victoria,"Professional, Scientific and Technical Services",246.5
+Nov-2014,Victoria,"Professional, Scientific and Technical Services",240.1
+Feb-2015,Victoria,"Professional, Scientific and Technical Services",277.2
+May-2015,Victoria,"Professional, Scientific and Technical Services",279.5
+Aug-2015,Victoria,"Professional, Scientific and Technical Services",254.4
+Nov-2015,Victoria,"Professional, Scientific and Technical Services",260.8
+Feb-2016,Victoria,"Professional, Scientific and Technical Services",263.2
+May-2016,Victoria,"Professional, Scientific and Technical Services",273.4
+Aug-2016,Victoria,"Professional, Scientific and Technical Services",281.1
+Nov-2016,Victoria,"Professional, Scientific and Technical Services",262.9
+Feb-2017,Victoria,"Professional, Scientific and Technical Services",283.4
+May-2017,Victoria,"Professional, Scientific and Technical Services",264.2
+Aug-2017,Victoria,"Professional, Scientific and Technical Services",277.6
+Nov-2017,Victoria,"Professional, Scientific and Technical Services",306.1
+Feb-2018,Victoria,"Professional, Scientific and Technical Services",299.6
+May-2018,Victoria,"Professional, Scientific and Technical Services",291.9
+Aug-2018,Victoria,"Professional, Scientific and Technical Services",280.5
+Nov-2018,Victoria,"Professional, Scientific and Technical Services",301.9
+Feb-2019,Victoria,"Professional, Scientific and Technical Services",320.4
+May-2019,Victoria,"Professional, Scientific and Technical Services",332.6
+Aug-2019,Victoria,"Professional, Scientific and Technical Services",348.5
+Nov-2019,Victoria,"Professional, Scientific and Technical Services",308.5
+Feb-2020,Victoria,"Professional, Scientific and Technical Services",313.6
+May-2020,Victoria,"Professional, Scientific and Technical Services",309.3
+Aug-2020,Victoria,"Professional, Scientific and Technical Services",307.0
+Nov-2020,Victoria,"Professional, Scientific and Technical Services",321.0
+Feb-2021,Victoria,"Professional, Scientific and Technical Services",326.1
+May-2021,Victoria,"Professional, Scientific and Technical Services",336.0
+Aug-2021,Victoria,"Professional, Scientific and Technical Services",326.1
+Nov-2021,Victoria,"Professional, Scientific and Technical Services",333.5
+Feb-2022,Victoria,"Professional, Scientific and Technical Services",376.1
+May-2022,Victoria,"Professional, Scientific and Technical Services",362.6
+Aug-2022,Victoria,"Professional, Scientific and Technical Services",351.0
+Nov-2022,Victoria,"Professional, Scientific and Technical Services",346.0
+Feb-2023,Victoria,"Professional, Scientific and Technical Services",364.8
+May-2023,Victoria,"Professional, Scientific and Technical Services",408.2
+Aug-2023,Victoria,"Professional, Scientific and Technical Services",374.1
+Nov-2023,Victoria,"Professional, Scientific and Technical Services",370.9
+Feb-2024,Victoria,"Professional, Scientific and Technical Services",356.6
+May-2024,Victoria,"Professional, Scientific and Technical Services",340.9
+Aug-2024,Victoria,"Professional, Scientific and Technical Services",364.4
+Nov-2024,Victoria,"Professional, Scientific and Technical Services",388.3
+Feb-2025,Victoria,"Professional, Scientific and Technical Services",365.9
+May-2025,Victoria,"Professional, Scientific and Technical Services",395.3
+Aug-2025,Victoria,"Professional, Scientific and Technical Services",411.3
+Nov-2025,Victoria,"Professional, Scientific and Technical Services",404.4
+Feb-2026,Victoria,"Professional, Scientific and Technical Services",395.2
+Nov-1984,Victoria,Education and Training,125.9
+Feb-1985,Victoria,Education and Training,119.0
+May-1985,Victoria,Education and Training,131.2
+Aug-1985,Victoria,Education and Training,138.9
+Nov-1985,Victoria,Education and Training,140.2
+Feb-1986,Victoria,Education and Training,130.8
+May-1986,Victoria,Education and Training,135.8
+Aug-1986,Victoria,Education and Training,140.6
+Nov-1986,Victoria,Education and Training,131.5
+Feb-1987,Victoria,Education and Training,127.0
+May-1987,Victoria,Education and Training,133.4
+Aug-1987,Victoria,Education and Training,137.7
+Nov-1987,Victoria,Education and Training,132.7
+Feb-1988,Victoria,Education and Training,123.8
+May-1988,Victoria,Education and Training,133.0
+Aug-1988,Victoria,Education and Training,136.1
+Nov-1988,Victoria,Education and Training,141.5
+Feb-1989,Victoria,Education and Training,131.8
+May-1989,Victoria,Education and Training,137.0
+Aug-1989,Victoria,Education and Training,139.6
+Nov-1989,Victoria,Education and Training,141.3
+Feb-1990,Victoria,Education and Training,140.8
+May-1990,Victoria,Education and Training,157.4
+Aug-1990,Victoria,Education and Training,144.2
+Nov-1990,Victoria,Education and Training,137.1
+Feb-1991,Victoria,Education and Training,135.4
+May-1991,Victoria,Education and Training,142.8
+Aug-1991,Victoria,Education and Training,141.3
+Nov-1991,Victoria,Education and Training,130.4
+Feb-1992,Victoria,Education and Training,139.3
+May-1992,Victoria,Education and Training,146.9
+Aug-1992,Victoria,Education and Training,149.6
+Nov-1992,Victoria,Education and Training,140.5
+Feb-1993,Victoria,Education and Training,137.2
+May-1993,Victoria,Education and Training,140.7
+Aug-1993,Victoria,Education and Training,137.0
+Nov-1993,Victoria,Education and Training,144.2
+Feb-1994,Victoria,Education and Training,138.5
+May-1994,Victoria,Education and Training,140.1
+Aug-1994,Victoria,Education and Training,138.2
+Nov-1994,Victoria,Education and Training,140.2
+Feb-1995,Victoria,Education and Training,140.4
+May-1995,Victoria,Education and Training,150.5
+Aug-1995,Victoria,Education and Training,152.3
+Nov-1995,Victoria,Education and Training,144.0
+Feb-1996,Victoria,Education and Training,137.7
+May-1996,Victoria,Education and Training,138.6
+Aug-1996,Victoria,Education and Training,142.5
+Nov-1996,Victoria,Education and Training,146.0
+Feb-1997,Victoria,Education and Training,137.5
+May-1997,Victoria,Education and Training,141.1
+Aug-1997,Victoria,Education and Training,143.4
+Nov-1997,Victoria,Education and Training,147.4
+Feb-1998,Victoria,Education and Training,140.6
+May-1998,Victoria,Education and Training,149.2
+Aug-1998,Victoria,Education and Training,140.3
+Nov-1998,Victoria,Education and Training,136.2
+Feb-1999,Victoria,Education and Training,129.0
+May-1999,Victoria,Education and Training,151.8
+Aug-1999,Victoria,Education and Training,156.0
+Nov-1999,Victoria,Education and Training,151.8
+Feb-2000,Victoria,Education and Training,145.8
+May-2000,Victoria,Education and Training,150.2
+Aug-2000,Victoria,Education and Training,161.3
+Nov-2000,Victoria,Education and Training,149.7
+Feb-2001,Victoria,Education and Training,146.1
+May-2001,Victoria,Education and Training,156.3
+Aug-2001,Victoria,Education and Training,168.0
+Nov-2001,Victoria,Education and Training,166.8
+Feb-2002,Victoria,Education and Training,162.8
+May-2002,Victoria,Education and Training,165.4
+Aug-2002,Victoria,Education and Training,170.0
+Nov-2002,Victoria,Education and Training,177.1
+Feb-2003,Victoria,Education and Training,171.5
+May-2003,Victoria,Education and Training,170.8
+Aug-2003,Victoria,Education and Training,182.7
+Nov-2003,Victoria,Education and Training,186.3
+Feb-2004,Victoria,Education and Training,177.1
+May-2004,Victoria,Education and Training,188.1
+Aug-2004,Victoria,Education and Training,181.8
+Nov-2004,Victoria,Education and Training,171.4
+Feb-2005,Victoria,Education and Training,156.0
+May-2005,Victoria,Education and Training,174.4
+Aug-2005,Victoria,Education and Training,180.9
+Nov-2005,Victoria,Education and Training,178.3
+Feb-2006,Victoria,Education and Training,180.0
+May-2006,Victoria,Education and Training,180.7
+Aug-2006,Victoria,Education and Training,188.4
+Nov-2006,Victoria,Education and Training,196.5
+Feb-2007,Victoria,Education and Training,181.9
+May-2007,Victoria,Education and Training,200.7
+Aug-2007,Victoria,Education and Training,199.9
+Nov-2007,Victoria,Education and Training,206.7
+Feb-2008,Victoria,Education and Training,203.0
+May-2008,Victoria,Education and Training,202.3
+Aug-2008,Victoria,Education and Training,211.2
+Nov-2008,Victoria,Education and Training,198.1
+Feb-2009,Victoria,Education and Training,193.2
+May-2009,Victoria,Education and Training,211.9
+Aug-2009,Victoria,Education and Training,212.4
+Nov-2009,Victoria,Education and Training,213.3
+Feb-2010,Victoria,Education and Training,205.1
+May-2010,Victoria,Education and Training,214.3
+Aug-2010,Victoria,Education and Training,231.1
+Nov-2010,Victoria,Education and Training,218.9
+Feb-2011,Victoria,Education and Training,199.5
+May-2011,Victoria,Education and Training,222.8
+Aug-2011,Victoria,Education and Training,214.1
+Nov-2011,Victoria,Education and Training,216.7
+Feb-2012,Victoria,Education and Training,214.8
+May-2012,Victoria,Education and Training,237.1
+Aug-2012,Victoria,Education and Training,227.9
+Nov-2012,Victoria,Education and Training,231.3
+Feb-2013,Victoria,Education and Training,222.6
+May-2013,Victoria,Education and Training,234.7
+Aug-2013,Victoria,Education and Training,221.7
+Nov-2013,Victoria,Education and Training,236.6
+Feb-2014,Victoria,Education and Training,221.4
+May-2014,Victoria,Education and Training,240.1
+Aug-2014,Victoria,Education and Training,240.8
+Nov-2014,Victoria,Education and Training,237.8
+Feb-2015,Victoria,Education and Training,237.4
+May-2015,Victoria,Education and Training,244.5
+Aug-2015,Victoria,Education and Training,258.0
+Nov-2015,Victoria,Education and Training,231.8
+Feb-2016,Victoria,Education and Training,230.3
+May-2016,Victoria,Education and Training,241.4
+Aug-2016,Victoria,Education and Training,262.6
+Nov-2016,Victoria,Education and Training,271.5
+Feb-2017,Victoria,Education and Training,258.4
+May-2017,Victoria,Education and Training,281.3
+Aug-2017,Victoria,Education and Training,261.3
+Nov-2017,Victoria,Education and Training,269.5
+Feb-2018,Victoria,Education and Training,258.4
+May-2018,Victoria,Education and Training,263.4
+Aug-2018,Victoria,Education and Training,263.5
+Nov-2018,Victoria,Education and Training,278.0
+Feb-2019,Victoria,Education and Training,266.9
+May-2019,Victoria,Education and Training,293.6
+Aug-2019,Victoria,Education and Training,306.5
+Nov-2019,Victoria,Education and Training,295.2
+Feb-2020,Victoria,Education and Training,294.4
+May-2020,Victoria,Education and Training,262.7
+Aug-2020,Victoria,Education and Training,296.5
+Nov-2020,Victoria,Education and Training,304.9
+Feb-2021,Victoria,Education and Training,280.6
+May-2021,Victoria,Education and Training,292.4
+Aug-2021,Victoria,Education and Training,284.6
+Nov-2021,Victoria,Education and Training,299.0
+Feb-2022,Victoria,Education and Training,305.0
+May-2022,Victoria,Education and Training,298.9
+Aug-2022,Victoria,Education and Training,297.7
+Nov-2022,Victoria,Education and Training,314.1
+Feb-2023,Victoria,Education and Training,293.4
+May-2023,Victoria,Education and Training,295.6
+Aug-2023,Victoria,Education and Training,294.6
+Nov-2023,Victoria,Education and Training,342.7
+Feb-2024,Victoria,Education and Training,315.8
+May-2024,Victoria,Education and Training,315.6
+Aug-2024,Victoria,Education and Training,336.6
+Nov-2024,Victoria,Education and Training,355.7
+Feb-2025,Victoria,Education and Training,341.2
+May-2025,Victoria,Education and Training,334.8
+Aug-2025,Victoria,Education and Training,364.5
+Nov-2025,Victoria,Education and Training,372.0
+Feb-2026,Victoria,Education and Training,365.6
+Nov-1984,Victoria,Health Care and Social Assistance,140.2
+Feb-1985,Victoria,Health Care and Social Assistance,132.1
+May-1985,Victoria,Health Care and Social Assistance,129.9
+Aug-1985,Victoria,Health Care and Social Assistance,129.0
+Nov-1985,Victoria,Health Care and Social Assistance,145.1
+Feb-1986,Victoria,Health Care and Social Assistance,149.1
+May-1986,Victoria,Health Care and Social Assistance,154.7
+Aug-1986,Victoria,Health Care and Social Assistance,137.9
+Nov-1986,Victoria,Health Care and Social Assistance,144.0
+Feb-1987,Victoria,Health Care and Social Assistance,153.0
+May-1987,Victoria,Health Care and Social Assistance,155.9
+Aug-1987,Victoria,Health Care and Social Assistance,165.3
+Nov-1987,Victoria,Health Care and Social Assistance,147.3
+Feb-1988,Victoria,Health Care and Social Assistance,147.1
+May-1988,Victoria,Health Care and Social Assistance,148.4
+Aug-1988,Victoria,Health Care and Social Assistance,157.0
+Nov-1988,Victoria,Health Care and Social Assistance,164.0
+Feb-1989,Victoria,Health Care and Social Assistance,164.8
+May-1989,Victoria,Health Care and Social Assistance,176.2
+Aug-1989,Victoria,Health Care and Social Assistance,159.7
+Nov-1989,Victoria,Health Care and Social Assistance,157.5
+Feb-1990,Victoria,Health Care and Social Assistance,163.8
+May-1990,Victoria,Health Care and Social Assistance,175.1
+Aug-1990,Victoria,Health Care and Social Assistance,179.6
+Nov-1990,Victoria,Health Care and Social Assistance,177.2
+Feb-1991,Victoria,Health Care and Social Assistance,167.1
+May-1991,Victoria,Health Care and Social Assistance,173.2
+Aug-1991,Victoria,Health Care and Social Assistance,175.6
+Nov-1991,Victoria,Health Care and Social Assistance,170.0
+Feb-1992,Victoria,Health Care and Social Assistance,169.7
+May-1992,Victoria,Health Care and Social Assistance,163.6
+Aug-1992,Victoria,Health Care and Social Assistance,166.3
+Nov-1992,Victoria,Health Care and Social Assistance,168.4
+Feb-1993,Victoria,Health Care and Social Assistance,157.6
+May-1993,Victoria,Health Care and Social Assistance,165.2
+Aug-1993,Victoria,Health Care and Social Assistance,166.5
+Nov-1993,Victoria,Health Care and Social Assistance,168.4
+Feb-1994,Victoria,Health Care and Social Assistance,158.8
+May-1994,Victoria,Health Care and Social Assistance,169.2
+Aug-1994,Victoria,Health Care and Social Assistance,161.0
+Nov-1994,Victoria,Health Care and Social Assistance,157.9
+Feb-1995,Victoria,Health Care and Social Assistance,164.8
+May-1995,Victoria,Health Care and Social Assistance,176.9
+Aug-1995,Victoria,Health Care and Social Assistance,181.5
+Nov-1995,Victoria,Health Care and Social Assistance,171.4
+Feb-1996,Victoria,Health Care and Social Assistance,170.8
+May-1996,Victoria,Health Care and Social Assistance,180.2
+Aug-1996,Victoria,Health Care and Social Assistance,182.9
+Nov-1996,Victoria,Health Care and Social Assistance,183.1
+Feb-1997,Victoria,Health Care and Social Assistance,182.8
+May-1997,Victoria,Health Care and Social Assistance,177.9
+Aug-1997,Victoria,Health Care and Social Assistance,179.8
+Nov-1997,Victoria,Health Care and Social Assistance,187.5
+Feb-1998,Victoria,Health Care and Social Assistance,191.6
+May-1998,Victoria,Health Care and Social Assistance,196.2
+Aug-1998,Victoria,Health Care and Social Assistance,193.1
+Nov-1998,Victoria,Health Care and Social Assistance,197.9
+Feb-1999,Victoria,Health Care and Social Assistance,201.4
+May-1999,Victoria,Health Care and Social Assistance,184.0
+Aug-1999,Victoria,Health Care and Social Assistance,171.5
+Nov-1999,Victoria,Health Care and Social Assistance,182.0
+Feb-2000,Victoria,Health Care and Social Assistance,193.3
+May-2000,Victoria,Health Care and Social Assistance,198.7
+Aug-2000,Victoria,Health Care and Social Assistance,206.8
+Nov-2000,Victoria,Health Care and Social Assistance,199.2
+Feb-2001,Victoria,Health Care and Social Assistance,218.5
+May-2001,Victoria,Health Care and Social Assistance,217.6
+Aug-2001,Victoria,Health Care and Social Assistance,215.5
+Nov-2001,Victoria,Health Care and Social Assistance,219.1
+Feb-2002,Victoria,Health Care and Social Assistance,216.9
+May-2002,Victoria,Health Care and Social Assistance,209.6
+Aug-2002,Victoria,Health Care and Social Assistance,225.1
+Nov-2002,Victoria,Health Care and Social Assistance,233.5
+Feb-2003,Victoria,Health Care and Social Assistance,220.1
+May-2003,Victoria,Health Care and Social Assistance,222.0
+Aug-2003,Victoria,Health Care and Social Assistance,227.0
+Nov-2003,Victoria,Health Care and Social Assistance,228.4
+Feb-2004,Victoria,Health Care and Social Assistance,241.6
+May-2004,Victoria,Health Care and Social Assistance,239.7
+Aug-2004,Victoria,Health Care and Social Assistance,240.3
+Nov-2004,Victoria,Health Care and Social Assistance,249.2
+Feb-2005,Victoria,Health Care and Social Assistance,254.2
+May-2005,Victoria,Health Care and Social Assistance,259.7
+Aug-2005,Victoria,Health Care and Social Assistance,249.4
+Nov-2005,Victoria,Health Care and Social Assistance,253.8
+Feb-2006,Victoria,Health Care and Social Assistance,263.6
+May-2006,Victoria,Health Care and Social Assistance,276.6
+Aug-2006,Victoria,Health Care and Social Assistance,275.4
+Nov-2006,Victoria,Health Care and Social Assistance,264.7
+Feb-2007,Victoria,Health Care and Social Assistance,264.7
+May-2007,Victoria,Health Care and Social Assistance,258.3
+Aug-2007,Victoria,Health Care and Social Assistance,256.0
+Nov-2007,Victoria,Health Care and Social Assistance,257.2
+Feb-2008,Victoria,Health Care and Social Assistance,275.4
+May-2008,Victoria,Health Care and Social Assistance,275.8
+Aug-2008,Victoria,Health Care and Social Assistance,272.4
+Nov-2008,Victoria,Health Care and Social Assistance,281.4
+Feb-2009,Victoria,Health Care and Social Assistance,290.3
+May-2009,Victoria,Health Care and Social Assistance,285.1
+Aug-2009,Victoria,Health Care and Social Assistance,298.4
+Nov-2009,Victoria,Health Care and Social Assistance,300.7
+Feb-2010,Victoria,Health Care and Social Assistance,299.4
+May-2010,Victoria,Health Care and Social Assistance,293.7
+Aug-2010,Victoria,Health Care and Social Assistance,312.8
+Nov-2010,Victoria,Health Care and Social Assistance,317.3
+Feb-2011,Victoria,Health Care and Social Assistance,321.7
+May-2011,Victoria,Health Care and Social Assistance,333.0
+Aug-2011,Victoria,Health Care and Social Assistance,333.1
+Nov-2011,Victoria,Health Care and Social Assistance,327.0
+Feb-2012,Victoria,Health Care and Social Assistance,330.1
+May-2012,Victoria,Health Care and Social Assistance,310.8
+Aug-2012,Victoria,Health Care and Social Assistance,333.3
+Nov-2012,Victoria,Health Care and Social Assistance,336.7
+Feb-2013,Victoria,Health Care and Social Assistance,340.1
+May-2013,Victoria,Health Care and Social Assistance,350.5
+Aug-2013,Victoria,Health Care and Social Assistance,345.5
+Nov-2013,Victoria,Health Care and Social Assistance,359.6
+Feb-2014,Victoria,Health Care and Social Assistance,358.8
+May-2014,Victoria,Health Care and Social Assistance,360.3
+Aug-2014,Victoria,Health Care and Social Assistance,344.8
+Nov-2014,Victoria,Health Care and Social Assistance,342.8
+Feb-2015,Victoria,Health Care and Social Assistance,360.8
+May-2015,Victoria,Health Care and Social Assistance,351.4
+Aug-2015,Victoria,Health Care and Social Assistance,373.5
+Nov-2015,Victoria,Health Care and Social Assistance,378.1
+Feb-2016,Victoria,Health Care and Social Assistance,386.8
+May-2016,Victoria,Health Care and Social Assistance,405.4
+Aug-2016,Victoria,Health Care and Social Assistance,396.2
+Nov-2016,Victoria,Health Care and Social Assistance,409.9
+Feb-2017,Victoria,Health Care and Social Assistance,419.1
+May-2017,Victoria,Health Care and Social Assistance,427.5
+Aug-2017,Victoria,Health Care and Social Assistance,425.9
+Nov-2017,Victoria,Health Care and Social Assistance,404.7
+Feb-2018,Victoria,Health Care and Social Assistance,400.4
+May-2018,Victoria,Health Care and Social Assistance,410.5
+Aug-2018,Victoria,Health Care and Social Assistance,443.6
+Nov-2018,Victoria,Health Care and Social Assistance,442.0
+Feb-2019,Victoria,Health Care and Social Assistance,433.3
+May-2019,Victoria,Health Care and Social Assistance,411.5
+Aug-2019,Victoria,Health Care and Social Assistance,420.4
+Nov-2019,Victoria,Health Care and Social Assistance,460.2
+Feb-2020,Victoria,Health Care and Social Assistance,477.4
+May-2020,Victoria,Health Care and Social Assistance,474.2
+Aug-2020,Victoria,Health Care and Social Assistance,466.6
+Nov-2020,Victoria,Health Care and Social Assistance,464.9
+Feb-2021,Victoria,Health Care and Social Assistance,462.5
+May-2021,Victoria,Health Care and Social Assistance,461.5
+Aug-2021,Victoria,Health Care and Social Assistance,485.7
+Nov-2021,Victoria,Health Care and Social Assistance,492.1
+Feb-2022,Victoria,Health Care and Social Assistance,510.5
+May-2022,Victoria,Health Care and Social Assistance,503.5
+Aug-2022,Victoria,Health Care and Social Assistance,535.1
+Nov-2022,Victoria,Health Care and Social Assistance,535.2
+Feb-2023,Victoria,Health Care and Social Assistance,553.5
+May-2023,Victoria,Health Care and Social Assistance,557.3
+Aug-2023,Victoria,Health Care and Social Assistance,577.7
+Nov-2023,Victoria,Health Care and Social Assistance,596.1
+Feb-2024,Victoria,Health Care and Social Assistance,579.6
+May-2024,Victoria,Health Care and Social Assistance,578.8
+Aug-2024,Victoria,Health Care and Social Assistance,592.0
+Nov-2024,Victoria,Health Care and Social Assistance,579.3
+Feb-2025,Victoria,Health Care and Social Assistance,603.0
+May-2025,Victoria,Health Care and Social Assistance,611.8
+Aug-2025,Victoria,Health Care and Social Assistance,619.8
+Nov-2025,Victoria,Health Care and Social Assistance,625.7
+Feb-2026,Victoria,Health Care and Social Assistance,632.0
+Nov-1984,Queensland,Manufacturing,120.7
+Feb-1985,Queensland,Manufacturing,125.7
+May-1985,Queensland,Manufacturing,121.1
+Aug-1985,Queensland,Manufacturing,124.7
+Nov-1985,Queensland,Manufacturing,133.4
+Feb-1986,Queensland,Manufacturing,136.3
+May-1986,Queensland,Manufacturing,135.1
+Aug-1986,Queensland,Manufacturing,135.4
+Nov-1986,Queensland,Manufacturing,130.9
+Feb-1987,Queensland,Manufacturing,129.1
+May-1987,Queensland,Manufacturing,126.3
+Aug-1987,Queensland,Manufacturing,129.7
+Nov-1987,Queensland,Manufacturing,126.6
+Feb-1988,Queensland,Manufacturing,124.4
+May-1988,Queensland,Manufacturing,137.8
+Aug-1988,Queensland,Manufacturing,143.4
+Nov-1988,Queensland,Manufacturing,148.8
+Feb-1989,Queensland,Manufacturing,151.7
+May-1989,Queensland,Manufacturing,161.9
+Aug-1989,Queensland,Manufacturing,159.6
+Nov-1989,Queensland,Manufacturing,155.7
+Feb-1990,Queensland,Manufacturing,152.3
+May-1990,Queensland,Manufacturing,155.1
+Aug-1990,Queensland,Manufacturing,154.9
+Nov-1990,Queensland,Manufacturing,145.5
+Feb-1991,Queensland,Manufacturing,141.8
+May-1991,Queensland,Manufacturing,132.0
+Aug-1991,Queensland,Manufacturing,141.2
+Nov-1991,Queensland,Manufacturing,145.7
+Feb-1992,Queensland,Manufacturing,158.4
+May-1992,Queensland,Manufacturing,156.6
+Aug-1992,Queensland,Manufacturing,152.8
+Nov-1992,Queensland,Manufacturing,159.1
+Feb-1993,Queensland,Manufacturing,153.5
+May-1993,Queensland,Manufacturing,157.8
+Aug-1993,Queensland,Manufacturing,155.0
+Nov-1993,Queensland,Manufacturing,166.0
+Feb-1994,Queensland,Manufacturing,161.2
+May-1994,Queensland,Manufacturing,173.7
+Aug-1994,Queensland,Manufacturing,167.1
+Nov-1994,Queensland,Manufacturing,174.2
+Feb-1995,Queensland,Manufacturing,168.7
+May-1995,Queensland,Manufacturing,175.5
+Aug-1995,Queensland,Manufacturing,175.2
+Nov-1995,Queensland,Manufacturing,175.1
+Feb-1996,Queensland,Manufacturing,174.3
+May-1996,Queensland,Manufacturing,165.5
+Aug-1996,Queensland,Manufacturing,156.1
+Nov-1996,Queensland,Manufacturing,159.6
+Feb-1997,Queensland,Manufacturing,163.6
+May-1997,Queensland,Manufacturing,172.4
+Aug-1997,Queensland,Manufacturing,169.2
+Nov-1997,Queensland,Manufacturing,165.5
+Feb-1998,Queensland,Manufacturing,169.3
+May-1998,Queensland,Manufacturing,162.6
+Aug-1998,Queensland,Manufacturing,169.2
+Nov-1998,Queensland,Manufacturing,172.5
+Feb-1999,Queensland,Manufacturing,164.2
+May-1999,Queensland,Manufacturing,164.8
+Aug-1999,Queensland,Manufacturing,165.2
+Nov-1999,Queensland,Manufacturing,162.1
+Feb-2000,Queensland,Manufacturing,163.4
+May-2000,Queensland,Manufacturing,178.1
+Aug-2000,Queensland,Manufacturing,175.7
+Nov-2000,Queensland,Manufacturing,169.8
+Feb-2001,Queensland,Manufacturing,173.4
+May-2001,Queensland,Manufacturing,164.9
+Aug-2001,Queensland,Manufacturing,167.4
+Nov-2001,Queensland,Manufacturing,172.5
+Feb-2002,Queensland,Manufacturing,182.3
+May-2002,Queensland,Manufacturing,171.9
+Aug-2002,Queensland,Manufacturing,170.7
+Nov-2002,Queensland,Manufacturing,178.6
+Feb-2003,Queensland,Manufacturing,168.4
+May-2003,Queensland,Manufacturing,172.0
+Aug-2003,Queensland,Manufacturing,173.2
+Nov-2003,Queensland,Manufacturing,167.2
+Feb-2004,Queensland,Manufacturing,183.9
+May-2004,Queensland,Manufacturing,186.5
+Aug-2004,Queensland,Manufacturing,190.4
+Nov-2004,Queensland,Manufacturing,194.4
+Feb-2005,Queensland,Manufacturing,193.5
+May-2005,Queensland,Manufacturing,182.2
+Aug-2005,Queensland,Manufacturing,163.9
+Nov-2005,Queensland,Manufacturing,175.3
+Feb-2006,Queensland,Manufacturing,180.5
+May-2006,Queensland,Manufacturing,189.0
+Aug-2006,Queensland,Manufacturing,188.0
+Nov-2006,Queensland,Manufacturing,185.3
+Feb-2007,Queensland,Manufacturing,175.1
+May-2007,Queensland,Manufacturing,187.6
+Aug-2007,Queensland,Manufacturing,182.7
+Nov-2007,Queensland,Manufacturing,184.0
+Feb-2008,Queensland,Manufacturing,185.0
+May-2008,Queensland,Manufacturing,195.0
+Aug-2008,Queensland,Manufacturing,198.9
+Nov-2008,Queensland,Manufacturing,188.4
+Feb-2009,Queensland,Manufacturing,176.5
+May-2009,Queensland,Manufacturing,182.4
+Aug-2009,Queensland,Manufacturing,189.9
+Nov-2009,Queensland,Manufacturing,180.8
+Feb-2010,Queensland,Manufacturing,175.2
+May-2010,Queensland,Manufacturing,189.4
+Aug-2010,Queensland,Manufacturing,197.2
+Nov-2010,Queensland,Manufacturing,189.6
+Feb-2011,Queensland,Manufacturing,169.0
+May-2011,Queensland,Manufacturing,173.7
+Aug-2011,Queensland,Manufacturing,185.5
+Nov-2011,Queensland,Manufacturing,176.2
+Feb-2012,Queensland,Manufacturing,173.1
+May-2012,Queensland,Manufacturing,168.6
+Aug-2012,Queensland,Manufacturing,160.4
+Nov-2012,Queensland,Manufacturing,170.1
+Feb-2013,Queensland,Manufacturing,156.2
+May-2013,Queensland,Manufacturing,155.7
+Aug-2013,Queensland,Manufacturing,174.1
+Nov-2013,Queensland,Manufacturing,194.8
+Feb-2014,Queensland,Manufacturing,177.2
+May-2014,Queensland,Manufacturing,164.0
+Aug-2014,Queensland,Manufacturing,169.5
+Nov-2014,Queensland,Manufacturing,156.5
+Feb-2015,Queensland,Manufacturing,168.5
+May-2015,Queensland,Manufacturing,173.4
+Aug-2015,Queensland,Manufacturing,164.2
+Nov-2015,Queensland,Manufacturing,172.5
+Feb-2016,Queensland,Manufacturing,176.0
+May-2016,Queensland,Manufacturing,163.1
+Aug-2016,Queensland,Manufacturing,158.4
+Nov-2016,Queensland,Manufacturing,174.0
+Feb-2017,Queensland,Manufacturing,172.2
+May-2017,Queensland,Manufacturing,157.2
+Aug-2017,Queensland,Manufacturing,156.7
+Nov-2017,Queensland,Manufacturing,162.8
+Feb-2018,Queensland,Manufacturing,184.0
+May-2018,Queensland,Manufacturing,175.1
+Aug-2018,Queensland,Manufacturing,188.3
+Nov-2018,Queensland,Manufacturing,173.7
+Feb-2019,Queensland,Manufacturing,149.7
+May-2019,Queensland,Manufacturing,169.0
+Aug-2019,Queensland,Manufacturing,165.2
+Nov-2019,Queensland,Manufacturing,166.9
+Feb-2020,Queensland,Manufacturing,160.2
+May-2020,Queensland,Manufacturing,166.3
+Aug-2020,Queensland,Manufacturing,162.5
+Nov-2020,Queensland,Manufacturing,176.3
+Feb-2021,Queensland,Manufacturing,177.7
+May-2021,Queensland,Manufacturing,194.2
+Aug-2021,Queensland,Manufacturing,203.6
+Nov-2021,Queensland,Manufacturing,180.8
+Feb-2022,Queensland,Manufacturing,188.7
+May-2022,Queensland,Manufacturing,170.6
+Aug-2022,Queensland,Manufacturing,167.8
+Nov-2022,Queensland,Manufacturing,175.9
+Feb-2023,Queensland,Manufacturing,182.1
+May-2023,Queensland,Manufacturing,179.4
+Aug-2023,Queensland,Manufacturing,161.2
+Nov-2023,Queensland,Manufacturing,185.7
+Feb-2024,Queensland,Manufacturing,184.0
+May-2024,Queensland,Manufacturing,190.3
+Aug-2024,Queensland,Manufacturing,179.6
+Nov-2024,Queensland,Manufacturing,168.5
+Feb-2025,Queensland,Manufacturing,172.3
+May-2025,Queensland,Manufacturing,175.6
+Aug-2025,Queensland,Manufacturing,172.6
+Nov-2025,Queensland,Manufacturing,163.2
+Feb-2026,Queensland,Manufacturing,165.2
+Nov-1984,Queensland,Construction,79.4
+Feb-1985,Queensland,Construction,80.3
+May-1985,Queensland,Construction,90.6
+Aug-1985,Queensland,Construction,90.4
+Nov-1985,Queensland,Construction,87.0
+Feb-1986,Queensland,Construction,83.8
+May-1986,Queensland,Construction,89.4
+Aug-1986,Queensland,Construction,86.0
+Nov-1986,Queensland,Construction,86.3
+Feb-1987,Queensland,Construction,89.9
+May-1987,Queensland,Construction,86.1
+Aug-1987,Queensland,Construction,82.9
+Nov-1987,Queensland,Construction,83.0
+Feb-1988,Queensland,Construction,92.8
+May-1988,Queensland,Construction,99.4
+Aug-1988,Queensland,Construction,103.7
+Nov-1988,Queensland,Construction,105.2
+Feb-1989,Queensland,Construction,113.6
+May-1989,Queensland,Construction,111.9
+Aug-1989,Queensland,Construction,115.3
+Nov-1989,Queensland,Construction,116.5
+Feb-1990,Queensland,Construction,118.3
+May-1990,Queensland,Construction,112.6
+Aug-1990,Queensland,Construction,116.8
+Nov-1990,Queensland,Construction,106.1
+Feb-1991,Queensland,Construction,106.1
+May-1991,Queensland,Construction,108.5
+Aug-1991,Queensland,Construction,105.9
+Nov-1991,Queensland,Construction,110.2
+Feb-1992,Queensland,Construction,96.7
+May-1992,Queensland,Construction,92.7
+Aug-1992,Queensland,Construction,109.3
+Nov-1992,Queensland,Construction,112.5
+Feb-1993,Queensland,Construction,113.9
+May-1993,Queensland,Construction,119.2
+Aug-1993,Queensland,Construction,120.5
+Nov-1993,Queensland,Construction,123.9
+Feb-1994,Queensland,Construction,129.4
+May-1994,Queensland,Construction,129.6
+Aug-1994,Queensland,Construction,140.8
+Nov-1994,Queensland,Construction,140.9
+Feb-1995,Queensland,Construction,136.8
+May-1995,Queensland,Construction,126.4
+Aug-1995,Queensland,Construction,124.3
+Nov-1995,Queensland,Construction,130.6
+Feb-1996,Queensland,Construction,126.5
+May-1996,Queensland,Construction,120.5
+Aug-1996,Queensland,Construction,126.0
+Nov-1996,Queensland,Construction,127.0
+Feb-1997,Queensland,Construction,124.0
+May-1997,Queensland,Construction,120.2
+Aug-1997,Queensland,Construction,116.7
+Nov-1997,Queensland,Construction,120.9
+Feb-1998,Queensland,Construction,125.7
+May-1998,Queensland,Construction,126.0
+Aug-1998,Queensland,Construction,126.2
+Nov-1998,Queensland,Construction,137.0
+Feb-1999,Queensland,Construction,133.7
+May-1999,Queensland,Construction,137.0
+Aug-1999,Queensland,Construction,135.5
+Nov-1999,Queensland,Construction,141.4
+Feb-2000,Queensland,Construction,140.2
+May-2000,Queensland,Construction,141.0
+Aug-2000,Queensland,Construction,140.4
+Nov-2000,Queensland,Construction,127.6
+Feb-2001,Queensland,Construction,131.4
+May-2001,Queensland,Construction,133.6
+Aug-2001,Queensland,Construction,138.3
+Nov-2001,Queensland,Construction,133.8
+Feb-2002,Queensland,Construction,129.9
+May-2002,Queensland,Construction,133.3
+Aug-2002,Queensland,Construction,140.3
+Nov-2002,Queensland,Construction,146.7
+Feb-2003,Queensland,Construction,156.8
+May-2003,Queensland,Construction,138.9
+Aug-2003,Queensland,Construction,158.2
+Nov-2003,Queensland,Construction,159.0
+Feb-2004,Queensland,Construction,160.2
+May-2004,Queensland,Construction,169.9
+Aug-2004,Queensland,Construction,167.3
+Nov-2004,Queensland,Construction,177.8
+Feb-2005,Queensland,Construction,195.6
+May-2005,Queensland,Construction,193.9
+Aug-2005,Queensland,Construction,199.7
+Nov-2005,Queensland,Construction,196.4
+Feb-2006,Queensland,Construction,201.4
+May-2006,Queensland,Construction,197.8
+Aug-2006,Queensland,Construction,210.0
+Nov-2006,Queensland,Construction,223.5
+Feb-2007,Queensland,Construction,222.5
+May-2007,Queensland,Construction,224.4
+Aug-2007,Queensland,Construction,220.1
+Nov-2007,Queensland,Construction,235.9
+Feb-2008,Queensland,Construction,237.8
+May-2008,Queensland,Construction,237.1
+Aug-2008,Queensland,Construction,247.6
+Nov-2008,Queensland,Construction,246.0
+Feb-2009,Queensland,Construction,242.8
+May-2009,Queensland,Construction,233.3
+Aug-2009,Queensland,Construction,224.8
+Nov-2009,Queensland,Construction,235.4
+Feb-2010,Queensland,Construction,230.4
+May-2010,Queensland,Construction,223.0
+Aug-2010,Queensland,Construction,220.4
+Nov-2010,Queensland,Construction,234.6
+Feb-2011,Queensland,Construction,228.6
+May-2011,Queensland,Construction,231.3
+Aug-2011,Queensland,Construction,223.7
+Nov-2011,Queensland,Construction,228.6
+Feb-2012,Queensland,Construction,222.6
+May-2012,Queensland,Construction,214.9
+Aug-2012,Queensland,Construction,217.8
+Nov-2012,Queensland,Construction,230.8
+Feb-2013,Queensland,Construction,244.1
+May-2013,Queensland,Construction,223.0
+Aug-2013,Queensland,Construction,233.7
+Nov-2013,Queensland,Construction,230.8
+Feb-2014,Queensland,Construction,231.4
+May-2014,Queensland,Construction,221.2
+Aug-2014,Queensland,Construction,224.6
+Nov-2014,Queensland,Construction,217.7
+Feb-2015,Queensland,Construction,217.7
+May-2015,Queensland,Construction,205.9
+Aug-2015,Queensland,Construction,191.5
+Nov-2015,Queensland,Construction,203.6
+Feb-2016,Queensland,Construction,215.3
+May-2016,Queensland,Construction,222.8
+Aug-2016,Queensland,Construction,213.9
+Nov-2016,Queensland,Construction,226.8
+Feb-2017,Queensland,Construction,227.3
+May-2017,Queensland,Construction,252.2
+Aug-2017,Queensland,Construction,244.3
+Nov-2017,Queensland,Construction,236.5
+Feb-2018,Queensland,Construction,239.9
+May-2018,Queensland,Construction,233.8
+Aug-2018,Queensland,Construction,235.1
+Nov-2018,Queensland,Construction,225.9
+Feb-2019,Queensland,Construction,249.7
+May-2019,Queensland,Construction,238.6
+Aug-2019,Queensland,Construction,249.0
+Nov-2019,Queensland,Construction,249.0
+Feb-2020,Queensland,Construction,252.4
+May-2020,Queensland,Construction,230.8
+Aug-2020,Queensland,Construction,223.9
+Nov-2020,Queensland,Construction,237.7
+Feb-2021,Queensland,Construction,231.9
+May-2021,Queensland,Construction,232.0
+Aug-2021,Queensland,Construction,239.6
+Nov-2021,Queensland,Construction,232.9
+Feb-2022,Queensland,Construction,239.9
+May-2022,Queensland,Construction,235.9
+Aug-2022,Queensland,Construction,258.4
+Nov-2022,Queensland,Construction,259.5
+Feb-2023,Queensland,Construction,261.9
+May-2023,Queensland,Construction,276.0
+Aug-2023,Queensland,Construction,288.4
+Nov-2023,Queensland,Construction,281.3
+Feb-2024,Queensland,Construction,270.1
+May-2024,Queensland,Construction,273.8
+Aug-2024,Queensland,Construction,268.7
+Nov-2024,Queensland,Construction,292.2
+Feb-2025,Queensland,Construction,290.3
+May-2025,Queensland,Construction,287.9
+Aug-2025,Queensland,Construction,269.4
+Nov-2025,Queensland,Construction,304.3
+Feb-2026,Queensland,Construction,281.6
+Nov-1984,Queensland,Accommodation and Food Services,54.2
+Feb-1985,Queensland,Accommodation and Food Services,53.3
+May-1985,Queensland,Accommodation and Food Services,60.4
+Aug-1985,Queensland,Accommodation and Food Services,59.5
+Nov-1985,Queensland,Accommodation and Food Services,63.5
+Feb-1986,Queensland,Accommodation and Food Services,62.2
+May-1986,Queensland,Accommodation and Food Services,63.7
+Aug-1986,Queensland,Accommodation and Food Services,63.8
+Nov-1986,Queensland,Accommodation and Food Services,67.2
+Feb-1987,Queensland,Accommodation and Food Services,67.8
+May-1987,Queensland,Accommodation and Food Services,70.3
+Aug-1987,Queensland,Accommodation and Food Services,69.2
+Nov-1987,Queensland,Accommodation and Food Services,66.4
+Feb-1988,Queensland,Accommodation and Food Services,73.8
+May-1988,Queensland,Accommodation and Food Services,79.6
+Aug-1988,Queensland,Accommodation and Food Services,79.6
+Nov-1988,Queensland,Accommodation and Food Services,79.1
+Feb-1989,Queensland,Accommodation and Food Services,78.9
+May-1989,Queensland,Accommodation and Food Services,87.2
+Aug-1989,Queensland,Accommodation and Food Services,82.9
+Nov-1989,Queensland,Accommodation and Food Services,91.1
+Feb-1990,Queensland,Accommodation and Food Services,90.1
+May-1990,Queensland,Accommodation and Food Services,86.0
+Aug-1990,Queensland,Accommodation and Food Services,77.8
+Nov-1990,Queensland,Accommodation and Food Services,88.4
+Feb-1991,Queensland,Accommodation and Food Services,79.6
+May-1991,Queensland,Accommodation and Food Services,83.2
+Aug-1991,Queensland,Accommodation and Food Services,84.9
+Nov-1991,Queensland,Accommodation and Food Services,94.0
+Feb-1992,Queensland,Accommodation and Food Services,90.3
+May-1992,Queensland,Accommodation and Food Services,89.0
+Aug-1992,Queensland,Accommodation and Food Services,83.5
+Nov-1992,Queensland,Accommodation and Food Services,93.4
+Feb-1993,Queensland,Accommodation and Food Services,91.9
+May-1993,Queensland,Accommodation and Food Services,93.9
+Aug-1993,Queensland,Accommodation and Food Services,93.8
+Nov-1993,Queensland,Accommodation and Food Services,92.6
+Feb-1994,Queensland,Accommodation and Food Services,98.4
+May-1994,Queensland,Accommodation and Food Services,99.1
+Aug-1994,Queensland,Accommodation and Food Services,100.7
+Nov-1994,Queensland,Accommodation and Food Services,103.3
+Feb-1995,Queensland,Accommodation and Food Services,104.2
+May-1995,Queensland,Accommodation and Food Services,104.4
+Aug-1995,Queensland,Accommodation and Food Services,101.8
+Nov-1995,Queensland,Accommodation and Food Services,109.8
+Feb-1996,Queensland,Accommodation and Food Services,101.5
+May-1996,Queensland,Accommodation and Food Services,102.0
+Aug-1996,Queensland,Accommodation and Food Services,109.3
+Nov-1996,Queensland,Accommodation and Food Services,114.6
+Feb-1997,Queensland,Accommodation and Food Services,116.4
+May-1997,Queensland,Accommodation and Food Services,113.5
+Aug-1997,Queensland,Accommodation and Food Services,108.2
+Nov-1997,Queensland,Accommodation and Food Services,126.7
+Feb-1998,Queensland,Accommodation and Food Services,117.9
+May-1998,Queensland,Accommodation and Food Services,119.8
+Aug-1998,Queensland,Accommodation and Food Services,113.9
+Nov-1998,Queensland,Accommodation and Food Services,116.3
+Feb-1999,Queensland,Accommodation and Food Services,110.2
+May-1999,Queensland,Accommodation and Food Services,126.5
+Aug-1999,Queensland,Accommodation and Food Services,120.3
+Nov-1999,Queensland,Accommodation and Food Services,127.5
+Feb-2000,Queensland,Accommodation and Food Services,129.7
+May-2000,Queensland,Accommodation and Food Services,128.2
+Aug-2000,Queensland,Accommodation and Food Services,133.4
+Nov-2000,Queensland,Accommodation and Food Services,130.1
+Feb-2001,Queensland,Accommodation and Food Services,122.9
+May-2001,Queensland,Accommodation and Food Services,132.2
+Aug-2001,Queensland,Accommodation and Food Services,136.3
+Nov-2001,Queensland,Accommodation and Food Services,143.3
+Feb-2002,Queensland,Accommodation and Food Services,137.8
+May-2002,Queensland,Accommodation and Food Services,141.6
+Aug-2002,Queensland,Accommodation and Food Services,133.8
+Nov-2002,Queensland,Accommodation and Food Services,129.2
+Feb-2003,Queensland,Accommodation and Food Services,129.6
+May-2003,Queensland,Accommodation and Food Services,130.7
+Aug-2003,Queensland,Accommodation and Food Services,129.2
+Nov-2003,Queensland,Accommodation and Food Services,141.9
+Feb-2004,Queensland,Accommodation and Food Services,126.7
+May-2004,Queensland,Accommodation and Food Services,126.6
+Aug-2004,Queensland,Accommodation and Food Services,138.8
+Nov-2004,Queensland,Accommodation and Food Services,140.7
+Feb-2005,Queensland,Accommodation and Food Services,139.4
+May-2005,Queensland,Accommodation and Food Services,151.6
+Aug-2005,Queensland,Accommodation and Food Services,142.8
+Nov-2005,Queensland,Accommodation and Food Services,141.8
+Feb-2006,Queensland,Accommodation and Food Services,139.3
+May-2006,Queensland,Accommodation and Food Services,139.6
+Aug-2006,Queensland,Accommodation and Food Services,149.9
+Nov-2006,Queensland,Accommodation and Food Services,148.0
+Feb-2007,Queensland,Accommodation and Food Services,142.0
+May-2007,Queensland,Accommodation and Food Services,143.1
+Aug-2007,Queensland,Accommodation and Food Services,149.3
+Nov-2007,Queensland,Accommodation and Food Services,152.8
+Feb-2008,Queensland,Accommodation and Food Services,153.0
+May-2008,Queensland,Accommodation and Food Services,148.5
+Aug-2008,Queensland,Accommodation and Food Services,158.6
+Nov-2008,Queensland,Accommodation and Food Services,159.4
+Feb-2009,Queensland,Accommodation and Food Services,150.7
+May-2009,Queensland,Accommodation and Food Services,158.5
+Aug-2009,Queensland,Accommodation and Food Services,156.8
+Nov-2009,Queensland,Accommodation and Food Services,158.8
+Feb-2010,Queensland,Accommodation and Food Services,148.7
+May-2010,Queensland,Accommodation and Food Services,166.2
+Aug-2010,Queensland,Accommodation and Food Services,153.6
+Nov-2010,Queensland,Accommodation and Food Services,170.3
+Feb-2011,Queensland,Accommodation and Food Services,157.9
+May-2011,Queensland,Accommodation and Food Services,171.1
+Aug-2011,Queensland,Accommodation and Food Services,160.3
+Nov-2011,Queensland,Accommodation and Food Services,154.7
+Feb-2012,Queensland,Accommodation and Food Services,150.2
+May-2012,Queensland,Accommodation and Food Services,157.2
+Aug-2012,Queensland,Accommodation and Food Services,167.5
+Nov-2012,Queensland,Accommodation and Food Services,163.0
+Feb-2013,Queensland,Accommodation and Food Services,151.7
+May-2013,Queensland,Accommodation and Food Services,169.2
+Aug-2013,Queensland,Accommodation and Food Services,149.2
+Nov-2013,Queensland,Accommodation and Food Services,141.2
+Feb-2014,Queensland,Accommodation and Food Services,143.8
+May-2014,Queensland,Accommodation and Food Services,160.8
+Aug-2014,Queensland,Accommodation and Food Services,170.4
+Nov-2014,Queensland,Accommodation and Food Services,180.1
+Feb-2015,Queensland,Accommodation and Food Services,181.1
+May-2015,Queensland,Accommodation and Food Services,176.5
+Aug-2015,Queensland,Accommodation and Food Services,157.6
+Nov-2015,Queensland,Accommodation and Food Services,168.4
+Feb-2016,Queensland,Accommodation and Food Services,172.3
+May-2016,Queensland,Accommodation and Food Services,167.9
+Aug-2016,Queensland,Accommodation and Food Services,170.4
+Nov-2016,Queensland,Accommodation and Food Services,179.8
+Feb-2017,Queensland,Accommodation and Food Services,178.8
+May-2017,Queensland,Accommodation and Food Services,178.8
+Aug-2017,Queensland,Accommodation and Food Services,186.3
+Nov-2017,Queensland,Accommodation and Food Services,180.7
+Feb-2018,Queensland,Accommodation and Food Services,172.5
+May-2018,Queensland,Accommodation and Food Services,174.2
+Aug-2018,Queensland,Accommodation and Food Services,179.4
+Nov-2018,Queensland,Accommodation and Food Services,192.5
+Feb-2019,Queensland,Accommodation and Food Services,187.0
+May-2019,Queensland,Accommodation and Food Services,194.2
+Aug-2019,Queensland,Accommodation and Food Services,187.7
+Nov-2019,Queensland,Accommodation and Food Services,215.0
+Feb-2020,Queensland,Accommodation and Food Services,208.0
+May-2020,Queensland,Accommodation and Food Services,146.9
+Aug-2020,Queensland,Accommodation and Food Services,168.9
+Nov-2020,Queensland,Accommodation and Food Services,175.6
+Feb-2021,Queensland,Accommodation and Food Services,178.7
+May-2021,Queensland,Accommodation and Food Services,206.4
+Aug-2021,Queensland,Accommodation and Food Services,195.6
+Nov-2021,Queensland,Accommodation and Food Services,209.8
+Feb-2022,Queensland,Accommodation and Food Services,215.2
+May-2022,Queensland,Accommodation and Food Services,199.0
+Aug-2022,Queensland,Accommodation and Food Services,196.3
+Nov-2022,Queensland,Accommodation and Food Services,203.5
+Feb-2023,Queensland,Accommodation and Food Services,191.4
+May-2023,Queensland,Accommodation and Food Services,207.0
+Aug-2023,Queensland,Accommodation and Food Services,191.9
+Nov-2023,Queensland,Accommodation and Food Services,192.5
+Feb-2024,Queensland,Accommodation and Food Services,198.9
+May-2024,Queensland,Accommodation and Food Services,220.4
+Aug-2024,Queensland,Accommodation and Food Services,231.9
+Nov-2024,Queensland,Accommodation and Food Services,215.9
+Feb-2025,Queensland,Accommodation and Food Services,208.4
+May-2025,Queensland,Accommodation and Food Services,212.2
+Aug-2025,Queensland,Accommodation and Food Services,204.3
+Nov-2025,Queensland,Accommodation and Food Services,228.6
+Feb-2026,Queensland,Accommodation and Food Services,218.0
+Nov-1984,Queensland,"Professional, Scientific and Technical Services",35.1
+Feb-1985,Queensland,"Professional, Scientific and Technical Services",38.0
+May-1985,Queensland,"Professional, Scientific and Technical Services",39.2
+Aug-1985,Queensland,"Professional, Scientific and Technical Services",40.0
+Nov-1985,Queensland,"Professional, Scientific and Technical Services",40.1
+Feb-1986,Queensland,"Professional, Scientific and Technical Services",41.8
+May-1986,Queensland,"Professional, Scientific and Technical Services",41.8
+Aug-1986,Queensland,"Professional, Scientific and Technical Services",39.7
+Nov-1986,Queensland,"Professional, Scientific and Technical Services",41.0
+Feb-1987,Queensland,"Professional, Scientific and Technical Services",45.8
+May-1987,Queensland,"Professional, Scientific and Technical Services",48.3
+Aug-1987,Queensland,"Professional, Scientific and Technical Services",46.3
+Nov-1987,Queensland,"Professional, Scientific and Technical Services",45.5
+Feb-1988,Queensland,"Professional, Scientific and Technical Services",53.4
+May-1988,Queensland,"Professional, Scientific and Technical Services",55.8
+Aug-1988,Queensland,"Professional, Scientific and Technical Services",52.2
+Nov-1988,Queensland,"Professional, Scientific and Technical Services",55.3
+Feb-1989,Queensland,"Professional, Scientific and Technical Services",54.2
+May-1989,Queensland,"Professional, Scientific and Technical Services",54.0
+Aug-1989,Queensland,"Professional, Scientific and Technical Services",56.7
+Nov-1989,Queensland,"Professional, Scientific and Technical Services",57.9
+Feb-1990,Queensland,"Professional, Scientific and Technical Services",58.4
+May-1990,Queensland,"Professional, Scientific and Technical Services",52.6
+Aug-1990,Queensland,"Professional, Scientific and Technical Services",53.9
+Nov-1990,Queensland,"Professional, Scientific and Technical Services",58.0
+Feb-1991,Queensland,"Professional, Scientific and Technical Services",62.8
+May-1991,Queensland,"Professional, Scientific and Technical Services",59.6
+Aug-1991,Queensland,"Professional, Scientific and Technical Services",58.2
+Nov-1991,Queensland,"Professional, Scientific and Technical Services",59.6
+Feb-1992,Queensland,"Professional, Scientific and Technical Services",61.0
+May-1992,Queensland,"Professional, Scientific and Technical Services",65.0
+Aug-1992,Queensland,"Professional, Scientific and Technical Services",62.6
+Nov-1992,Queensland,"Professional, Scientific and Technical Services",59.7
+Feb-1993,Queensland,"Professional, Scientific and Technical Services",56.3
+May-1993,Queensland,"Professional, Scientific and Technical Services",57.1
+Aug-1993,Queensland,"Professional, Scientific and Technical Services",57.3
+Nov-1993,Queensland,"Professional, Scientific and Technical Services",60.3
+Feb-1994,Queensland,"Professional, Scientific and Technical Services",62.5
+May-1994,Queensland,"Professional, Scientific and Technical Services",67.1
+Aug-1994,Queensland,"Professional, Scientific and Technical Services",78.9
+Nov-1994,Queensland,"Professional, Scientific and Technical Services",76.6
+Feb-1995,Queensland,"Professional, Scientific and Technical Services",77.5
+May-1995,Queensland,"Professional, Scientific and Technical Services",78.6
+Aug-1995,Queensland,"Professional, Scientific and Technical Services",76.9
+Nov-1995,Queensland,"Professional, Scientific and Technical Services",79.2
+Feb-1996,Queensland,"Professional, Scientific and Technical Services",80.5
+May-1996,Queensland,"Professional, Scientific and Technical Services",80.0
+Aug-1996,Queensland,"Professional, Scientific and Technical Services",82.5
+Nov-1996,Queensland,"Professional, Scientific and Technical Services",84.5
+Feb-1997,Queensland,"Professional, Scientific and Technical Services",83.0
+May-1997,Queensland,"Professional, Scientific and Technical Services",77.5
+Aug-1997,Queensland,"Professional, Scientific and Technical Services",87.5
+Nov-1997,Queensland,"Professional, Scientific and Technical Services",92.5
+Feb-1998,Queensland,"Professional, Scientific and Technical Services",93.9
+May-1998,Queensland,"Professional, Scientific and Technical Services",87.1
+Aug-1998,Queensland,"Professional, Scientific and Technical Services",83.8
+Nov-1998,Queensland,"Professional, Scientific and Technical Services",85.1
+Feb-1999,Queensland,"Professional, Scientific and Technical Services",85.9
+May-1999,Queensland,"Professional, Scientific and Technical Services",85.3
+Aug-1999,Queensland,"Professional, Scientific and Technical Services",80.9
+Nov-1999,Queensland,"Professional, Scientific and Technical Services",95.0
+Feb-2000,Queensland,"Professional, Scientific and Technical Services",91.7
+May-2000,Queensland,"Professional, Scientific and Technical Services",95.7
+Aug-2000,Queensland,"Professional, Scientific and Technical Services",92.0
+Nov-2000,Queensland,"Professional, Scientific and Technical Services",96.8
+Feb-2001,Queensland,"Professional, Scientific and Technical Services",97.8
+May-2001,Queensland,"Professional, Scientific and Technical Services",93.8
+Aug-2001,Queensland,"Professional, Scientific and Technical Services",89.0
+Nov-2001,Queensland,"Professional, Scientific and Technical Services",91.0
+Feb-2002,Queensland,"Professional, Scientific and Technical Services",90.7
+May-2002,Queensland,"Professional, Scientific and Technical Services",93.3
+Aug-2002,Queensland,"Professional, Scientific and Technical Services",94.6
+Nov-2002,Queensland,"Professional, Scientific and Technical Services",90.7
+Feb-2003,Queensland,"Professional, Scientific and Technical Services",98.3
+May-2003,Queensland,"Professional, Scientific and Technical Services",105.1
+Aug-2003,Queensland,"Professional, Scientific and Technical Services",101.7
+Nov-2003,Queensland,"Professional, Scientific and Technical Services",104.2
+Feb-2004,Queensland,"Professional, Scientific and Technical Services",98.4
+May-2004,Queensland,"Professional, Scientific and Technical Services",101.5
+Aug-2004,Queensland,"Professional, Scientific and Technical Services",113.9
+Nov-2004,Queensland,"Professional, Scientific and Technical Services",113.1
+Feb-2005,Queensland,"Professional, Scientific and Technical Services",110.5
+May-2005,Queensland,"Professional, Scientific and Technical Services",117.6
+Aug-2005,Queensland,"Professional, Scientific and Technical Services",122.0
+Nov-2005,Queensland,"Professional, Scientific and Technical Services",116.8
+Feb-2006,Queensland,"Professional, Scientific and Technical Services",118.8
+May-2006,Queensland,"Professional, Scientific and Technical Services",128.1
+Aug-2006,Queensland,"Professional, Scientific and Technical Services",136.8
+Nov-2006,Queensland,"Professional, Scientific and Technical Services",129.2
+Feb-2007,Queensland,"Professional, Scientific and Technical Services",126.6
+May-2007,Queensland,"Professional, Scientific and Technical Services",128.2
+Aug-2007,Queensland,"Professional, Scientific and Technical Services",137.8
+Nov-2007,Queensland,"Professional, Scientific and Technical Services",142.3
+Feb-2008,Queensland,"Professional, Scientific and Technical Services",140.6
+May-2008,Queensland,"Professional, Scientific and Technical Services",128.9
+Aug-2008,Queensland,"Professional, Scientific and Technical Services",135.2
+Nov-2008,Queensland,"Professional, Scientific and Technical Services",152.7
+Feb-2009,Queensland,"Professional, Scientific and Technical Services",147.3
+May-2009,Queensland,"Professional, Scientific and Technical Services",144.4
+Aug-2009,Queensland,"Professional, Scientific and Technical Services",143.8
+Nov-2009,Queensland,"Professional, Scientific and Technical Services",151.4
+Feb-2010,Queensland,"Professional, Scientific and Technical Services",152.4
+May-2010,Queensland,"Professional, Scientific and Technical Services",147.8
+Aug-2010,Queensland,"Professional, Scientific and Technical Services",141.5
+Nov-2010,Queensland,"Professional, Scientific and Technical Services",142.6
+Feb-2011,Queensland,"Professional, Scientific and Technical Services",160.0
+May-2011,Queensland,"Professional, Scientific and Technical Services",157.3
+Aug-2011,Queensland,"Professional, Scientific and Technical Services",151.9
+Nov-2011,Queensland,"Professional, Scientific and Technical Services",145.2
+Feb-2012,Queensland,"Professional, Scientific and Technical Services",141.4
+May-2012,Queensland,"Professional, Scientific and Technical Services",159.3
+Aug-2012,Queensland,"Professional, Scientific and Technical Services",156.6
+Nov-2012,Queensland,"Professional, Scientific and Technical Services",157.9
+Feb-2013,Queensland,"Professional, Scientific and Technical Services",156.5
+May-2013,Queensland,"Professional, Scientific and Technical Services",176.4
+Aug-2013,Queensland,"Professional, Scientific and Technical Services",165.4
+Nov-2013,Queensland,"Professional, Scientific and Technical Services",149.8
+Feb-2014,Queensland,"Professional, Scientific and Technical Services",164.2
+May-2014,Queensland,"Professional, Scientific and Technical Services",175.5
+Aug-2014,Queensland,"Professional, Scientific and Technical Services",177.1
+Nov-2014,Queensland,"Professional, Scientific and Technical Services",185.0
+Feb-2015,Queensland,"Professional, Scientific and Technical Services",176.2
+May-2015,Queensland,"Professional, Scientific and Technical Services",190.2
+Aug-2015,Queensland,"Professional, Scientific and Technical Services",178.6
+Nov-2015,Queensland,"Professional, Scientific and Technical Services",176.6
+Feb-2016,Queensland,"Professional, Scientific and Technical Services",192.0
+May-2016,Queensland,"Professional, Scientific and Technical Services",161.2
+Aug-2016,Queensland,"Professional, Scientific and Technical Services",183.3
+Nov-2016,Queensland,"Professional, Scientific and Technical Services",175.3
+Feb-2017,Queensland,"Professional, Scientific and Technical Services",173.2
+May-2017,Queensland,"Professional, Scientific and Technical Services",159.4
+Aug-2017,Queensland,"Professional, Scientific and Technical Services",167.8
+Nov-2017,Queensland,"Professional, Scientific and Technical Services",163.9
+Feb-2018,Queensland,"Professional, Scientific and Technical Services",169.5
+May-2018,Queensland,"Professional, Scientific and Technical Services",181.7
+Aug-2018,Queensland,"Professional, Scientific and Technical Services",175.6
+Nov-2018,Queensland,"Professional, Scientific and Technical Services",164.7
+Feb-2019,Queensland,"Professional, Scientific and Technical Services",169.8
+May-2019,Queensland,"Professional, Scientific and Technical Services",172.9
+Aug-2019,Queensland,"Professional, Scientific and Technical Services",177.8
+Nov-2019,Queensland,"Professional, Scientific and Technical Services",193.1
+Feb-2020,Queensland,"Professional, Scientific and Technical Services",204.7
+May-2020,Queensland,"Professional, Scientific and Technical Services",190.6
+Aug-2020,Queensland,"Professional, Scientific and Technical Services",176.2
+Nov-2020,Queensland,"Professional, Scientific and Technical Services",180.8
+Feb-2021,Queensland,"Professional, Scientific and Technical Services",203.2
+May-2021,Queensland,"Professional, Scientific and Technical Services",199.5
+Aug-2021,Queensland,"Professional, Scientific and Technical Services",193.3
+Nov-2021,Queensland,"Professional, Scientific and Technical Services",212.2
+Feb-2022,Queensland,"Professional, Scientific and Technical Services",220.8
+May-2022,Queensland,"Professional, Scientific and Technical Services",218.0
+Aug-2022,Queensland,"Professional, Scientific and Technical Services",213.7
+Nov-2022,Queensland,"Professional, Scientific and Technical Services",219.9
+Feb-2023,Queensland,"Professional, Scientific and Technical Services",211.5
+May-2023,Queensland,"Professional, Scientific and Technical Services",232.1
+Aug-2023,Queensland,"Professional, Scientific and Technical Services",218.5
+Nov-2023,Queensland,"Professional, Scientific and Technical Services",237.8
+Feb-2024,Queensland,"Professional, Scientific and Technical Services",255.0
+May-2024,Queensland,"Professional, Scientific and Technical Services",219.1
+Aug-2024,Queensland,"Professional, Scientific and Technical Services",218.7
+Nov-2024,Queensland,"Professional, Scientific and Technical Services",218.1
+Feb-2025,Queensland,"Professional, Scientific and Technical Services",226.3
+May-2025,Queensland,"Professional, Scientific and Technical Services",247.2
+Aug-2025,Queensland,"Professional, Scientific and Technical Services",224.6
+Nov-2025,Queensland,"Professional, Scientific and Technical Services",232.3
+Feb-2026,Queensland,"Professional, Scientific and Technical Services",247.8
+Nov-1984,Queensland,Education and Training,68.7
+Feb-1985,Queensland,Education and Training,65.6
+May-1985,Queensland,Education and Training,75.5
+Aug-1985,Queensland,Education and Training,75.9
+Nov-1985,Queensland,Education and Training,75.7
+Feb-1986,Queensland,Education and Training,68.2
+May-1986,Queensland,Education and Training,69.6
+Aug-1986,Queensland,Education and Training,72.6
+Nov-1986,Queensland,Education and Training,81.3
+Feb-1987,Queensland,Education and Training,78.1
+May-1987,Queensland,Education and Training,83.1
+Aug-1987,Queensland,Education and Training,82.0
+Nov-1987,Queensland,Education and Training,90.6
+Feb-1988,Queensland,Education and Training,80.6
+May-1988,Queensland,Education and Training,84.1
+Aug-1988,Queensland,Education and Training,80.6
+Nov-1988,Queensland,Education and Training,79.8
+Feb-1989,Queensland,Education and Training,75.0
+May-1989,Queensland,Education and Training,80.7
+Aug-1989,Queensland,Education and Training,83.8
+Nov-1989,Queensland,Education and Training,88.4
+Feb-1990,Queensland,Education and Training,88.3
+May-1990,Queensland,Education and Training,94.4
+Aug-1990,Queensland,Education and Training,91.3
+Nov-1990,Queensland,Education and Training,93.6
+Feb-1991,Queensland,Education and Training,93.4
+May-1991,Queensland,Education and Training,97.3
+Aug-1991,Queensland,Education and Training,92.0
+Nov-1991,Queensland,Education and Training,92.8
+Feb-1992,Queensland,Education and Training,90.6
+May-1992,Queensland,Education and Training,97.5
+Aug-1992,Queensland,Education and Training,97.8
+Nov-1992,Queensland,Education and Training,104.8
+Feb-1993,Queensland,Education and Training,99.6
+May-1993,Queensland,Education and Training,101.8
+Aug-1993,Queensland,Education and Training,101.0
+Nov-1993,Queensland,Education and Training,106.5
+Feb-1994,Queensland,Education and Training,101.5
+May-1994,Queensland,Education and Training,101.9
+Aug-1994,Queensland,Education and Training,101.7
+Nov-1994,Queensland,Education and Training,100.1
+Feb-1995,Queensland,Education and Training,99.9
+May-1995,Queensland,Education and Training,104.5
+Aug-1995,Queensland,Education and Training,113.9
+Nov-1995,Queensland,Education and Training,110.1
+Feb-1996,Queensland,Education and Training,103.6
+May-1996,Queensland,Education and Training,114.5
+Aug-1996,Queensland,Education and Training,109.5
+Nov-1996,Queensland,Education and Training,108.8
+Feb-1997,Queensland,Education and Training,106.4
+May-1997,Queensland,Education and Training,116.4
+Aug-1997,Queensland,Education and Training,115.8
+Nov-1997,Queensland,Education and Training,113.8
+Feb-1998,Queensland,Education and Training,111.7
+May-1998,Queensland,Education and Training,122.5
+Aug-1998,Queensland,Education and Training,122.3
+Nov-1998,Queensland,Education and Training,121.1
+Feb-1999,Queensland,Education and Training,113.4
+May-1999,Queensland,Education and Training,113.1
+Aug-1999,Queensland,Education and Training,116.2
+Nov-1999,Queensland,Education and Training,113.3
+Feb-2000,Queensland,Education and Training,102.3
+May-2000,Queensland,Education and Training,114.0
+Aug-2000,Queensland,Education and Training,122.0
+Nov-2000,Queensland,Education and Training,117.6
+Feb-2001,Queensland,Education and Training,117.2
+May-2001,Queensland,Education and Training,129.9
+Aug-2001,Queensland,Education and Training,129.0
+Nov-2001,Queensland,Education and Training,127.3
+Feb-2002,Queensland,Education and Training,114.4
+May-2002,Queensland,Education and Training,128.7
+Aug-2002,Queensland,Education and Training,137.8
+Nov-2002,Queensland,Education and Training,122.8
+Feb-2003,Queensland,Education and Training,127.5
+May-2003,Queensland,Education and Training,131.5
+Aug-2003,Queensland,Education and Training,133.8
+Nov-2003,Queensland,Education and Training,133.5
+Feb-2004,Queensland,Education and Training,130.9
+May-2004,Queensland,Education and Training,137.1
+Aug-2004,Queensland,Education and Training,139.9
+Nov-2004,Queensland,Education and Training,149.5
+Feb-2005,Queensland,Education and Training,142.2
+May-2005,Queensland,Education and Training,146.3
+Aug-2005,Queensland,Education and Training,156.3
+Nov-2005,Queensland,Education and Training,155.5
+Feb-2006,Queensland,Education and Training,150.5
+May-2006,Queensland,Education and Training,150.1
+Aug-2006,Queensland,Education and Training,141.9
+Nov-2006,Queensland,Education and Training,142.9
+Feb-2007,Queensland,Education and Training,144.3
+May-2007,Queensland,Education and Training,153.2
+Aug-2007,Queensland,Education and Training,156.7
+Nov-2007,Queensland,Education and Training,161.7
+Feb-2008,Queensland,Education and Training,155.8
+May-2008,Queensland,Education and Training,163.7
+Aug-2008,Queensland,Education and Training,175.9
+Nov-2008,Queensland,Education and Training,161.2
+Feb-2009,Queensland,Education and Training,167.7
+May-2009,Queensland,Education and Training,170.2
+Aug-2009,Queensland,Education and Training,157.5
+Nov-2009,Queensland,Education and Training,160.3
+Feb-2010,Queensland,Education and Training,155.2
+May-2010,Queensland,Education and Training,162.9
+Aug-2010,Queensland,Education and Training,166.6
+Nov-2010,Queensland,Education and Training,173.3
+Feb-2011,Queensland,Education and Training,159.7
+May-2011,Queensland,Education and Training,169.4
+Aug-2011,Queensland,Education and Training,172.6
+Nov-2011,Queensland,Education and Training,176.0
+Feb-2012,Queensland,Education and Training,175.5
+May-2012,Queensland,Education and Training,174.3
+Aug-2012,Queensland,Education and Training,181.8
+Nov-2012,Queensland,Education and Training,183.7
+Feb-2013,Queensland,Education and Training,169.5
+May-2013,Queensland,Education and Training,172.1
+Aug-2013,Queensland,Education and Training,166.5
+Nov-2013,Queensland,Education and Training,170.4
+Feb-2014,Queensland,Education and Training,173.5
+May-2014,Queensland,Education and Training,191.9
+Aug-2014,Queensland,Education and Training,180.0
+Nov-2014,Queensland,Education and Training,169.3
+Feb-2015,Queensland,Education and Training,182.4
+May-2015,Queensland,Education and Training,193.4
+Aug-2015,Queensland,Education and Training,197.5
+Nov-2015,Queensland,Education and Training,205.7
+Feb-2016,Queensland,Education and Training,191.1
+May-2016,Queensland,Education and Training,194.8
+Aug-2016,Queensland,Education and Training,197.3
+Nov-2016,Queensland,Education and Training,193.2
+Feb-2017,Queensland,Education and Training,180.3
+May-2017,Queensland,Education and Training,195.1
+Aug-2017,Queensland,Education and Training,214.3
+Nov-2017,Queensland,Education and Training,197.7
+Feb-2018,Queensland,Education and Training,197.5
+May-2018,Queensland,Education and Training,201.8
+Aug-2018,Queensland,Education and Training,225.6
+Nov-2018,Queensland,Education and Training,219.8
+Feb-2019,Queensland,Education and Training,217.5
+May-2019,Queensland,Education and Training,215.2
+Aug-2019,Queensland,Education and Training,214.3
+Nov-2019,Queensland,Education and Training,208.3
+Feb-2020,Queensland,Education and Training,228.9
+May-2020,Queensland,Education and Training,218.4
+Aug-2020,Queensland,Education and Training,230.8
+Nov-2020,Queensland,Education and Training,202.0
+Feb-2021,Queensland,Education and Training,198.8
+May-2021,Queensland,Education and Training,214.3
+Aug-2021,Queensland,Education and Training,218.1
+Nov-2021,Queensland,Education and Training,230.3
+Feb-2022,Queensland,Education and Training,239.7
+May-2022,Queensland,Education and Training,248.1
+Aug-2022,Queensland,Education and Training,244.1
+Nov-2022,Queensland,Education and Training,239.4
+Feb-2023,Queensland,Education and Training,245.8
+May-2023,Queensland,Education and Training,275.3
+Aug-2023,Queensland,Education and Training,242.3
+Nov-2023,Queensland,Education and Training,239.5
+Feb-2024,Queensland,Education and Training,240.3
+May-2024,Queensland,Education and Training,246.6
+Aug-2024,Queensland,Education and Training,247.7
+Nov-2024,Queensland,Education and Training,252.8
+Feb-2025,Queensland,Education and Training,233.4
+May-2025,Queensland,Education and Training,245.9
+Aug-2025,Queensland,Education and Training,243.1
+Nov-2025,Queensland,Education and Training,257.3
+Feb-2026,Queensland,Education and Training,261.3
+Nov-1984,Queensland,Health Care and Social Assistance,80.5
+Feb-1985,Queensland,Health Care and Social Assistance,79.8
+May-1985,Queensland,Health Care and Social Assistance,82.0
+Aug-1985,Queensland,Health Care and Social Assistance,82.1
+Nov-1985,Queensland,Health Care and Social Assistance,84.4
+Feb-1986,Queensland,Health Care and Social Assistance,86.6
+May-1986,Queensland,Health Care and Social Assistance,91.4
+Aug-1986,Queensland,Health Care and Social Assistance,90.5
+Nov-1986,Queensland,Health Care and Social Assistance,87.7
+Feb-1987,Queensland,Health Care and Social Assistance,91.1
+May-1987,Queensland,Health Care and Social Assistance,87.9
+Aug-1987,Queensland,Health Care and Social Assistance,84.0
+Nov-1987,Queensland,Health Care and Social Assistance,85.4
+Feb-1988,Queensland,Health Care and Social Assistance,90.5
+May-1988,Queensland,Health Care and Social Assistance,95.0
+Aug-1988,Queensland,Health Care and Social Assistance,91.9
+Nov-1988,Queensland,Health Care and Social Assistance,93.2
+Feb-1989,Queensland,Health Care and Social Assistance,98.3
+May-1989,Queensland,Health Care and Social Assistance,99.6
+Aug-1989,Queensland,Health Care and Social Assistance,93.1
+Nov-1989,Queensland,Health Care and Social Assistance,100.3
+Feb-1990,Queensland,Health Care and Social Assistance,100.9
+May-1990,Queensland,Health Care and Social Assistance,97.6
+Aug-1990,Queensland,Health Care and Social Assistance,103.4
+Nov-1990,Queensland,Health Care and Social Assistance,113.2
+Feb-1991,Queensland,Health Care and Social Assistance,107.1
+May-1991,Queensland,Health Care and Social Assistance,107.3
+Aug-1991,Queensland,Health Care and Social Assistance,111.4
+Nov-1991,Queensland,Health Care and Social Assistance,120.3
+Feb-1992,Queensland,Health Care and Social Assistance,114.1
+May-1992,Queensland,Health Care and Social Assistance,114.8
+Aug-1992,Queensland,Health Care and Social Assistance,108.5
+Nov-1992,Queensland,Health Care and Social Assistance,115.8
+Feb-1993,Queensland,Health Care and Social Assistance,110.6
+May-1993,Queensland,Health Care and Social Assistance,108.0
+Aug-1993,Queensland,Health Care and Social Assistance,121.3
+Nov-1993,Queensland,Health Care and Social Assistance,117.8
+Feb-1994,Queensland,Health Care and Social Assistance,122.1
+May-1994,Queensland,Health Care and Social Assistance,124.0
+Aug-1994,Queensland,Health Care and Social Assistance,124.9
+Nov-1994,Queensland,Health Care and Social Assistance,125.3
+Feb-1995,Queensland,Health Care and Social Assistance,126.7
+May-1995,Queensland,Health Care and Social Assistance,126.9
+Aug-1995,Queensland,Health Care and Social Assistance,124.9
+Nov-1995,Queensland,Health Care and Social Assistance,129.1
+Feb-1996,Queensland,Health Care and Social Assistance,135.0
+May-1996,Queensland,Health Care and Social Assistance,135.8
+Aug-1996,Queensland,Health Care and Social Assistance,136.1
+Nov-1996,Queensland,Health Care and Social Assistance,142.6
+Feb-1997,Queensland,Health Care and Social Assistance,133.8
+May-1997,Queensland,Health Care and Social Assistance,140.5
+Aug-1997,Queensland,Health Care and Social Assistance,143.8
+Nov-1997,Queensland,Health Care and Social Assistance,141.7
+Feb-1998,Queensland,Health Care and Social Assistance,142.1
+May-1998,Queensland,Health Care and Social Assistance,150.7
+Aug-1998,Queensland,Health Care and Social Assistance,155.1
+Nov-1998,Queensland,Health Care and Social Assistance,153.7
+Feb-1999,Queensland,Health Care and Social Assistance,149.5
+May-1999,Queensland,Health Care and Social Assistance,148.0
+Aug-1999,Queensland,Health Care and Social Assistance,140.5
+Nov-1999,Queensland,Health Care and Social Assistance,152.9
+Feb-2000,Queensland,Health Care and Social Assistance,151.6
+May-2000,Queensland,Health Care and Social Assistance,160.5
+Aug-2000,Queensland,Health Care and Social Assistance,164.9
+Nov-2000,Queensland,Health Care and Social Assistance,163.5
+Feb-2001,Queensland,Health Care and Social Assistance,157.8
+May-2001,Queensland,Health Care and Social Assistance,155.1
+Aug-2001,Queensland,Health Care and Social Assistance,152.1
+Nov-2001,Queensland,Health Care and Social Assistance,157.7
+Feb-2002,Queensland,Health Care and Social Assistance,160.3
+May-2002,Queensland,Health Care and Social Assistance,168.5
+Aug-2002,Queensland,Health Care and Social Assistance,174.8
+Nov-2002,Queensland,Health Care and Social Assistance,168.2
+Feb-2003,Queensland,Health Care and Social Assistance,171.4
+May-2003,Queensland,Health Care and Social Assistance,164.0
+Aug-2003,Queensland,Health Care and Social Assistance,169.4
+Nov-2003,Queensland,Health Care and Social Assistance,170.5
+Feb-2004,Queensland,Health Care and Social Assistance,176.5
+May-2004,Queensland,Health Care and Social Assistance,183.2
+Aug-2004,Queensland,Health Care and Social Assistance,179.6
+Nov-2004,Queensland,Health Care and Social Assistance,174.6
+Feb-2005,Queensland,Health Care and Social Assistance,179.0
+May-2005,Queensland,Health Care and Social Assistance,177.6
+Aug-2005,Queensland,Health Care and Social Assistance,185.6
+Nov-2005,Queensland,Health Care and Social Assistance,192.1
+Feb-2006,Queensland,Health Care and Social Assistance,188.0
+May-2006,Queensland,Health Care and Social Assistance,196.3
+Aug-2006,Queensland,Health Care and Social Assistance,201.2
+Nov-2006,Queensland,Health Care and Social Assistance,200.5
+Feb-2007,Queensland,Health Care and Social Assistance,201.3
+May-2007,Queensland,Health Care and Social Assistance,213.4
+Aug-2007,Queensland,Health Care and Social Assistance,211.8
+Nov-2007,Queensland,Health Care and Social Assistance,206.5
+Feb-2008,Queensland,Health Care and Social Assistance,203.9
+May-2008,Queensland,Health Care and Social Assistance,212.8
+Aug-2008,Queensland,Health Care and Social Assistance,197.3
+Nov-2008,Queensland,Health Care and Social Assistance,207.4
+Feb-2009,Queensland,Health Care and Social Assistance,240.2
+May-2009,Queensland,Health Care and Social Assistance,246.4
+Aug-2009,Queensland,Health Care and Social Assistance,250.2
+Nov-2009,Queensland,Health Care and Social Assistance,231.5
+Feb-2010,Queensland,Health Care and Social Assistance,235.6
+May-2010,Queensland,Health Care and Social Assistance,252.2
+Aug-2010,Queensland,Health Care and Social Assistance,242.7
+Nov-2010,Queensland,Health Care and Social Assistance,249.4
+Feb-2011,Queensland,Health Care and Social Assistance,257.0
+May-2011,Queensland,Health Care and Social Assistance,270.9
+Aug-2011,Queensland,Health Care and Social Assistance,257.3
+Nov-2011,Queensland,Health Care and Social Assistance,278.6
+Feb-2012,Queensland,Health Care and Social Assistance,275.2
+May-2012,Queensland,Health Care and Social Assistance,284.6
+Aug-2012,Queensland,Health Care and Social Assistance,283.1
+Nov-2012,Queensland,Health Care and Social Assistance,272.0
+Feb-2013,Queensland,Health Care and Social Assistance,281.7
+May-2013,Queensland,Health Care and Social Assistance,269.2
+Aug-2013,Queensland,Health Care and Social Assistance,263.1
+Nov-2013,Queensland,Health Care and Social Assistance,281.4
+Feb-2014,Queensland,Health Care and Social Assistance,294.6
+May-2014,Queensland,Health Care and Social Assistance,287.6
+Aug-2014,Queensland,Health Care and Social Assistance,307.6
+Nov-2014,Queensland,Health Care and Social Assistance,282.8
+Feb-2015,Queensland,Health Care and Social Assistance,289.9
+May-2015,Queensland,Health Care and Social Assistance,287.9
+Aug-2015,Queensland,Health Care and Social Assistance,314.1
+Nov-2015,Queensland,Health Care and Social Assistance,325.8
+Feb-2016,Queensland,Health Care and Social Assistance,297.7
+May-2016,Queensland,Health Care and Social Assistance,318.3
+Aug-2016,Queensland,Health Care and Social Assistance,307.2
+Nov-2016,Queensland,Health Care and Social Assistance,314.4
+Feb-2017,Queensland,Health Care and Social Assistance,285.6
+May-2017,Queensland,Health Care and Social Assistance,338.8
+Aug-2017,Queensland,Health Care and Social Assistance,346.3
+Nov-2017,Queensland,Health Care and Social Assistance,345.7
+Feb-2018,Queensland,Health Care and Social Assistance,366.2
+May-2018,Queensland,Health Care and Social Assistance,352.9
+Aug-2018,Queensland,Health Care and Social Assistance,334.6
+Nov-2018,Queensland,Health Care and Social Assistance,337.6
+Feb-2019,Queensland,Health Care and Social Assistance,379.0
+May-2019,Queensland,Health Care and Social Assistance,357.7
+Aug-2019,Queensland,Health Care and Social Assistance,362.9
+Nov-2019,Queensland,Health Care and Social Assistance,357.2
+Feb-2020,Queensland,Health Care and Social Assistance,353.4
+May-2020,Queensland,Health Care and Social Assistance,344.6
+Aug-2020,Queensland,Health Care and Social Assistance,377.3
+Nov-2020,Queensland,Health Care and Social Assistance,363.1
+Feb-2021,Queensland,Health Care and Social Assistance,372.2
+May-2021,Queensland,Health Care and Social Assistance,380.0
+Aug-2021,Queensland,Health Care and Social Assistance,388.1
+Nov-2021,Queensland,Health Care and Social Assistance,395.3
+Feb-2022,Queensland,Health Care and Social Assistance,436.5
+May-2022,Queensland,Health Care and Social Assistance,471.5
+Aug-2022,Queensland,Health Care and Social Assistance,458.2
+Nov-2022,Queensland,Health Care and Social Assistance,443.2
+Feb-2023,Queensland,Health Care and Social Assistance,454.4
+May-2023,Queensland,Health Care and Social Assistance,464.9
+Aug-2023,Queensland,Health Care and Social Assistance,453.2
+Nov-2023,Queensland,Health Care and Social Assistance,456.3
+Feb-2024,Queensland,Health Care and Social Assistance,443.4
+May-2024,Queensland,Health Care and Social Assistance,463.7
+Aug-2024,Queensland,Health Care and Social Assistance,440.8
+Nov-2024,Queensland,Health Care and Social Assistance,482.5
+Feb-2025,Queensland,Health Care and Social Assistance,499.9
+May-2025,Queensland,Health Care and Social Assistance,543.0
+Aug-2025,Queensland,Health Care and Social Assistance,512.4
+Nov-2025,Queensland,Health Care and Social Assistance,521.2
+Feb-2026,Queensland,Health Care and Social Assistance,537.3
+Nov-1984,South Australia,Manufacturing,108.8
+Feb-1985,South Australia,Manufacturing,105.7
+May-1985,South Australia,Manufacturing,101.5
+Aug-1985,South Australia,Manufacturing,97.0
+Nov-1985,South Australia,Manufacturing,105.4
+Feb-1986,South Australia,Manufacturing,105.2
+May-1986,South Australia,Manufacturing,98.1
+Aug-1986,South Australia,Manufacturing,91.8
+Nov-1986,South Australia,Manufacturing,97.7
+Feb-1987,South Australia,Manufacturing,98.1
+May-1987,South Australia,Manufacturing,98.4
+Aug-1987,South Australia,Manufacturing,93.5
+Nov-1987,South Australia,Manufacturing,100.7
+Feb-1988,South Australia,Manufacturing,100.5
+May-1988,South Australia,Manufacturing,102.5
+Aug-1988,South Australia,Manufacturing,100.0
+Nov-1988,South Australia,Manufacturing,106.7
+Feb-1989,South Australia,Manufacturing,102.5
+May-1989,South Australia,Manufacturing,103.2
+Aug-1989,South Australia,Manufacturing,112.8
+Nov-1989,South Australia,Manufacturing,112.5
+Feb-1990,South Australia,Manufacturing,114.3
+May-1990,South Australia,Manufacturing,110.7
+Aug-1990,South Australia,Manufacturing,105.4
+Nov-1990,South Australia,Manufacturing,107.5
+Feb-1991,South Australia,Manufacturing,108.6
+May-1991,South Australia,Manufacturing,100.4
+Aug-1991,South Australia,Manufacturing,98.6
+Nov-1991,South Australia,Manufacturing,90.2
+Feb-1992,South Australia,Manufacturing,90.1
+May-1992,South Australia,Manufacturing,90.0
+Aug-1992,South Australia,Manufacturing,95.9
+Nov-1992,South Australia,Manufacturing,89.5
+Feb-1993,South Australia,Manufacturing,90.5
+May-1993,South Australia,Manufacturing,91.3
+Aug-1993,South Australia,Manufacturing,88.7
+Nov-1993,South Australia,Manufacturing,90.3
+Feb-1994,South Australia,Manufacturing,90.2
+May-1994,South Australia,Manufacturing,96.5
+Aug-1994,South Australia,Manufacturing,106.5
+Nov-1994,South Australia,Manufacturing,99.9
+Feb-1995,South Australia,Manufacturing,100.3
+May-1995,South Australia,Manufacturing,97.9
+Aug-1995,South Australia,Manufacturing,96.7
+Nov-1995,South Australia,Manufacturing,96.8
+Feb-1996,South Australia,Manufacturing,99.6
+May-1996,South Australia,Manufacturing,92.1
+Aug-1996,South Australia,Manufacturing,95.1
+Nov-1996,South Australia,Manufacturing,89.9
+Feb-1997,South Australia,Manufacturing,97.1
+May-1997,South Australia,Manufacturing,92.4
+Aug-1997,South Australia,Manufacturing,93.3
+Nov-1997,South Australia,Manufacturing,97.7
+Feb-1998,South Australia,Manufacturing,100.0
+May-1998,South Australia,Manufacturing,96.4
+Aug-1998,South Australia,Manufacturing,93.1
+Nov-1998,South Australia,Manufacturing,91.2
+Feb-1999,South Australia,Manufacturing,85.6
+May-1999,South Australia,Manufacturing,89.5
+Aug-1999,South Australia,Manufacturing,93.6
+Nov-1999,South Australia,Manufacturing,92.0
+Feb-2000,South Australia,Manufacturing,97.6
+May-2000,South Australia,Manufacturing,96.8
+Aug-2000,South Australia,Manufacturing,96.3
+Nov-2000,South Australia,Manufacturing,88.6
+Feb-2001,South Australia,Manufacturing,83.0
+May-2001,South Australia,Manufacturing,87.1
+Aug-2001,South Australia,Manufacturing,90.3
+Nov-2001,South Australia,Manufacturing,91.0
+Feb-2002,South Australia,Manufacturing,92.3
+May-2002,South Australia,Manufacturing,96.3
+Aug-2002,South Australia,Manufacturing,97.4
+Nov-2002,South Australia,Manufacturing,92.2
+Feb-2003,South Australia,Manufacturing,86.0
+May-2003,South Australia,Manufacturing,92.2
+Aug-2003,South Australia,Manufacturing,96.3
+Nov-2003,South Australia,Manufacturing,100.7
+Feb-2004,South Australia,Manufacturing,98.2
+May-2004,South Australia,Manufacturing,100.5
+Aug-2004,South Australia,Manufacturing,88.8
+Nov-2004,South Australia,Manufacturing,86.5
+Feb-2005,South Australia,Manufacturing,92.2
+May-2005,South Australia,Manufacturing,94.2
+Aug-2005,South Australia,Manufacturing,92.6
+Nov-2005,South Australia,Manufacturing,91.1
+Feb-2006,South Australia,Manufacturing,89.5
+May-2006,South Australia,Manufacturing,97.4
+Aug-2006,South Australia,Manufacturing,103.3
+Nov-2006,South Australia,Manufacturing,92.7
+Feb-2007,South Australia,Manufacturing,89.4
+May-2007,South Australia,Manufacturing,86.5
+Aug-2007,South Australia,Manufacturing,92.1
+Nov-2007,South Australia,Manufacturing,92.2
+Feb-2008,South Australia,Manufacturing,96.7
+May-2008,South Australia,Manufacturing,92.9
+Aug-2008,South Australia,Manufacturing,94.4
+Nov-2008,South Australia,Manufacturing,96.2
+Feb-2009,South Australia,Manufacturing,90.1
+May-2009,South Australia,Manufacturing,79.5
+Aug-2009,South Australia,Manufacturing,81.6
+Nov-2009,South Australia,Manufacturing,81.9
+Feb-2010,South Australia,Manufacturing,85.2
+May-2010,South Australia,Manufacturing,81.1
+Aug-2010,South Australia,Manufacturing,78.7
+Nov-2010,South Australia,Manufacturing,73.9
+Feb-2011,South Australia,Manufacturing,77.7
+May-2011,South Australia,Manufacturing,81.1
+Aug-2011,South Australia,Manufacturing,76.9
+Nov-2011,South Australia,Manufacturing,74.6
+Feb-2012,South Australia,Manufacturing,75.2
+May-2012,South Australia,Manufacturing,73.5
+Aug-2012,South Australia,Manufacturing,73.4
+Nov-2012,South Australia,Manufacturing,73.6
+Feb-2013,South Australia,Manufacturing,67.0
+May-2013,South Australia,Manufacturing,72.3
+Aug-2013,South Australia,Manufacturing,78.4
+Nov-2013,South Australia,Manufacturing,78.8
+Feb-2014,South Australia,Manufacturing,86.1
+May-2014,South Australia,Manufacturing,80.4
+Aug-2014,South Australia,Manufacturing,74.3
+Nov-2014,South Australia,Manufacturing,70.2
+Feb-2015,South Australia,Manufacturing,71.5
+May-2015,South Australia,Manufacturing,72.4
+Aug-2015,South Australia,Manufacturing,69.8
+Nov-2015,South Australia,Manufacturing,69.8
+Feb-2016,South Australia,Manufacturing,74.1
+May-2016,South Australia,Manufacturing,72.6
+Aug-2016,South Australia,Manufacturing,76.6
+Nov-2016,South Australia,Manufacturing,79.1
+Feb-2017,South Australia,Manufacturing,80.7
+May-2017,South Australia,Manufacturing,74.1
+Aug-2017,South Australia,Manufacturing,71.4
+Nov-2017,South Australia,Manufacturing,65.3
+Feb-2018,South Australia,Manufacturing,68.3
+May-2018,South Australia,Manufacturing,64.4
+Aug-2018,South Australia,Manufacturing,67.6
+Nov-2018,South Australia,Manufacturing,77.5
+Feb-2019,South Australia,Manufacturing,75.0
+May-2019,South Australia,Manufacturing,70.6
+Aug-2019,South Australia,Manufacturing,63.1
+Nov-2019,South Australia,Manufacturing,71.1
+Feb-2020,South Australia,Manufacturing,78.6
+May-2020,South Australia,Manufacturing,73.4
+Aug-2020,South Australia,Manufacturing,69.6
+Nov-2020,South Australia,Manufacturing,60.6
+Feb-2021,South Australia,Manufacturing,64.6
+May-2021,South Australia,Manufacturing,66.1
+Aug-2021,South Australia,Manufacturing,66.9
+Nov-2021,South Australia,Manufacturing,67.9
+Feb-2022,South Australia,Manufacturing,64.7
+May-2022,South Australia,Manufacturing,74.6
+Aug-2022,South Australia,Manufacturing,68.7
+Nov-2022,South Australia,Manufacturing,63.8
+Feb-2023,South Australia,Manufacturing,66.7
+May-2023,South Australia,Manufacturing,76.7
+Aug-2023,South Australia,Manufacturing,70.5
+Nov-2023,South Australia,Manufacturing,67.9
+Feb-2024,South Australia,Manufacturing,66.9
+May-2024,South Australia,Manufacturing,70.3
+Aug-2024,South Australia,Manufacturing,72.9
+Nov-2024,South Australia,Manufacturing,72.4
+Feb-2025,South Australia,Manufacturing,69.7
+May-2025,South Australia,Manufacturing,68.5
+Aug-2025,South Australia,Manufacturing,66.7
+Nov-2025,South Australia,Manufacturing,67.4
+Feb-2026,South Australia,Manufacturing,66.7

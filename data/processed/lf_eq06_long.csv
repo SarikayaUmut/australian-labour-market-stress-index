@@ -1,0 +1,2989 @@
+date,state,industry,employed_thousands
+1984Q4,New South Wales,Accommodation and Food Services,78.08237993
+1984Q4,New South Wales,Construction,153.16439897
+1984Q4,New South Wales,Education and Training,150.25978453
+1984Q4,New South Wales,Health Care and Social Assistance,187.82734109
+1984Q4,New South Wales,Manufacturing,391.86458493
+1984Q4,New South Wales,"Professional, Scientific and Technical Services",98.39847404999999
+1984Q4,Queensland,Accommodation and Food Services,43.22625864
+1984Q4,Queensland,Construction,79.41404554
+1984Q4,Queensland,Education and Training,68.67424427
+1984Q4,Queensland,Health Care and Social Assistance,81.95685021
+1984Q4,Queensland,Manufacturing,120.68439979
+1984Q4,Queensland,"Professional, Scientific and Technical Services",35.13427475
+1984Q4,Victoria,Accommodation and Food Services,62.23079016
+1984Q4,Victoria,Construction,107.97708433
+1984Q4,Victoria,Education and Training,125.92277316
+1984Q4,Victoria,Health Care and Social Assistance,141.95333111
+1984Q4,Victoria,Manufacturing,373.11782004
+1984Q4,Victoria,"Professional, Scientific and Technical Services",67.45999744
+1985Q1,New South Wales,Accommodation and Food Services,74.81318255000001
+1985Q1,New South Wales,Construction,154.29435686
+1985Q1,New South Wales,Education and Training,138.00855228
+1985Q1,New South Wales,Health Care and Social Assistance,195.28977878
+1985Q1,New South Wales,Manufacturing,378.86409193
+1985Q1,New South Wales,"Professional, Scientific and Technical Services",101.0027329
+1985Q1,Queensland,Accommodation and Food Services,40.803758030000004
+1985Q1,Queensland,Construction,80.31882628
+1985Q1,Queensland,Education and Training,65.59672781
+1985Q1,Queensland,Health Care and Social Assistance,80.92202641
+1985Q1,Queensland,Manufacturing,125.67994846
+1985Q1,Queensland,"Professional, Scientific and Technical Services",37.975972060000004
+1985Q1,Victoria,Accommodation and Food Services,56.61837813
+1985Q1,Victoria,Construction,128.57890247999998
+1985Q1,Victoria,Education and Training,119.01463664
+1985Q1,Victoria,Health Care and Social Assistance,133.87545641
+1985Q1,Victoria,Manufacturing,381.66817032
+1985Q1,Victoria,"Professional, Scientific and Technical Services",67.79426027
+1985Q2,New South Wales,Accommodation and Food Services,75.99141152
+1985Q2,New South Wales,Construction,160.58417662
+1985Q2,New South Wales,Education and Training,134.52440066
+1985Q2,New South Wales,Health Care and Social Assistance,177.45561017
+1985Q2,New South Wales,Manufacturing,383.47754116
+1985Q2,New South Wales,"Professional, Scientific and Technical Services",92.14067524000001
+1985Q2,Queensland,Accommodation and Food Services,44.20952902
+1985Q2,Queensland,Construction,90.58599472
+1985Q2,Queensland,Education and Training,75.54336611
+1985Q2,Queensland,Health Care and Social Assistance,83.527712
+1985Q2,Queensland,Manufacturing,121.07185089000001
+1985Q2,Queensland,"Professional, Scientific and Technical Services",39.16145321
+1985Q2,Victoria,Accommodation and Food Services,59.77474379
+1985Q2,Victoria,Construction,123.68049264999999
+1985Q2,Victoria,Education and Training,131.15993106
+1985Q2,Victoria,Health Care and Social Assistance,131.80349349
+1985Q2,Victoria,Manufacturing,370.89106095
+1985Q2,Victoria,"Professional, Scientific and Technical Services",79.29786545
+1985Q3,New South Wales,Accommodation and Food Services,72.15272707
+1985Q3,New South Wales,Construction,158.6786496
+1985Q3,New South Wales,Education and Training,133.34315528
+1985Q3,New South Wales,Health Care and Social Assistance,184.07574891
+1985Q3,New South Wales,Manufacturing,353.07552314
+1985Q3,New South Wales,"Professional, Scientific and Technical Services",95.32318076
+1985Q3,Queensland,Accommodation and Food Services,45.12369233
+1985Q3,Queensland,Construction,90.36423094
+1985Q3,Queensland,Education and Training,75.89057277
+1985Q3,Queensland,Health Care and Social Assistance,83.21918948
+1985Q3,Queensland,Manufacturing,124.66239657999999
+1985Q3,Queensland,"Professional, Scientific and Technical Services",39.99208751
+1985Q3,Victoria,Accommodation and Food Services,59.21473906
+1985Q3,Victoria,Construction,111.15695375
+1985Q3,Victoria,Education and Training,138.86519456
+1985Q3,Victoria,Health Care and Social Assistance,131.44073951
+1985Q3,Victoria,Manufacturing,378.54050223
+1985Q3,Victoria,"Professional, Scientific and Technical Services",75.19051038
+1985Q4,New South Wales,Accommodation and Food Services,80.56886279
+1985Q4,New South Wales,Construction,160.37248511
+1985Q4,New South Wales,Education and Training,143.85642768
+1985Q4,New South Wales,Health Care and Social Assistance,188.53535969
+1985Q4,New South Wales,Manufacturing,376.62158431
+1985Q4,New South Wales,"Professional, Scientific and Technical Services",100.12493339
+1985Q4,Queensland,Accommodation and Food Services,49.235775329999996
+1985Q4,Queensland,Construction,87.03645264
+1985Q4,Queensland,Education and Training,75.66469558
+1985Q4,Queensland,Health Care and Social Assistance,86.19361589
+1985Q4,Queensland,Manufacturing,133.37034981
+1985Q4,Queensland,"Professional, Scientific and Technical Services",40.07273163
+1985Q4,Victoria,Accommodation and Food Services,61.76503196
+1985Q4,Victoria,Construction,111.32871812
+1985Q4,Victoria,Education and Training,140.15040247
+1985Q4,Victoria,Health Care and Social Assistance,147.43212661
+1985Q4,Victoria,Manufacturing,362.75371551
+1985Q4,Victoria,"Professional, Scientific and Technical Services",74.6623689
+1986Q1,New South Wales,Accommodation and Food Services,79.617626
+1986Q1,New South Wales,Construction,152.31050841
+1986Q1,New South Wales,Education and Training,127.79764755000001
+1986Q1,New South Wales,Health Care and Social Assistance,191.98996682
+1986Q1,New South Wales,Manufacturing,392.42718301
+1986Q1,New South Wales,"Professional, Scientific and Technical Services",104.99546806
+1986Q1,Queensland,Accommodation and Food Services,49.112643000000006
+1986Q1,Queensland,Construction,83.80518103
+1986Q1,Queensland,Education and Training,68.16581353000001
+1986Q1,Queensland,Health Care and Social Assistance,88.44024272
+1986Q1,Queensland,Manufacturing,136.28183279
+1986Q1,Queensland,"Professional, Scientific and Technical Services",41.82463972
+1986Q1,Victoria,Accommodation and Food Services,63.33135072
+1986Q1,Victoria,Construction,115.09650207
+1986Q1,Victoria,Education and Training,130.78209370000002
+1986Q1,Victoria,Health Care and Social Assistance,151.28233301999998
+1986Q1,Victoria,Manufacturing,357.13052675
+1986Q1,Victoria,"Professional, Scientific and Technical Services",82.22440129
+1986Q2,New South Wales,Accommodation and Food Services,81.93308467
+1986Q2,New South Wales,Construction,161.08798939
+1986Q2,New South Wales,Education and Training,128.85475026999998
+1986Q2,New South Wales,Health Care and Social Assistance,194.32214999
+1986Q2,New South Wales,Manufacturing,395.23624413
+1986Q2,New South Wales,"Professional, Scientific and Technical Services",106.8957766
+1986Q2,Queensland,Accommodation and Food Services,48.54937606
+1986Q2,Queensland,Construction,89.36908472
+1986Q2,Queensland,Education and Training,69.59271775
+1986Q2,Queensland,Health Care and Social Assistance,93.0344542
+1986Q2,Queensland,Manufacturing,135.11730566
+1986Q2,Queensland,"Professional, Scientific and Technical Services",41.83583661
+1986Q2,Victoria,Accommodation and Food Services,61.56083152
+1986Q2,Victoria,Construction,117.51165616
+1986Q2,Victoria,Education and Training,135.83917442999999
+1986Q2,Victoria,Health Care and Social Assistance,156.39035426
+1986Q2,Victoria,Manufacturing,355.48539564
+1986Q2,Victoria,"Professional, Scientific and Technical Services",84.11250411
+1986Q3,New South Wales,Accommodation and Food Services,80.48857562
+1986Q3,New South Wales,Construction,162.60969217
+1986Q3,New South Wales,Education and Training,141.01164518000002
+1986Q3,New South Wales,Health Care and Social Assistance,190.37084569
+1986Q3,New South Wales,Manufacturing,386.75330328999996
+1986Q3,New South Wales,"Professional, Scientific and Technical Services",103.91989128
+1986Q3,Queensland,Accommodation and Food Services,49.21609139
+1986Q3,Queensland,Construction,85.98175705999999
+1986Q3,Queensland,Education and Training,72.63811317999999
+1986Q3,Queensland,Health Care and Social Assistance,91.92182559999999
+1986Q3,Queensland,Manufacturing,135.40327125
+1986Q3,Queensland,"Professional, Scientific and Technical Services",39.70443567
+1986Q3,Victoria,Accommodation and Food Services,62.1405825
+1986Q3,Victoria,Construction,127.5084421
+1986Q3,Victoria,Education and Training,140.61930403
+1986Q3,Victoria,Health Care and Social Assistance,139.35443727999998
+1986Q3,Victoria,Manufacturing,351.03600429
+1986Q3,Victoria,"Professional, Scientific and Technical Services",82.64234669999999
+1986Q4,New South Wales,Accommodation and Food Services,77.80610063
+1986Q4,New South Wales,Construction,158.7314001
+1986Q4,New South Wales,Education and Training,157.38386836
+1986Q4,New South Wales,Health Care and Social Assistance,194.57552741
+1986Q4,New South Wales,Manufacturing,383.54592831
+1986Q4,New South Wales,"Professional, Scientific and Technical Services",107.5504938
+1986Q4,Queensland,Accommodation and Food Services,52.34904636
+1986Q4,Queensland,Construction,86.34254268000001
+1986Q4,Queensland,Education and Training,81.30230726
+1986Q4,Queensland,Health Care and Social Assistance,89.32778179
+1986Q4,Queensland,Manufacturing,130.86159215
+1986Q4,Queensland,"Professional, Scientific and Technical Services",41.03982929
+1986Q4,Victoria,Accommodation and Food Services,68.42861712999999
+1986Q4,Victoria,Construction,130.0204982
+1986Q4,Victoria,Education and Training,131.5381817
+1986Q4,Victoria,Health Care and Social Assistance,145.84708368
+1986Q4,Victoria,Manufacturing,353.0087056
+1986Q4,Victoria,"Professional, Scientific and Technical Services",85.75964444
+1987Q1,New South Wales,Accommodation and Food Services,74.70792028
+1987Q1,New South Wales,Construction,170.29384508
+1987Q1,New South Wales,Education and Training,146.79129622
+1987Q1,New South Wales,Health Care and Social Assistance,198.64347862
+1987Q1,New South Wales,Manufacturing,380.38958243999997
+1987Q1,New South Wales,"Professional, Scientific and Technical Services",107.14269057
+1987Q1,Queensland,Accommodation and Food Services,52.94900896000001
+1987Q1,Queensland,Construction,89.87668067999999
+1987Q1,Queensland,Education and Training,78.12584057000001
+1987Q1,Queensland,Health Care and Social Assistance,92.5201037
+1987Q1,Queensland,Manufacturing,129.13476572
+1987Q1,Queensland,"Professional, Scientific and Technical Services",45.80230879
+1987Q1,Victoria,Accommodation and Food Services,66.5812269
+1987Q1,Victoria,Construction,128.95101069
+1987Q1,Victoria,Education and Training,126.99493665
+1987Q1,Victoria,Health Care and Social Assistance,155.42653801
+1987Q1,Victoria,Manufacturing,357.23902342
+1987Q1,Victoria,"Professional, Scientific and Technical Services",89.31773714
+1987Q2,New South Wales,Accommodation and Food Services,83.35127757000001
+1987Q2,New South Wales,Construction,175.3483788
+1987Q2,New South Wales,Education and Training,158.64078633
+1987Q2,New South Wales,Health Care and Social Assistance,201.0656229
+1987Q2,New South Wales,Manufacturing,381.29634255999997
+1987Q2,New South Wales,"Professional, Scientific and Technical Services",110.01204205
+1987Q2,Queensland,Accommodation and Food Services,52.47214255
+1987Q2,Queensland,Construction,86.13798242
+1987Q2,Queensland,Education and Training,83.10851624
+1987Q2,Queensland,Health Care and Social Assistance,89.86529822
+1987Q2,Queensland,Manufacturing,126.26167565
+1987Q2,Queensland,"Professional, Scientific and Technical Services",48.30321175
+1987Q2,Victoria,Accommodation and Food Services,68.23434498
+1987Q2,Victoria,Construction,130.24781781
+1987Q2,Victoria,Education and Training,133.41910554
+1987Q2,Victoria,Health Care and Social Assistance,158.42797939
+1987Q2,Victoria,Manufacturing,369.62994425
+1987Q2,Victoria,"Professional, Scientific and Technical Services",84.20663929
+1987Q3,New South Wales,Accommodation and Food Services,83.72910435
+1987Q3,New South Wales,Construction,165.0702924
+1987Q3,New South Wales,Education and Training,153.80426784
+1987Q3,New South Wales,Health Care and Social Assistance,201.71810243000002
+1987Q3,New South Wales,Manufacturing,380.87935565
+1987Q3,New South Wales,"Professional, Scientific and Technical Services",110.04046851
+1987Q3,Queensland,Accommodation and Food Services,51.95805678
+1987Q3,Queensland,Construction,82.8528967
+1987Q3,Queensland,Education and Training,82.01277261
+1987Q3,Queensland,Health Care and Social Assistance,85.74239588
+1987Q3,Queensland,Manufacturing,129.66684383
+1987Q3,Queensland,"Professional, Scientific and Technical Services",46.33342964
+1987Q3,Victoria,Accommodation and Food Services,70.7907505
+1987Q3,Victoria,Construction,129.05527622
+1987Q3,Victoria,Education and Training,137.65167972999998
+1987Q3,Victoria,Health Care and Social Assistance,167.52537251
+1987Q3,Victoria,Manufacturing,369.33919095
+1987Q3,Victoria,"Professional, Scientific and Technical Services",83.86430345
+1987Q4,New South Wales,Accommodation and Food Services,92.78338222000001
+1987Q4,New South Wales,Construction,163.70150044
+1987Q4,New South Wales,Education and Training,150.63314274
+1987Q4,New South Wales,Health Care and Social Assistance,199.58664852
+1987Q4,New South Wales,Manufacturing,391.97433877000003
+1987Q4,New South Wales,"Professional, Scientific and Technical Services",114.42037138
+1987Q4,Queensland,Accommodation and Food Services,51.230664589999996
+1987Q4,Queensland,Construction,82.99712044
+1987Q4,Queensland,Education and Training,90.62856651
+1987Q4,Queensland,Health Care and Social Assistance,87.11745669
+1987Q4,Queensland,Manufacturing,126.56943546
+1987Q4,Queensland,"Professional, Scientific and Technical Services",45.4682171
+1987Q4,Victoria,Accommodation and Food Services,71.77509535
+1987Q4,Victoria,Construction,127.62359401
+1987Q4,Victoria,Education and Training,132.65619468
+1987Q4,Victoria,Health Care and Social Assistance,149.43545181
+1987Q4,Victoria,Manufacturing,379.08452096999997
+1987Q4,Victoria,"Professional, Scientific and Technical Services",81.90708838
+1988Q1,New South Wales,Accommodation and Food Services,89.79061079
+1988Q1,New South Wales,Construction,172.98883626
+1988Q1,New South Wales,Education and Training,146.95556865
+1988Q1,New South Wales,Health Care and Social Assistance,201.09584149
+1988Q1,New South Wales,Manufacturing,405.11032221
+1988Q1,New South Wales,"Professional, Scientific and Technical Services",112.87443243999999
+1988Q1,Queensland,Accommodation and Food Services,58.5539091
+1988Q1,Queensland,Construction,92.80584415
+1988Q1,Queensland,Education and Training,80.62430667000001
+1988Q1,Queensland,Health Care and Social Assistance,91.96934459
+1988Q1,Queensland,Manufacturing,124.39042259
+1988Q1,Queensland,"Professional, Scientific and Technical Services",53.35765341
+1988Q1,Victoria,Accommodation and Food Services,71.75332643
+1988Q1,Victoria,Construction,123.6109778
+1988Q1,Victoria,Education and Training,123.83889616
+1988Q1,Victoria,Health Care and Social Assistance,148.83617017999998
+1988Q1,Victoria,Manufacturing,369.29258587
+1988Q1,Victoria,"Professional, Scientific and Technical Services",84.43309688000001
+1988Q2,New South Wales,Accommodation and Food Services,90.31126223000001
+1988Q2,New South Wales,Construction,169.35872252000001
+1988Q2,New South Wales,Education and Training,157.92259765
+1988Q2,New South Wales,Health Care and Social Assistance,217.29839748
+1988Q2,New South Wales,Manufacturing,396.28460692
+1988Q2,New South Wales,"Professional, Scientific and Technical Services",114.39024753000001
+1988Q2,Queensland,Accommodation and Food Services,62.921102330000004
+1988Q2,Queensland,Construction,99.4133754
+1988Q2,Queensland,Education and Training,84.11980156999999
+1988Q2,Queensland,Health Care and Social Assistance,96.52727221
+1988Q2,Queensland,Manufacturing,137.76371415
+1988Q2,Queensland,"Professional, Scientific and Technical Services",55.80621732
+1988Q2,Victoria,Accommodation and Food Services,73.31523637000001
+1988Q2,Victoria,Construction,133.42564898
+1988Q2,Victoria,Education and Training,133.00203816
+1988Q2,Victoria,Health Care and Social Assistance,150.79772492
+1988Q2,Victoria,Manufacturing,362.75848874
+1988Q2,Victoria,"Professional, Scientific and Technical Services",87.84557451
+1988Q3,New South Wales,Accommodation and Food Services,91.88093193
+1988Q3,New South Wales,Construction,167.68236176
+1988Q3,New South Wales,Education and Training,154.90829079
+1988Q3,New South Wales,Health Care and Social Assistance,219.63516991
+1988Q3,New South Wales,Manufacturing,393.28328845
+1988Q3,New South Wales,"Professional, Scientific and Technical Services",123.67950249
+1988Q3,Queensland,Accommodation and Food Services,63.33137376
+1988Q3,Queensland,Construction,103.72640228
+1988Q3,Queensland,Education and Training,80.58602305999999
+1988Q3,Queensland,Health Care and Social Assistance,93.16055659999999
+1988Q3,Queensland,Manufacturing,143.40186053
+1988Q3,Queensland,"Professional, Scientific and Technical Services",52.18150632
+1988Q3,Victoria,Accommodation and Food Services,68.30271263
+1988Q3,Victoria,Construction,133.32369898
+1988Q3,Victoria,Education and Training,136.05658229
+1988Q3,Victoria,Health Care and Social Assistance,159.05825292
+1988Q3,Victoria,Manufacturing,383.5694109
+1988Q3,Victoria,"Professional, Scientific and Technical Services",86.86234079
+1988Q4,New South Wales,Accommodation and Food Services,99.66981720999999
+1988Q4,New South Wales,Construction,185.0359186
+1988Q4,New South Wales,Education and Training,160.34805044
+1988Q4,New South Wales,Health Care and Social Assistance,210.48143203
+1988Q4,New South Wales,Manufacturing,396.83126631
+1988Q4,New South Wales,"Professional, Scientific and Technical Services",122.0229758
+1988Q4,Queensland,Accommodation and Food Services,62.14461253
+1988Q4,Queensland,Construction,105.15004458
+1988Q4,Queensland,Education and Training,79.75702279
+1988Q4,Queensland,Health Care and Social Assistance,94.3674535
+1988Q4,Queensland,Manufacturing,148.8044336
+1988Q4,Queensland,"Professional, Scientific and Technical Services",55.25020993
+1988Q4,Victoria,Accommodation and Food Services,68.86099637000001
+1988Q4,Victoria,Construction,145.19137751
+1988Q4,Victoria,Education and Training,141.50608911999998
+1988Q4,Victoria,Health Care and Social Assistance,166.29187849
+1988Q4,Victoria,Manufacturing,371.81706965
+1988Q4,Victoria,"Professional, Scientific and Technical Services",89.42353916
+1989Q1,New South Wales,Accommodation and Food Services,93.21012854
+1989Q1,New South Wales,Construction,191.62491935000003
+1989Q1,New South Wales,Education and Training,143.32864104
+1989Q1,New South Wales,Health Care and Social Assistance,219.67280919
+1989Q1,New South Wales,Manufacturing,397.97534512
+1989Q1,New South Wales,"Professional, Scientific and Technical Services",125.64289547
+1989Q1,Queensland,Accommodation and Food Services,61.304128500000004
+1989Q1,Queensland,Construction,113.63989377
+1989Q1,Queensland,Education and Training,74.97096407000001
+1989Q1,Queensland,Health Care and Social Assistance,99.7206889
+1989Q1,Queensland,Manufacturing,151.65455065
+1989Q1,Queensland,"Professional, Scientific and Technical Services",54.22680149
+1989Q1,Victoria,Accommodation and Food Services,72.47438295
+1989Q1,Victoria,Construction,149.35384392999998
+1989Q1,Victoria,Education and Training,131.79659122
+1989Q1,Victoria,Health Care and Social Assistance,167.7022851
+1989Q1,Victoria,Manufacturing,371.45644851
+1989Q1,Victoria,"Professional, Scientific and Technical Services",90.68123234
+1989Q2,New South Wales,Accommodation and Food Services,92.50297324000002
+1989Q2,New South Wales,Construction,196.69904087
+1989Q2,New South Wales,Education and Training,159.20085339
+1989Q2,New South Wales,Health Care and Social Assistance,230.38155308
+1989Q2,New South Wales,Manufacturing,401.69095989
+1989Q2,New South Wales,"Professional, Scientific and Technical Services",125.35666866
+1989Q2,Queensland,Accommodation and Food Services,66.89333448
+1989Q2,Queensland,Construction,111.92375678
+1989Q2,Queensland,Education and Training,80.69167391
+1989Q2,Queensland,Health Care and Social Assistance,101.6723872
+1989Q2,Queensland,Manufacturing,161.85547706
+1989Q2,Queensland,"Professional, Scientific and Technical Services",53.990205429999996
+1989Q2,Victoria,Accommodation and Food Services,79.20040303
+1989Q2,Victoria,Construction,164.13953163
+1989Q2,Victoria,Education and Training,137.02597828
+1989Q2,Victoria,Health Care and Social Assistance,179.07649368
+1989Q2,Victoria,Manufacturing,382.16508685
+1989Q2,Victoria,"Professional, Scientific and Technical Services",89.03480832
+1989Q3,New South Wales,Accommodation and Food Services,92.39693871
+1989Q3,New South Wales,Construction,205.39904274
+1989Q3,New South Wales,Education and Training,165.13011863
+1989Q3,New South Wales,Health Care and Social Assistance,217.51207463
+1989Q3,New South Wales,Manufacturing,393.71294182
+1989Q3,New South Wales,"Professional, Scientific and Technical Services",132.55190155
+1989Q3,Queensland,Accommodation and Food Services,63.65452628
+1989Q3,Queensland,Construction,115.27931801
+1989Q3,Queensland,Education and Training,83.84053513
+1989Q3,Queensland,Health Care and Social Assistance,95.2771817
+1989Q3,Queensland,Manufacturing,159.56669897
+1989Q3,Queensland,"Professional, Scientific and Technical Services",56.66749066
+1989Q3,Victoria,Accommodation and Food Services,83.20504307
+1989Q3,Victoria,Construction,158.84423830999998
+1989Q3,Victoria,Education and Training,139.62424881
+1989Q3,Victoria,Health Care and Social Assistance,161.85406089
+1989Q3,Victoria,Manufacturing,379.7898985
+1989Q3,Victoria,"Professional, Scientific and Technical Services",89.92838244000001
+1989Q4,New South Wales,Accommodation and Food Services,98.97864555
+1989Q4,New South Wales,Construction,207.90882181
+1989Q4,New South Wales,Education and Training,168.20833994999998
+1989Q4,New South Wales,Health Care and Social Assistance,214.8093483
+1989Q4,New South Wales,Manufacturing,402.15901455
+1989Q4,New South Wales,"Professional, Scientific and Technical Services",137.99861383
+1989Q4,Queensland,Accommodation and Food Services,69.72976971
+1989Q4,Queensland,Construction,116.54437177
+1989Q4,Queensland,Education and Training,88.41829867
+1989Q4,Queensland,Health Care and Social Assistance,102.58088979
+1989Q4,Queensland,Manufacturing,155.65337485999999
+1989Q4,Queensland,"Professional, Scientific and Technical Services",57.90553422
+1989Q4,Victoria,Accommodation and Food Services,77.23120637
+1989Q4,Victoria,Construction,162.19179096
+1989Q4,Victoria,Education and Training,141.29144154000002
+1989Q4,Victoria,Health Care and Social Assistance,159.43094178
+1989Q4,Victoria,Manufacturing,375.74044105999997
+1989Q4,Victoria,"Professional, Scientific and Technical Services",94.47952778
+1990Q1,New South Wales,Accommodation and Food Services,101.89179236
+1990Q1,New South Wales,Construction,215.84375751000002
+1990Q1,New South Wales,Education and Training,157.47679251000002
+1990Q1,New South Wales,Health Care and Social Assistance,204.99945973
+1990Q1,New South Wales,Manufacturing,390.99126169
+1990Q1,New South Wales,"Professional, Scientific and Technical Services",138.81041351
+1990Q1,Queensland,Accommodation and Food Services,69.59862912
+1990Q1,Queensland,Construction,118.30237974
+1990Q1,Queensland,Education and Training,88.25351486000001
+1990Q1,Queensland,Health Care and Social Assistance,102.71267722
+1990Q1,Queensland,Manufacturing,152.26423794
+1990Q1,Queensland,"Professional, Scientific and Technical Services",58.44911247
+1990Q1,Victoria,Accommodation and Food Services,78.99388503
+1990Q1,Victoria,Construction,162.14161896
+1990Q1,Victoria,Education and Training,140.82781214
+1990Q1,Victoria,Health Care and Social Assistance,165.8288322
+1990Q1,Victoria,Manufacturing,363.35442854
+1990Q1,Victoria,"Professional, Scientific and Technical Services",99.8648689
+1990Q2,New South Wales,Accommodation and Food Services,108.85414629
+1990Q2,New South Wales,Construction,203.11897669
+1990Q2,New South Wales,Education and Training,178.14558265
+1990Q2,New South Wales,Health Care and Social Assistance,217.5797397
+1990Q2,New South Wales,Manufacturing,385.13786974
+1990Q2,New South Wales,"Professional, Scientific and Technical Services",128.20351092
+1990Q2,Queensland,Accommodation and Food Services,65.55015231
+1990Q2,Queensland,Construction,112.55405255
+1990Q2,Queensland,Education and Training,94.4134015
+1990Q2,Queensland,Health Care and Social Assistance,99.31545559
+1990Q2,Queensland,Manufacturing,155.06744518
+1990Q2,Queensland,"Professional, Scientific and Technical Services",52.62948451
+1990Q2,Victoria,Accommodation and Food Services,83.71209621
+1990Q2,Victoria,Construction,146.51859655
+1990Q2,Victoria,Education and Training,157.39574095
+1990Q2,Victoria,Health Care and Social Assistance,177.45907227
+1990Q2,Victoria,Manufacturing,362.72448642
+1990Q2,Victoria,"Professional, Scientific and Technical Services",98.81977506
+1990Q3,New South Wales,Accommodation and Food Services,112.1656791
+1990Q3,New South Wales,Construction,202.32265691
+1990Q3,New South Wales,Education and Training,176.57114037
+1990Q3,New South Wales,Health Care and Social Assistance,227.04069801
+1990Q3,New South Wales,Manufacturing,372.70652435
+1990Q3,New South Wales,"Professional, Scientific and Technical Services",129.71059961
+1990Q3,Queensland,Accommodation and Food Services,60.12289631
+1990Q3,Queensland,Construction,116.81418763
+1990Q3,Queensland,Education and Training,91.30485293
+1990Q3,Queensland,Health Care and Social Assistance,104.95121698
+1990Q3,Queensland,Manufacturing,154.85341754
+1990Q3,Queensland,"Professional, Scientific and Technical Services",53.90243648
+1990Q3,Victoria,Accommodation and Food Services,77.06747957
+1990Q3,Victoria,Construction,150.47948692
+1990Q3,Victoria,Education and Training,144.17763613
+1990Q3,Victoria,Health Care and Social Assistance,181.98529991
+1990Q3,Victoria,Manufacturing,367.65377199
+1990Q3,Victoria,"Professional, Scientific and Technical Services",98.46776412
+1990Q4,New South Wales,Accommodation and Food Services,111.88433226000001
+1990Q4,New South Wales,Construction,216.40473892
+1990Q4,New South Wales,Education and Training,172.09699993
+1990Q4,New South Wales,Health Care and Social Assistance,225.5613141
+1990Q4,New South Wales,Manufacturing,384.81020416
+1990Q4,New South Wales,"Professional, Scientific and Technical Services",127.57960927
+1990Q4,Queensland,Accommodation and Food Services,67.50029832
+1990Q4,Queensland,Construction,106.14631157
+1990Q4,Queensland,Education and Training,93.62208917
+1990Q4,Queensland,Health Care and Social Assistance,114.89466371
+1990Q4,Queensland,Manufacturing,145.52402374
+1990Q4,Queensland,"Professional, Scientific and Technical Services",57.95361496
+1990Q4,Victoria,Accommodation and Food Services,73.22059905
+1990Q4,Victoria,Construction,143.3864398
+1990Q4,Victoria,Education and Training,137.08544057
+1990Q4,Victoria,Health Care and Social Assistance,178.92485509
+1990Q4,Victoria,Manufacturing,353.10284178
+1990Q4,Victoria,"Professional, Scientific and Technical Services",103.36221848
+1991Q1,New South Wales,Accommodation and Food Services,112.78924599999999
+1991Q1,New South Wales,Construction,215.43678745
+1991Q1,New South Wales,Education and Training,162.62371048999998
+1991Q1,New South Wales,Health Care and Social Assistance,224.88343937999997
+1991Q1,New South Wales,Manufacturing,358.20953527
+1991Q1,New South Wales,"Professional, Scientific and Technical Services",133.66576423
+1991Q1,Queensland,Accommodation and Food Services,61.39444735
+1991Q1,Queensland,Construction,106.0549877
+1991Q1,Queensland,Education and Training,93.42982741
+1991Q1,Queensland,Health Care and Social Assistance,108.77151850999999
+1991Q1,Queensland,Manufacturing,141.8310143
+1991Q1,Queensland,"Professional, Scientific and Technical Services",62.79811951
+1991Q1,Victoria,Accommodation and Food Services,78.91143978
+1991Q1,Victoria,Construction,136.95552702
+1991Q1,Victoria,Education and Training,135.37915331
+1991Q1,Victoria,Health Care and Social Assistance,169.64318619
+1991Q1,Victoria,Manufacturing,347.92007414
+1991Q1,Victoria,"Professional, Scientific and Technical Services",91.46321468
+1991Q2,New South Wales,Accommodation and Food Services,112.44114625
+1991Q2,New South Wales,Construction,196.58394722
+1991Q2,New South Wales,Education and Training,174.94228483
+1991Q2,New South Wales,Health Care and Social Assistance,237.39401523
+1991Q2,New South Wales,Manufacturing,364.28358101000003
+1991Q2,New South Wales,"Professional, Scientific and Technical Services",140.66560336
+1991Q2,Queensland,Accommodation and Food Services,64.37118505
+1991Q2,Queensland,Construction,108.52077284
+1991Q2,Queensland,Education and Training,97.34995577999999
+1991Q2,Queensland,Health Care and Social Assistance,108.96669408
+1991Q2,Queensland,Manufacturing,132.04824508
+1991Q2,Queensland,"Professional, Scientific and Technical Services",59.58842171
+1991Q2,Victoria,Accommodation and Food Services,82.00057164
+1991Q2,Victoria,Construction,124.89895906000001
+1991Q2,Victoria,Education and Training,142.76963060000003
+1991Q2,Victoria,Health Care and Social Assistance,175.65319645
+1991Q2,Victoria,Manufacturing,339.51448561
+1991Q2,Victoria,"Professional, Scientific and Technical Services",92.57410119
+1991Q3,New South Wales,Accommodation and Food Services,111.27460024999999
+1991Q3,New South Wales,Construction,175.65569062
+1991Q3,New South Wales,Education and Training,187.02971163
+1991Q3,New South Wales,Health Care and Social Assistance,234.38796624
+1991Q3,New South Wales,Manufacturing,347.77440453
+1991Q3,New South Wales,"Professional, Scientific and Technical Services",145.38039243
+1991Q3,Queensland,Accommodation and Food Services,67.83636668
+1991Q3,Queensland,Construction,105.86694919
+1991Q3,Queensland,Education and Training,92.0368938
+1991Q3,Queensland,Health Care and Social Assistance,113.15904719
+1991Q3,Queensland,Manufacturing,141.23259835
+1991Q3,Queensland,"Professional, Scientific and Technical Services",58.22826564
+1991Q3,Victoria,Accommodation and Food Services,82.04982484
+1991Q3,Victoria,Construction,118.97030196
+1991Q3,Victoria,Education and Training,141.25335845
+1991Q3,Victoria,Health Care and Social Assistance,178.73917789
+1991Q3,Victoria,Manufacturing,346.54518381
+1991Q3,Victoria,"Professional, Scientific and Technical Services",99.02385338
+1991Q4,New South Wales,Accommodation and Food Services,106.91267694999999
+1991Q4,New South Wales,Construction,178.37047555
+1991Q4,New South Wales,Education and Training,171.81784483
+1991Q4,New South Wales,Health Care and Social Assistance,238.37253106999998
+1991Q4,New South Wales,Manufacturing,362.10792028
+1991Q4,New South Wales,"Professional, Scientific and Technical Services",139.93467547
+1991Q4,Queensland,Accommodation and Food Services,74.1142798
+1991Q4,Queensland,Construction,110.1693118
+1991Q4,Queensland,Education and Training,92.84116492
+1991Q4,Queensland,Health Care and Social Assistance,122.29234672
+1991Q4,Queensland,Manufacturing,145.71889944
+1991Q4,Queensland,"Professional, Scientific and Technical Services",59.5837123
+1991Q4,Victoria,Accommodation and Food Services,80.85084271
+1991Q4,Victoria,Construction,113.43042409
+1991Q4,Victoria,Education and Training,130.41094091
+1991Q4,Victoria,Health Care and Social Assistance,173.15506825
+1991Q4,Victoria,Manufacturing,347.93087267
+1991Q4,Victoria,"Professional, Scientific and Technical Services",99.40020063
+1992Q1,New South Wales,Accommodation and Food Services,112.86349684000001
+1992Q1,New South Wales,Construction,179.75386732
+1992Q1,New South Wales,Education and Training,163.75499841
+1992Q1,New South Wales,Health Care and Social Assistance,236.5594851
+1992Q1,New South Wales,Manufacturing,355.60096534
+1992Q1,New South Wales,"Professional, Scientific and Technical Services",140.21997783999998
+1992Q1,Queensland,Accommodation and Food Services,71.12452741
+1992Q1,Queensland,Construction,96.65919112
+1992Q1,Queensland,Education and Training,90.55432202
+1992Q1,Queensland,Health Care and Social Assistance,116.13654401
+1992Q1,Queensland,Manufacturing,158.43813554
+1992Q1,Queensland,"Professional, Scientific and Technical Services",61.02247728
+1992Q1,Victoria,Accommodation and Food Services,80.06155499
+1992Q1,Victoria,Construction,118.42838555
+1992Q1,Victoria,Education and Training,139.31257298
+1992Q1,Victoria,Health Care and Social Assistance,172.23242385
+1992Q1,Victoria,Manufacturing,326.41849679
+1992Q1,Victoria,"Professional, Scientific and Technical Services",105.98369802
+1992Q2,New South Wales,Accommodation and Food Services,115.16986987
+1992Q2,New South Wales,Construction,175.5988772
+1992Q2,New South Wales,Education and Training,181.46117059
+1992Q2,New South Wales,Health Care and Social Assistance,227.13251018
+1992Q2,New South Wales,Manufacturing,350.03446689
+1992Q2,New South Wales,"Professional, Scientific and Technical Services",148.44380642
+1992Q2,Queensland,Accommodation and Food Services,69.13845304
+1992Q2,Queensland,Construction,92.65154011999999
+1992Q2,Queensland,Education and Training,97.50207949
+1992Q2,Queensland,Health Care and Social Assistance,116.97831774
+1992Q2,Queensland,Manufacturing,156.62857044
+1992Q2,Queensland,"Professional, Scientific and Technical Services",65.01907302
+1992Q2,Victoria,Accommodation and Food Services,81.54098307
+1992Q2,Victoria,Construction,121.09467212
+1992Q2,Victoria,Education and Training,146.8996727
+1992Q2,Victoria,Health Care and Social Assistance,165.98407378
+1992Q2,Victoria,Manufacturing,337.9079447
+1992Q2,Victoria,"Professional, Scientific and Technical Services",99.76175807999999
+1992Q3,New South Wales,Accommodation and Food Services,117.04472486
+1992Q3,New South Wales,Construction,172.36246664
+1992Q3,New South Wales,Education and Training,189.18827832
+1992Q3,New South Wales,Health Care and Social Assistance,236.31988958
+1992Q3,New South Wales,Manufacturing,346.13730637
+1992Q3,New South Wales,"Professional, Scientific and Technical Services",145.10296237
+1992Q3,Queensland,Accommodation and Food Services,64.98318515
+1992Q3,Queensland,Construction,109.31077684
+1992Q3,Queensland,Education and Training,97.82557924
+1992Q3,Queensland,Health Care and Social Assistance,110.54653477
+1992Q3,Queensland,Manufacturing,152.82747545
+1992Q3,Queensland,"Professional, Scientific and Technical Services",62.55928087
+1992Q3,Victoria,Accommodation and Food Services,79.41460903
+1992Q3,Victoria,Construction,117.80281392
+1992Q3,Victoria,Education and Training,149.60926459
+1992Q3,Victoria,Health Care and Social Assistance,168.78124382000001
+1992Q3,Victoria,Manufacturing,333.23377239
+1992Q3,Victoria,"Professional, Scientific and Technical Services",106.98685538
+1992Q4,New South Wales,Accommodation and Food Services,104.37682905
+1992Q4,New South Wales,Construction,170.25454886
+1992Q4,New South Wales,Education and Training,175.83259385
+1992Q4,New South Wales,Health Care and Social Assistance,227.62750576
+1992Q4,New South Wales,Manufacturing,366.68212576999997
+1992Q4,New South Wales,"Professional, Scientific and Technical Services",138.63193115
+1992Q4,Queensland,Accommodation and Food Services,71.35296718000001
+1992Q4,Queensland,Construction,112.46316982
+1992Q4,Queensland,Education and Training,104.84836885
+1992Q4,Queensland,Health Care and Social Assistance,118.0215664
+1992Q4,Queensland,Manufacturing,159.09245383
+1992Q4,Queensland,"Professional, Scientific and Technical Services",59.67756542
+1992Q4,Victoria,Accommodation and Food Services,77.39716061
+1992Q4,Victoria,Construction,119.98369836
+1992Q4,Victoria,Education and Training,140.4716383
+1992Q4,Victoria,Health Care and Social Assistance,170.12228557
+1992Q4,Victoria,Manufacturing,337.94479172
+1992Q4,Victoria,"Professional, Scientific and Technical Services",103.06867848
+1993Q1,New South Wales,Accommodation and Food Services,109.05588735
+1993Q1,New South Wales,Construction,180.36719477
+1993Q1,New South Wales,Education and Training,161.91836373
+1993Q1,New South Wales,Health Care and Social Assistance,227.55196429
+1993Q1,New South Wales,Manufacturing,355.62491036
+1993Q1,New South Wales,"Professional, Scientific and Technical Services",127.53354696
+1993Q1,Queensland,Accommodation and Food Services,70.99779842999999
+1993Q1,Queensland,Construction,113.89129762
+1993Q1,Queensland,Education and Training,99.60116871000001
+1993Q1,Queensland,Health Care and Social Assistance,112.70500611
+1993Q1,Queensland,Manufacturing,153.47196373
+1993Q1,Queensland,"Professional, Scientific and Technical Services",56.32826665
+1993Q1,Victoria,Accommodation and Food Services,84.54624897
+1993Q1,Victoria,Construction,121.48221465
+1993Q1,Victoria,Education and Training,137.19749252
+1993Q1,Victoria,Health Care and Social Assistance,159.56589619000002
+1993Q1,Victoria,Manufacturing,323.16272768
+1993Q1,Victoria,"Professional, Scientific and Technical Services",91.20091182
+1993Q2,New South Wales,Accommodation and Food Services,115.71234301000001
+1993Q2,New South Wales,Construction,182.96695271
+1993Q2,New South Wales,Education and Training,176.72785196
+1993Q2,New South Wales,Health Care and Social Assistance,222.92566817000002
+1993Q2,New South Wales,Manufacturing,352.80523452
+1993Q2,New South Wales,"Professional, Scientific and Technical Services",124.97072447
+1993Q2,Queensland,Accommodation and Food Services,71.00693016
+1993Q2,Queensland,Construction,119.2169772
+1993Q2,Queensland,Education and Training,101.82341416
+1993Q2,Queensland,Health Care and Social Assistance,110.01514669000001
+1993Q2,Queensland,Manufacturing,157.77629855
+1993Q2,Queensland,"Professional, Scientific and Technical Services",57.108549180000004
+1993Q2,Victoria,Accommodation and Food Services,76.9796278
+1993Q2,Victoria,Construction,116.33582623
+1993Q2,Victoria,Education and Training,140.67180740999999
+1993Q2,Victoria,Health Care and Social Assistance,167.28003062
+1993Q2,Victoria,Manufacturing,323.06776149
+1993Q2,Victoria,"Professional, Scientific and Technical Services",95.07076007
+1993Q3,New South Wales,Accommodation and Food Services,103.67600064000001
+1993Q3,New South Wales,Construction,189.7236778
+1993Q3,New South Wales,Education and Training,185.96199183
+1993Q3,New South Wales,Health Care and Social Assistance,231.70341276000002
+1993Q3,New South Wales,Manufacturing,351.74677655
+1993Q3,New South Wales,"Professional, Scientific and Technical Services",131.11073328999998
+1993Q3,Queensland,Accommodation and Food Services,71.2346625
+1993Q3,Queensland,Construction,120.51965952
+1993Q3,Queensland,Education and Training,101.01652603000001
+1993Q3,Queensland,Health Care and Social Assistance,123.37207981
+1993Q3,Queensland,Manufacturing,154.97077186
+1993Q3,Queensland,"Professional, Scientific and Technical Services",57.30583789
+1993Q3,Victoria,Accommodation and Food Services,81.52469572999999
+1993Q3,Victoria,Construction,111.16562215
+1993Q3,Victoria,Education and Training,136.98677767
+1993Q3,Victoria,Health Care and Social Assistance,168.82793281
+1993Q3,Victoria,Manufacturing,317.55240891
+1993Q3,Victoria,"Professional, Scientific and Technical Services",96.03794223
+1993Q4,New South Wales,Accommodation and Food Services,110.83364454
+1993Q4,New South Wales,Construction,181.06193220999998
+1993Q4,New South Wales,Education and Training,177.01440012
+1993Q4,New South Wales,Health Care and Social Assistance,232.20057528
+1993Q4,New South Wales,Manufacturing,358.37446901
+1993Q4,New South Wales,"Professional, Scientific and Technical Services",136.50615514
+1993Q4,Queensland,Accommodation and Food Services,70.30415917
+1993Q4,Queensland,Construction,123.94027041
+1993Q4,Queensland,Education and Training,106.47128198
+1993Q4,Queensland,Health Care and Social Assistance,119.74332323
+1993Q4,Queensland,Manufacturing,165.9735224
+1993Q4,Queensland,"Professional, Scientific and Technical Services",60.31645237
+1993Q4,Victoria,Accommodation and Food Services,82.27885885
+1993Q4,Victoria,Construction,117.20118631999999
+1993Q4,Victoria,Education and Training,144.19482502
+1993Q4,Victoria,Health Care and Social Assistance,170.75578941
+1993Q4,Victoria,Manufacturing,323.91146776
+1993Q4,Victoria,"Professional, Scientific and Technical Services",93.31791522
+1994Q1,New South Wales,Accommodation and Food Services,117.1596825
+1994Q1,New South Wales,Construction,183.33205473
+1994Q1,New South Wales,Education and Training,160.32078398000002
+1994Q1,New South Wales,Health Care and Social Assistance,247.70389229999998
+1994Q1,New South Wales,Manufacturing,367.04908185
+1994Q1,New South Wales,"Professional, Scientific and Technical Services",145.34200071
+1994Q1,Queensland,Accommodation and Food Services,73.98839767
+1994Q1,Queensland,Construction,129.40026075
+1994Q1,Queensland,Education and Training,101.50700106
+1994Q1,Queensland,Health Care and Social Assistance,123.99707337
+1994Q1,Queensland,Manufacturing,161.22150038
+1994Q1,Queensland,"Professional, Scientific and Technical Services",62.47928699
+1994Q1,Victoria,Accommodation and Food Services,79.42438134
+1994Q1,Victoria,Construction,119.65946903
+1994Q1,Victoria,Education and Training,138.54513321000002
+1994Q1,Victoria,Health Care and Social Assistance,161.54729099
+1994Q1,Victoria,Manufacturing,322.32288343
+1994Q1,Victoria,"Professional, Scientific and Technical Services",104.4128194
+1994Q2,New South Wales,Accommodation and Food Services,117.20016286
+1994Q2,New South Wales,Construction,183.17647993
+1994Q2,New South Wales,Education and Training,188.20402526
+1994Q2,New South Wales,Health Care and Social Assistance,255.12004015000002
+1994Q2,New South Wales,Manufacturing,361.621585
+1994Q2,New South Wales,"Professional, Scientific and Technical Services",139.4387571
+1994Q2,Queensland,Accommodation and Food Services,73.77521078
+1994Q2,Queensland,Construction,129.56622555
+1994Q2,Queensland,Education and Training,101.88109494
+1994Q2,Queensland,Health Care and Social Assistance,126.36141265
+1994Q2,Queensland,Manufacturing,173.68346735
+1994Q2,Queensland,"Professional, Scientific and Technical Services",67.07816763
+1994Q2,Victoria,Accommodation and Food Services,77.8445622
+1994Q2,Victoria,Construction,115.79056061
+1994Q2,Victoria,Education and Training,140.13592738
+1994Q2,Victoria,Health Care and Social Assistance,171.84919488
+1994Q2,Victoria,Manufacturing,324.59307918999997
+1994Q2,Victoria,"Professional, Scientific and Technical Services",104.53389325
+1994Q3,New South Wales,Accommodation and Food Services,139.00676866
+1994Q3,New South Wales,Construction,178.15753442000002
+1994Q3,New South Wales,Education and Training,185.81532809
+1994Q3,New South Wales,Health Care and Social Assistance,233.75366491
+1994Q3,New South Wales,Manufacturing,362.80477217
+1994Q3,New South Wales,"Professional, Scientific and Technical Services",137.76411391
+1994Q3,Queensland,Accommodation and Food Services,75.43879926
+1994Q3,Queensland,Construction,140.81691461
+1994Q3,Queensland,Education and Training,101.74241048
+1994Q3,Queensland,Health Care and Social Assistance,127.57674879999999
+1994Q3,Queensland,Manufacturing,167.13435215
+1994Q3,Queensland,"Professional, Scientific and Technical Services",78.91540548
+1994Q3,Victoria,Accommodation and Food Services,77.89497209999999
+1994Q3,Victoria,Construction,117.91773524
+1994Q3,Victoria,Education and Training,138.18778515
+1994Q3,Victoria,Health Care and Social Assistance,162.61040538
+1994Q3,Victoria,Manufacturing,326.90066445
+1994Q3,Victoria,"Professional, Scientific and Technical Services",122.65209393
+1994Q4,New South Wales,Accommodation and Food Services,141.91430846999998
+1994Q4,New South Wales,Construction,176.51929362
+1994Q4,New South Wales,Education and Training,188.41219965999997
+1994Q4,New South Wales,Health Care and Social Assistance,243.32505394
+1994Q4,New South Wales,Manufacturing,348.68446091
+1994Q4,New South Wales,"Professional, Scientific and Technical Services",137.8263372
+1994Q4,Queensland,Accommodation and Food Services,79.24747255
+1994Q4,Queensland,Construction,140.91743992
+1994Q4,Queensland,Education and Training,100.08163592
+1994Q4,Queensland,Health Care and Social Assistance,129.35597223000002
+1994Q4,Queensland,Manufacturing,174.24015888
+1994Q4,Queensland,"Professional, Scientific and Technical Services",76.58158698
+1994Q4,Victoria,Accommodation and Food Services,79.75581442
+1994Q4,Victoria,Construction,127.20884688
+1994Q4,Victoria,Education and Training,140.17681873
+1994Q4,Victoria,Health Care and Social Assistance,161.23619891
+1994Q4,Victoria,Manufacturing,343.62445442
+1994Q4,Victoria,"Professional, Scientific and Technical Services",119.59056812
+1995Q1,New South Wales,Accommodation and Food Services,136.54700615
+1995Q1,New South Wales,Construction,185.66163028
+1995Q1,New South Wales,Education and Training,172.28097493
+1995Q1,New South Wales,Health Care and Social Assistance,240.06449507
+1995Q1,New South Wales,Manufacturing,357.41386026
+1995Q1,New South Wales,"Professional, Scientific and Technical Services",141.76042011
+1995Q1,Queensland,Accommodation and Food Services,80.67629776
+1995Q1,Queensland,Construction,136.76310287
+1995Q1,Queensland,Education and Training,99.88899036000001
+1995Q1,Queensland,Health Care and Social Assistance,130.58173935
+1995Q1,Queensland,Manufacturing,168.6947972
+1995Q1,Queensland,"Professional, Scientific and Technical Services",77.46920751
+1995Q1,Victoria,Accommodation and Food Services,86.42795651
+1995Q1,Victoria,Construction,132.23342514
+1995Q1,Victoria,Education and Training,140.37808052
+1995Q1,Victoria,Health Care and Social Assistance,168.06664328
+1995Q1,Victoria,Manufacturing,340.43517578
+1995Q1,Victoria,"Professional, Scientific and Technical Services",123.86347246
+1995Q2,New South Wales,Accommodation and Food Services,140.73813736
+1995Q2,New South Wales,Construction,211.18226147
+1995Q2,New South Wales,Education and Training,193.78830609
+1995Q2,New South Wales,Health Care and Social Assistance,246.97995876
+1995Q2,New South Wales,Manufacturing,347.36438445
+1995Q2,New South Wales,"Professional, Scientific and Technical Services",153.13811226
+1995Q2,Queensland,Accommodation and Food Services,80.04883988
+1995Q2,Queensland,Construction,126.40226392999999
+1995Q2,Queensland,Education and Training,104.47533527
+1995Q2,Queensland,Health Care and Social Assistance,129.65211848
+1995Q2,Queensland,Manufacturing,175.49933986
+1995Q2,Queensland,"Professional, Scientific and Technical Services",78.58376801
+1995Q2,Victoria,Accommodation and Food Services,82.46502196
+1995Q2,Victoria,Construction,132.06577252
+1995Q2,Victoria,Education and Training,150.5458174
+1995Q2,Victoria,Health Care and Social Assistance,181.83820878
+1995Q2,Victoria,Manufacturing,324.52854722
+1995Q2,Victoria,"Professional, Scientific and Technical Services",139.0145706
+1995Q3,New South Wales,Accommodation and Food Services,140.06448717
+1995Q3,New South Wales,Construction,208.28825949
+1995Q3,New South Wales,Education and Training,191.88829166
+1995Q3,New South Wales,Health Care and Social Assistance,256.26929294
+1995Q3,New South Wales,Manufacturing,351.98121239
+1995Q3,New South Wales,"Professional, Scientific and Technical Services",161.17318007
+1995Q3,Queensland,Accommodation and Food Services,75.66626912
+1995Q3,Queensland,Construction,124.2663961
+1995Q3,Queensland,Education and Training,113.86396154
+1995Q3,Queensland,Health Care and Social Assistance,127.27726824
+1995Q3,Queensland,Manufacturing,175.21013156
+1995Q3,Queensland,"Professional, Scientific and Technical Services",76.94964812
+1995Q3,Victoria,Accommodation and Food Services,92.00330327
+1995Q3,Victoria,Construction,126.96178853
+1995Q3,Victoria,Education and Training,152.25404195000002
+1995Q3,Victoria,Health Care and Social Assistance,185.19133527
+1995Q3,Victoria,Manufacturing,335.75042468
+1995Q3,Victoria,"Professional, Scientific and Technical Services",137.63584383
+1995Q4,New South Wales,Accommodation and Food Services,137.25240352
+1995Q4,New South Wales,Construction,209.00861043
+1995Q4,New South Wales,Education and Training,199.51075851000002
+1995Q4,New South Wales,Health Care and Social Assistance,252.58056274999998
+1995Q4,New South Wales,Manufacturing,333.24243308
+1995Q4,New South Wales,"Professional, Scientific and Technical Services",161.65920404
+1995Q4,Queensland,Accommodation and Food Services,84.77704109
+1995Q4,Queensland,Construction,130.56512696
+1995Q4,Queensland,Education and Training,110.07139038
+1995Q4,Queensland,Health Care and Social Assistance,132.71545293
+1995Q4,Queensland,Manufacturing,175.10354883
+1995Q4,Queensland,"Professional, Scientific and Technical Services",79.23468791
+1995Q4,Victoria,Accommodation and Food Services,88.22457053
+1995Q4,Victoria,Construction,127.53391832999999
+1995Q4,Victoria,Education and Training,144.02303634
+1995Q4,Victoria,Health Care and Social Assistance,174.68051294999998
+1995Q4,Victoria,Manufacturing,347.80781636
+1995Q4,Victoria,"Professional, Scientific and Technical Services",145.15108145
+1996Q1,New South Wales,Accommodation and Food Services,133.44043597
+1996Q1,New South Wales,Construction,210.76325563
+1996Q1,New South Wales,Education and Training,187.40477743000002
+1996Q1,New South Wales,Health Care and Social Assistance,247.62400851
+1996Q1,New South Wales,Manufacturing,338.6758369
+1996Q1,New South Wales,"Professional, Scientific and Technical Services",167.24371373
+1996Q1,Queensland,Accommodation and Food Services,79.70245608
+1996Q1,Queensland,Construction,126.54670666999999
+1996Q1,Queensland,Education and Training,103.57725028
+1996Q1,Queensland,Health Care and Social Assistance,137.71213298
+1996Q1,Queensland,Manufacturing,174.33477636
+1996Q1,Queensland,"Professional, Scientific and Technical Services",80.48131865
+1996Q1,Victoria,Accommodation and Food Services,85.2147438
+1996Q1,Victoria,Construction,131.35488819
+1996Q1,Victoria,Education and Training,137.66806089
+1996Q1,Victoria,Health Care and Social Assistance,174.15146899
+1996Q1,Victoria,Manufacturing,337.98398828
+1996Q1,Victoria,"Professional, Scientific and Technical Services",139.78570553
+1996Q2,New South Wales,Accommodation and Food Services,133.9680924
+1996Q2,New South Wales,Construction,202.18131153
+1996Q2,New South Wales,Education and Training,206.91696423
+1996Q2,New South Wales,Health Care and Social Assistance,248.92703324000001
+1996Q2,New South Wales,Manufacturing,337.03500780999997
+1996Q2,New South Wales,"Professional, Scientific and Technical Services",177.45447087
+1996Q2,Queensland,Accommodation and Food Services,79.75090828
+1996Q2,Queensland,Construction,120.54087362
+1996Q2,Queensland,Education and Training,114.50596555
+1996Q2,Queensland,Health Care and Social Assistance,138.97025656
+1996Q2,Queensland,Manufacturing,165.54705688
+1996Q2,Queensland,"Professional, Scientific and Technical Services",79.99451309999999
+1996Q2,Victoria,Accommodation and Food Services,100.67895347
+1996Q2,Victoria,Construction,137.2044187
+1996Q2,Victoria,Education and Training,138.57048577
+1996Q2,Victoria,Health Care and Social Assistance,183.42215365
+1996Q2,Victoria,Manufacturing,349.6499593
+1996Q2,Victoria,"Professional, Scientific and Technical Services",139.64212756
+1996Q3,New South Wales,Accommodation and Food Services,134.79055628999998
+1996Q3,New South Wales,Construction,205.68753366
+1996Q3,New South Wales,Education and Training,206.33066636
+1996Q3,New South Wales,Health Care and Social Assistance,238.85859808
+1996Q3,New South Wales,Manufacturing,354.00260048
+1996Q3,New South Wales,"Professional, Scientific and Technical Services",180.67599882000002
+1996Q3,Queensland,Accommodation and Food Services,87.1084267
+1996Q3,Queensland,Construction,125.975975
+1996Q3,Queensland,Education and Training,109.47501284
+1996Q3,Queensland,Health Care and Social Assistance,140.09833124
+1996Q3,Queensland,Manufacturing,156.11287733999998
+1996Q3,Queensland,"Professional, Scientific and Technical Services",82.46447667
+1996Q3,Victoria,Accommodation and Food Services,91.48230473999999
+1996Q3,Victoria,Construction,133.94709382
+1996Q3,Victoria,Education and Training,142.52135502000002
+1996Q3,Victoria,Health Care and Social Assistance,184.9525597
+1996Q3,Victoria,Manufacturing,350.72951476
+1996Q3,Victoria,"Professional, Scientific and Technical Services",140.66680763
+1996Q4,New South Wales,Accommodation and Food Services,140.4814333
+1996Q4,New South Wales,Construction,183.82213865
+1996Q4,New South Wales,Education and Training,202.90160708
+1996Q4,New South Wales,Health Care and Social Assistance,261.53639646
+1996Q4,New South Wales,Manufacturing,367.82810228
+1996Q4,New South Wales,"Professional, Scientific and Technical Services",169.86519102
+1996Q4,Queensland,Accommodation and Food Services,91.13705067000001
+1996Q4,Queensland,Construction,126.97418735
+1996Q4,Queensland,Education and Training,108.84495858999999
+1996Q4,Queensland,Health Care and Social Assistance,146.74468707
+1996Q4,Queensland,Manufacturing,159.57167739
+1996Q4,Queensland,"Professional, Scientific and Technical Services",84.54949447999999
+1996Q4,Victoria,Accommodation and Food Services,96.26558791000001
+1996Q4,Victoria,Construction,132.98018552
+1996Q4,Victoria,Education and Training,146.03480112999998
+1996Q4,Victoria,Health Care and Social Assistance,184.23898395
+1996Q4,Victoria,Manufacturing,347.34709349
+1996Q4,Victoria,"Professional, Scientific and Technical Services",137.00333002
+1997Q1,New South Wales,Accommodation and Food Services,149.86136252
+1997Q1,New South Wales,Construction,195.98536999
+1997Q1,New South Wales,Education and Training,185.24701429
+1997Q1,New South Wales,Health Care and Social Assistance,245.95817376
+1997Q1,New South Wales,Manufacturing,363.95998705
+1997Q1,New South Wales,"Professional, Scientific and Technical Services",175.13066328
+1997Q1,Queensland,Accommodation and Food Services,91.21283305
+1997Q1,Queensland,Construction,123.98399397
+1997Q1,Queensland,Education and Training,106.4069693
+1997Q1,Queensland,Health Care and Social Assistance,136.14893126
+1997Q1,Queensland,Manufacturing,163.58827604
+1997Q1,Queensland,"Professional, Scientific and Technical Services",83.00563971
+1997Q1,Victoria,Accommodation and Food Services,88.08692205
+1997Q1,Victoria,Construction,121.09409291
+1997Q1,Victoria,Education and Training,137.45494892000002
+1997Q1,Victoria,Health Care and Social Assistance,183.55497789
+1997Q1,Victoria,Manufacturing,341.69240049
+1997Q1,Victoria,"Professional, Scientific and Technical Services",134.95717219
+1997Q2,New South Wales,Accommodation and Food Services,158.52685723
+1997Q2,New South Wales,Construction,190.79888918
+1997Q2,New South Wales,Education and Training,198.69987461
+1997Q2,New South Wales,Health Care and Social Assistance,255.79394488
+1997Q2,New South Wales,Manufacturing,361.87519242
+1997Q2,New South Wales,"Professional, Scientific and Technical Services",178.84442163
+1997Q2,Queensland,Accommodation and Food Services,87.86982557
+1997Q2,Queensland,Construction,120.15825565
+1997Q2,Queensland,Education and Training,116.43183293
+1997Q2,Queensland,Health Care and Social Assistance,142.86034844
+1997Q2,Queensland,Manufacturing,172.38724173
+1997Q2,Queensland,"Professional, Scientific and Technical Services",77.52821541
+1997Q2,Victoria,Accommodation and Food Services,97.10523054
+1997Q2,Victoria,Construction,118.70734526
+1997Q2,Victoria,Education and Training,141.12257514
+1997Q2,Victoria,Health Care and Social Assistance,178.66642430000002
+1997Q2,Victoria,Manufacturing,337.62260703
+1997Q2,Victoria,"Professional, Scientific and Technical Services",148.36533198
+1997Q3,New South Wales,Accommodation and Food Services,144.14584729999999
+1997Q3,New South Wales,Construction,180.25537633
+1997Q3,New South Wales,Education and Training,197.82661877
+1997Q3,New South Wales,Health Care and Social Assistance,258.61145270000003
+1997Q3,New South Wales,Manufacturing,383.17392999
+1997Q3,New South Wales,"Professional, Scientific and Technical Services",180.15766246
+1997Q3,Queensland,Accommodation and Food Services,88.21359145
+1997Q3,Queensland,Construction,116.70225036
+1997Q3,Queensland,Education and Training,115.83063767
+1997Q3,Queensland,Health Care and Social Assistance,145.778285
+1997Q3,Queensland,Manufacturing,169.19013778
+1997Q3,Queensland,"Professional, Scientific and Technical Services",87.52894776
+1997Q3,Victoria,Accommodation and Food Services,95.28275325999999
+1997Q3,Victoria,Construction,125.65211552
+1997Q3,Victoria,Education and Training,143.39206048
+1997Q3,Victoria,Health Care and Social Assistance,181.70342432
+1997Q3,Victoria,Manufacturing,331.64523874
+1997Q3,Victoria,"Professional, Scientific and Technical Services",157.75066127
+1997Q4,New South Wales,Accommodation and Food Services,142.74294316
+1997Q4,New South Wales,Construction,204.80468559
+1997Q4,New South Wales,Education and Training,193.51160116
+1997Q4,New South Wales,Health Care and Social Assistance,272.81408545
+1997Q4,New South Wales,Manufacturing,372.53473987
+1997Q4,New South Wales,"Professional, Scientific and Technical Services",176.9907407
+1997Q4,Queensland,Accommodation and Food Services,98.36526036000001
+1997Q4,Queensland,Construction,120.85935448
+1997Q4,Queensland,Education and Training,113.79643394
+1997Q4,Queensland,Health Care and Social Assistance,144.61297362
+1997Q4,Queensland,Manufacturing,165.54158012
+1997Q4,Queensland,"Professional, Scientific and Technical Services",92.49037574
+1997Q4,Victoria,Accommodation and Food Services,95.41910969
+1997Q4,Victoria,Construction,130.85785762999998
+1997Q4,Victoria,Education and Training,147.41010652
+1997Q4,Victoria,Health Care and Social Assistance,190.18789721
+1997Q4,Victoria,Manufacturing,345.42478346
+1997Q4,Victoria,"Professional, Scientific and Technical Services",155.89483455
+1998Q1,New South Wales,Accommodation and Food Services,135.97226815
+1998Q1,New South Wales,Construction,204.84796347
+1998Q1,New South Wales,Education and Training,180.14628808999998
+1998Q1,New South Wales,Health Care and Social Assistance,265.67360663
+1998Q1,New South Wales,Manufacturing,346.71459098
+1998Q1,New South Wales,"Professional, Scientific and Technical Services",186.34608865
+1998Q1,Queensland,Accommodation and Food Services,90.98802895
+1998Q1,Queensland,Construction,125.67148419
+1998Q1,Queensland,Education and Training,111.72383338
+1998Q1,Queensland,Health Care and Social Assistance,145.28634943
+1998Q1,Queensland,Manufacturing,169.33259724
+1998Q1,Queensland,"Professional, Scientific and Technical Services",93.88902479000001
+1998Q1,Victoria,Accommodation and Food Services,90.39468707
+1998Q1,Victoria,Construction,136.71224152
+1998Q1,Victoria,Education and Training,140.61977313
+1998Q1,Victoria,Health Care and Social Assistance,194.16879159
+1998Q1,Victoria,Manufacturing,333.18345436
+1998Q1,Victoria,"Professional, Scientific and Technical Services",158.82183674
+1998Q2,New South Wales,Accommodation and Food Services,140.64961687
+1998Q2,New South Wales,Construction,209.46742235
+1998Q2,New South Wales,Education and Training,198.73049966
+1998Q2,New South Wales,Health Care and Social Assistance,264.78761446
+1998Q2,New South Wales,Manufacturing,334.95850757
+1998Q2,New South Wales,"Professional, Scientific and Technical Services",185.20880866
+1998Q2,Queensland,Accommodation and Food Services,95.99968952
+1998Q2,Queensland,Construction,126.04848373
+1998Q2,Queensland,Education and Training,122.45077601
+1998Q2,Queensland,Health Care and Social Assistance,152.5263111
+1998Q2,Queensland,Manufacturing,162.55141826
+1998Q2,Queensland,"Professional, Scientific and Technical Services",87.14304066
+1998Q2,Victoria,Accommodation and Food Services,95.55567375
+1998Q2,Victoria,Construction,139.77039551000001
+1998Q2,Victoria,Education and Training,149.20025608
+1998Q2,Victoria,Health Care and Social Assistance,199.12196771
+1998Q2,Victoria,Manufacturing,323.63520459
+1998Q2,Victoria,"Professional, Scientific and Technical Services",155.06382574
+1998Q3,New South Wales,Accommodation and Food Services,147.43882646999998
+1998Q3,New South Wales,Construction,217.53183006
+1998Q3,New South Wales,Education and Training,204.61150392
+1998Q3,New South Wales,Health Care and Social Assistance,251.2079856
+1998Q3,New South Wales,Manufacturing,345.72823507
+1998Q3,New South Wales,"Professional, Scientific and Technical Services",188.78192863
+1998Q3,Queensland,Accommodation and Food Services,91.00431388
+1998Q3,Queensland,Construction,126.23713138
+1998Q3,Queensland,Education and Training,122.32676897
+1998Q3,Queensland,Health Care and Social Assistance,157.46172780999999
+1998Q3,Queensland,Manufacturing,169.21573437
+1998Q3,Queensland,"Professional, Scientific and Technical Services",83.82740251999999
+1998Q3,Victoria,Accommodation and Food Services,102.0943383
+1998Q3,Victoria,Construction,142.33902469
+1998Q3,Victoria,Education and Training,140.28787929
+1998Q3,Victoria,Health Care and Social Assistance,196.09927514
+1998Q3,Victoria,Manufacturing,324.96935576
+1998Q3,Victoria,"Professional, Scientific and Technical Services",160.65082098
+1998Q4,New South Wales,Accommodation and Food Services,141.07803803
+1998Q4,New South Wales,Construction,216.11772554
+1998Q4,New South Wales,Education and Training,205.45187092999998
+1998Q4,New South Wales,Health Care and Social Assistance,257.23658876
+1998Q4,New South Wales,Manufacturing,332.91677461
+1998Q4,New South Wales,"Professional, Scientific and Technical Services",191.39010507
+1998Q4,Queensland,Accommodation and Food Services,93.21057461000001
+1998Q4,Queensland,Construction,137.00031184
+1998Q4,Queensland,Education and Training,121.14670982
+1998Q4,Queensland,Health Care and Social Assistance,155.8906716
+1998Q4,Queensland,Manufacturing,172.50089668
+1998Q4,Queensland,"Professional, Scientific and Technical Services",85.10792123
+1998Q4,Victoria,Accommodation and Food Services,106.84619845
+1998Q4,Victoria,Construction,146.10973715
+1998Q4,Victoria,Education and Training,136.15747007
+1998Q4,Victoria,Health Care and Social Assistance,202.88294385999998
+1998Q4,Victoria,Manufacturing,315.88801179
+1998Q4,Victoria,"Professional, Scientific and Technical Services",158.11420207
+1999Q1,New South Wales,Accommodation and Food Services,147.9882719
+1999Q1,New South Wales,Construction,207.470702
+1999Q1,New South Wales,Education and Training,210.29549788000003
+1999Q1,New South Wales,Health Care and Social Assistance,278.46616556
+1999Q1,New South Wales,Manufacturing,324.3949382
+1999Q1,New South Wales,"Professional, Scientific and Technical Services",199.74794036
+1999Q1,Queensland,Accommodation and Food Services,84.61084553
+1999Q1,Queensland,Construction,133.73249629
+1999Q1,Queensland,Education and Training,113.39916125
+1999Q1,Queensland,Health Care and Social Assistance,151.29225528999999
+1999Q1,Queensland,Manufacturing,164.18039348
+1999Q1,Queensland,"Professional, Scientific and Technical Services",85.88728513
+1999Q1,Victoria,Accommodation and Food Services,97.41224998000001
+1999Q1,Victoria,Construction,137.33091511
+1999Q1,Victoria,Education and Training,129.0117742
+1999Q1,Victoria,Health Care and Social Assistance,205.16776298
+1999Q1,Victoria,Manufacturing,335.57389981
+1999Q1,Victoria,"Professional, Scientific and Technical Services",146.71900657999998
+1999Q2,New South Wales,Accommodation and Food Services,151.93458714000002
+1999Q2,New South Wales,Construction,214.36012858
+1999Q2,New South Wales,Education and Training,217.33735781
+1999Q2,New South Wales,Health Care and Social Assistance,283.51978510000004
+1999Q2,New South Wales,Manufacturing,325.01438949
+1999Q2,New South Wales,"Professional, Scientific and Technical Services",207.55494414999998
+1999Q2,Queensland,Accommodation and Food Services,97.50829965
+1999Q2,Queensland,Construction,137.01221611
+1999Q2,Queensland,Education and Training,113.0689529
+1999Q2,Queensland,Health Care and Social Assistance,150.69680644
+1999Q2,Queensland,Manufacturing,164.80474876
+1999Q2,Queensland,"Professional, Scientific and Technical Services",85.29626977
+1999Q2,Victoria,Accommodation and Food Services,103.92566332999999
+1999Q2,Victoria,Construction,143.18247055
+1999Q2,Victoria,Education and Training,151.84701062
+1999Q2,Victoria,Health Care and Social Assistance,188.12111274
+1999Q2,Victoria,Manufacturing,324.21696321
+1999Q2,Victoria,"Professional, Scientific and Technical Services",151.00415525
+1999Q3,New South Wales,Accommodation and Food Services,145.88363965
+1999Q3,New South Wales,Construction,234.37920763
+1999Q3,New South Wales,Education and Training,216.56346098
+1999Q3,New South Wales,Health Care and Social Assistance,278.34032087
+1999Q3,New South Wales,Manufacturing,326.38789562
+1999Q3,New South Wales,"Professional, Scientific and Technical Services",190.50759819
+1999Q3,Queensland,Accommodation and Food Services,90.83656772
+1999Q3,Queensland,Construction,135.45043931
+1999Q3,Queensland,Education and Training,116.23666403
+1999Q3,Queensland,Health Care and Social Assistance,142.45310136999998
+1999Q3,Queensland,Manufacturing,165.164346
+1999Q3,Queensland,"Professional, Scientific and Technical Services",80.93739583
+1999Q3,Victoria,Accommodation and Food Services,100.98751462999999
+1999Q3,Victoria,Construction,148.48834063
+1999Q3,Victoria,Education and Training,156.03235297999998
+1999Q3,Victoria,Health Care and Social Assistance,174.31492211
+1999Q3,Victoria,Manufacturing,315.25392934
+1999Q3,Victoria,"Professional, Scientific and Technical Services",166.28933832
+1999Q4,New South Wales,Accommodation and Food Services,158.47682196
+1999Q4,New South Wales,Construction,253.40706668
+1999Q4,New South Wales,Education and Training,205.27916335999998
+1999Q4,New South Wales,Health Care and Social Assistance,281.74312983
+1999Q4,New South Wales,Manufacturing,326.43548732
+1999Q4,New South Wales,"Professional, Scientific and Technical Services",204.06853625
+1999Q4,Queensland,Accommodation and Food Services,95.26297723
+1999Q4,Queensland,Construction,141.42002361000002
+1999Q4,Queensland,Education and Training,113.2520016
+1999Q4,Queensland,Health Care and Social Assistance,154.95518022
+1999Q4,Queensland,Manufacturing,162.12634477
+1999Q4,Queensland,"Professional, Scientific and Technical Services",95.02769995999999
+1999Q4,Victoria,Accommodation and Food Services,102.62531437000001
+1999Q4,Victoria,Construction,152.28434674
+1999Q4,Victoria,Education and Training,151.76840563
+1999Q4,Victoria,Health Care and Social Assistance,185.12085297
+1999Q4,Victoria,Manufacturing,327.78029231
+1999Q4,Victoria,"Professional, Scientific and Technical Services",158.54009769
+2000Q1,New South Wales,Accommodation and Food Services,150.1961258
+2000Q1,New South Wales,Construction,239.35789666
+2000Q1,New South Wales,Education and Training,188.04974162
+2000Q1,New South Wales,Health Care and Social Assistance,277.2422856
+2000Q1,New South Wales,Manufacturing,324.15636995
+2000Q1,New South Wales,"Professional, Scientific and Technical Services",207.81514483
+2000Q1,Queensland,Accommodation and Food Services,102.33462496000001
+2000Q1,Queensland,Construction,140.20458894
+2000Q1,Queensland,Education and Training,102.26012982
+2000Q1,Queensland,Health Care and Social Assistance,153.81488408
+2000Q1,Queensland,Manufacturing,163.4354294
+2000Q1,Queensland,"Professional, Scientific and Technical Services",91.71202886
+2000Q1,Victoria,Accommodation and Food Services,98.41674991
+2000Q1,Victoria,Construction,152.44034569000002
+2000Q1,Victoria,Education and Training,145.83379245
+2000Q1,Victoria,Health Care and Social Assistance,197.37720033
+2000Q1,Victoria,Manufacturing,337.81864132
+2000Q1,Victoria,"Professional, Scientific and Technical Services",153.75044927
+2000Q2,New South Wales,Accommodation and Food Services,158.99325465
+2000Q2,New South Wales,Construction,239.49550777000002
+2000Q2,New South Wales,Education and Training,209.74809254
+2000Q2,New South Wales,Health Care and Social Assistance,287.42946822
+2000Q2,New South Wales,Manufacturing,353.60941445
+2000Q2,New South Wales,"Professional, Scientific and Technical Services",208.81943311
+2000Q2,Queensland,Accommodation and Food Services,99.19231043
+2000Q2,Queensland,Construction,140.98166583
+2000Q2,Queensland,Education and Training,114.03557662000001
+2000Q2,Queensland,Health Care and Social Assistance,161.99322491
+2000Q2,Queensland,Manufacturing,178.13772546
+2000Q2,Queensland,"Professional, Scientific and Technical Services",95.65618167
+2000Q2,Victoria,Accommodation and Food Services,113.59269022000001
+2000Q2,Victoria,Construction,152.86088099
+2000Q2,Victoria,Education and Training,150.22202298
+2000Q2,Victoria,Health Care and Social Assistance,201.92108742
+2000Q2,Victoria,Manufacturing,344.73003601
+2000Q2,Victoria,"Professional, Scientific and Technical Services",153.71874471
+2000Q3,New South Wales,Accommodation and Food Services,146.80148361
+2000Q3,New South Wales,Construction,248.69005835000002
+2000Q3,New South Wales,Education and Training,209.32071359000003
+2000Q3,New South Wales,Health Care and Social Assistance,272.18340651
+2000Q3,New South Wales,Manufacturing,340.12659009
+2000Q3,New South Wales,"Professional, Scientific and Technical Services",219.28589802
+2000Q3,Queensland,Accommodation and Food Services,107.999292
+2000Q3,Queensland,Construction,140.40984878
+2000Q3,Queensland,Education and Training,121.96965110999999
+2000Q3,Queensland,Health Care and Social Assistance,167.01306498
+2000Q3,Queensland,Manufacturing,175.7192115
+2000Q3,Queensland,"Professional, Scientific and Technical Services",92.03091773999999
+2000Q3,Victoria,Accommodation and Food Services,109.22014646
+2000Q3,Victoria,Construction,155.05398248
+2000Q3,Victoria,Education and Training,161.3451051
+2000Q3,Victoria,Health Care and Social Assistance,212.13739944
+2000Q3,Victoria,Manufacturing,347.41820153
+2000Q3,Victoria,"Professional, Scientific and Technical Services",155.07775800000002
+2000Q4,New South Wales,Accommodation and Food Services,162.96510453000002
+2000Q4,New South Wales,Construction,234.11617345
+2000Q4,New South Wales,Education and Training,216.41297735
+2000Q4,New South Wales,Health Care and Social Assistance,268.10385821
+2000Q4,New South Wales,Manufacturing,322.34486672
+2000Q4,New South Wales,"Professional, Scientific and Technical Services",222.89339714
+2000Q4,Queensland,Accommodation and Food Services,106.75059911
+2000Q4,Queensland,Construction,127.58590671
+2000Q4,Queensland,Education and Training,117.56490011999999
+2000Q4,Queensland,Health Care and Social Assistance,166.7774507
+2000Q4,Queensland,Manufacturing,169.81164744
+2000Q4,Queensland,"Professional, Scientific and Technical Services",96.8387553
+2000Q4,Victoria,Accommodation and Food Services,121.49949873
+2000Q4,Victoria,Construction,161.4176157
+2000Q4,Victoria,Education and Training,149.69137012
+2000Q4,Victoria,Health Care and Social Assistance,202.85266406
+2000Q4,Victoria,Manufacturing,351.34946253
+2000Q4,Victoria,"Professional, Scientific and Technical Services",158.63171711
+2001Q1,New South Wales,Accommodation and Food Services,162.67695362
+2001Q1,New South Wales,Construction,211.03278685
+2001Q1,New South Wales,Education and Training,193.09211726
+2001Q1,New South Wales,Health Care and Social Assistance,285.77121268
+2001Q1,New South Wales,Manufacturing,343.17966406
+2001Q1,New South Wales,"Professional, Scientific and Technical Services",240.00377886
+2001Q1,Queensland,Accommodation and Food Services,98.85935459000001
+2001Q1,Queensland,Construction,131.44236764
+2001Q1,Queensland,Education and Training,117.15017732999999
+2001Q1,Queensland,Health Care and Social Assistance,162.25511646
+2001Q1,Queensland,Manufacturing,173.43336615
+2001Q1,Queensland,"Professional, Scientific and Technical Services",97.7844421
+2001Q1,Victoria,Accommodation and Food Services,115.88102449000002
+2001Q1,Victoria,Construction,154.49955957
+2001Q1,Victoria,Education and Training,146.14844265
+2001Q1,Victoria,Health Care and Social Assistance,222.77319888
+2001Q1,Victoria,Manufacturing,341.81896762
+2001Q1,Victoria,"Professional, Scientific and Technical Services",167.73502967
+2001Q2,New South Wales,Accommodation and Food Services,156.50522323
+2001Q2,New South Wales,Construction,224.70420079000002
+2001Q2,New South Wales,Education and Training,203.79851919
+2001Q2,New South Wales,Health Care and Social Assistance,306.47028705
+2001Q2,New South Wales,Manufacturing,334.72035278
+2001Q2,New South Wales,"Professional, Scientific and Technical Services",233.67851869999998
+2001Q2,Queensland,Accommodation and Food Services,102.14752651
+2001Q2,Queensland,Construction,133.62592512
+2001Q2,Queensland,Education and Training,129.89239153
+2001Q2,Queensland,Health Care and Social Assistance,158.76331144
+2001Q2,Queensland,Manufacturing,164.92483418
+2001Q2,Queensland,"Professional, Scientific and Technical Services",93.78568007
+2001Q2,Victoria,Accommodation and Food Services,106.51755753999998
+2001Q2,Victoria,Construction,149.26143903
+2001Q2,Victoria,Education and Training,156.34767478
+2001Q2,Victoria,Health Care and Social Assistance,221.00411434
+2001Q2,Victoria,Manufacturing,342.2223278
+2001Q2,Victoria,"Professional, Scientific and Technical Services",162.36844389
+2001Q3,New South Wales,Accommodation and Food Services,159.24474222
+2001Q3,New South Wales,Construction,221.16992375
+2001Q3,New South Wales,Education and Training,215.45271721
+2001Q3,New South Wales,Health Care and Social Assistance,294.67971141
+2001Q3,New South Wales,Manufacturing,314.78423388
+2001Q3,New South Wales,"Professional, Scientific and Technical Services",221.0042936
+2001Q3,Queensland,Accommodation and Food Services,108.73076934000001
+2001Q3,Queensland,Construction,138.29616035
+2001Q3,Queensland,Education and Training,129.0273043
+2001Q3,Queensland,Health Care and Social Assistance,155.07242682
+2001Q3,Queensland,Manufacturing,167.3698582
+2001Q3,Queensland,"Professional, Scientific and Technical Services",88.96975180999999
+2001Q3,Victoria,Accommodation and Food Services,102.97873877
+2001Q3,Victoria,Construction,152.1147574
+2001Q3,Victoria,Education and Training,168.04051241
+2001Q3,Victoria,Health Care and Social Assistance,217.30936635999998
+2001Q3,Victoria,Manufacturing,337.46312392
+2001Q3,Victoria,"Professional, Scientific and Technical Services",156.33024562
+2001Q4,New South Wales,Accommodation and Food Services,152.19263361
+2001Q4,New South Wales,Construction,237.11964392
+2001Q4,New South Wales,Education and Training,218.88978953
+2001Q4,New South Wales,Health Care and Social Assistance,304.24600771
+2001Q4,New South Wales,Manufacturing,319.16284315
+2001Q4,New South Wales,"Professional, Scientific and Technical Services",214.52829456
+2001Q4,Queensland,Accommodation and Food Services,118.56995554
+2001Q4,Queensland,Construction,133.84366768
+2001Q4,Queensland,Education and Training,127.27501457
+2001Q4,Queensland,Health Care and Social Assistance,160.45517519
+2001Q4,Queensland,Manufacturing,172.54344729
+2001Q4,Queensland,"Professional, Scientific and Technical Services",91.03330116000001
+2001Q4,Victoria,Accommodation and Food Services,103.57768894
+2001Q4,Victoria,Construction,174.88555644000002
+2001Q4,Victoria,Education and Training,166.84987043
+2001Q4,Victoria,Health Care and Social Assistance,223.03777565000001
+2001Q4,Victoria,Manufacturing,335.19062774
+2001Q4,Victoria,"Professional, Scientific and Technical Services",146.11905353
+2002Q1,New South Wales,Accommodation and Food Services,178.55148476
+2002Q1,New South Wales,Construction,236.17129059
+2002Q1,New South Wales,Education and Training,203.91692599
+2002Q1,New South Wales,Health Care and Social Assistance,307.14576028
+2002Q1,New South Wales,Manufacturing,319.4777032
+2002Q1,New South Wales,"Professional, Scientific and Technical Services",226.24863508
+2002Q1,Queensland,Accommodation and Food Services,112.34080552
+2002Q1,Queensland,Construction,129.85004964
+2002Q1,Queensland,Education and Training,114.35294308
+2002Q1,Queensland,Health Care and Social Assistance,165.37902043
+2002Q1,Queensland,Manufacturing,182.31514684
+2002Q1,Queensland,"Professional, Scientific and Technical Services",90.68051647
+2002Q1,Victoria,Accommodation and Food Services,105.25625798
+2002Q1,Victoria,Construction,179.35771394
+2002Q1,Victoria,Education and Training,162.75888367
+2002Q1,Victoria,Health Care and Social Assistance,220.21413246
+2002Q1,Victoria,Manufacturing,323.97747213
+2002Q1,Victoria,"Professional, Scientific and Technical Services",162.15171206
+2002Q2,New South Wales,Accommodation and Food Services,175.47379396
+2002Q2,New South Wales,Construction,231.40894188
+2002Q2,New South Wales,Education and Training,213.98181358
+2002Q2,New South Wales,Health Care and Social Assistance,307.21551426999997
+2002Q2,New South Wales,Manufacturing,335.34630626
+2002Q2,New South Wales,"Professional, Scientific and Technical Services",227.6853055
+2002Q2,Queensland,Accommodation and Food Services,112.0850198
+2002Q2,Queensland,Construction,133.29343953
+2002Q2,Queensland,Education and Training,128.73391247
+2002Q2,Queensland,Health Care and Social Assistance,172.64914722
+2002Q2,Queensland,Manufacturing,171.90095273
+2002Q2,Queensland,"Professional, Scientific and Technical Services",93.34811821
+2002Q2,Victoria,Accommodation and Food Services,107.85904279
+2002Q2,Victoria,Construction,186.79085852
+2002Q2,Victoria,Education and Training,165.42406918999998
+2002Q2,Victoria,Health Care and Social Assistance,213.97588151
+2002Q2,Victoria,Manufacturing,322.96167677
+2002Q2,Victoria,"Professional, Scientific and Technical Services",159.73131284
+2002Q3,New South Wales,Accommodation and Food Services,159.61967305
+2002Q3,New South Wales,Construction,209.11325023
+2002Q3,New South Wales,Education and Training,224.74688613
+2002Q3,New South Wales,Health Care and Social Assistance,303.17002892
+2002Q3,New South Wales,Manufacturing,343.43863913
+2002Q3,New South Wales,"Professional, Scientific and Technical Services",238.78391878
+2002Q3,Queensland,Accommodation and Food Services,105.24597960000001
+2002Q3,Queensland,Construction,140.30136204000001
+2002Q3,Queensland,Education and Training,137.82101309
+2002Q3,Queensland,Health Care and Social Assistance,180.17011202999998
+2002Q3,Queensland,Manufacturing,170.74343893
+2002Q3,Queensland,"Professional, Scientific and Technical Services",94.60563130999999
+2002Q3,Victoria,Accommodation and Food Services,101.96329363999999
+2002Q3,Victoria,Construction,176.75013803000002
+2002Q3,Victoria,Education and Training,169.96569323999998
+2002Q3,Victoria,Health Care and Social Assistance,230.90879708
+2002Q3,Victoria,Manufacturing,330.98443028
+2002Q3,Victoria,"Professional, Scientific and Technical Services",153.32779861
+2002Q4,New South Wales,Accommodation and Food Services,174.67186370000002
+2002Q4,New South Wales,Construction,244.13114997
+2002Q4,New South Wales,Education and Training,218.72653461000002
+2002Q4,New South Wales,Health Care and Social Assistance,312.76258687
+2002Q4,New South Wales,Manufacturing,352.04673006
+2002Q4,New South Wales,"Professional, Scientific and Technical Services",225.05829574
+2002Q4,Queensland,Accommodation and Food Services,104.63470799000001
+2002Q4,Queensland,Construction,146.68919207
+2002Q4,Queensland,Education and Training,122.76605663
+2002Q4,Queensland,Health Care and Social Assistance,171.65390043
+2002Q4,Queensland,Manufacturing,178.60455643
+2002Q4,Queensland,"Professional, Scientific and Technical Services",90.69138954
+2002Q4,Victoria,Accommodation and Food Services,124.39131175
+2002Q4,Victoria,Construction,170.98194949999998
+2002Q4,Victoria,Education and Training,177.05290632
+2002Q4,Victoria,Health Care and Social Assistance,238.2170074
+2002Q4,Victoria,Manufacturing,333.19396552
+2002Q4,Victoria,"Professional, Scientific and Technical Services",152.70016715
+2003Q1,New South Wales,Accommodation and Food Services,164.58164739
+2003Q1,New South Wales,Construction,254.78474231
+2003Q1,New South Wales,Education and Training,210.27930011
+2003Q1,New South Wales,Health Care and Social Assistance,308.09281388
+2003Q1,New South Wales,Manufacturing,353.01658679
+2003Q1,New South Wales,"Professional, Scientific and Technical Services",215.13927907000001
+2003Q1,Queensland,Accommodation and Food Services,112.20460007999999
+2003Q1,Queensland,Construction,156.7971329
+2003Q1,Queensland,Education and Training,127.45731696
+2003Q1,Queensland,Health Care and Social Assistance,174.20339359
+2003Q1,Queensland,Manufacturing,168.41231051
+2003Q1,Queensland,"Professional, Scientific and Technical Services",98.29297849
+2003Q1,Victoria,Accommodation and Food Services,118.51840483000001
+2003Q1,Victoria,Construction,180.10645077
+2003Q1,Victoria,Education and Training,171.54717361000002
+2003Q1,Victoria,Health Care and Social Assistance,225.13003673
+2003Q1,Victoria,Manufacturing,334.38568019
+2003Q1,Victoria,"Professional, Scientific and Technical Services",168.54414921
+2003Q2,New South Wales,Accommodation and Food Services,165.64616521
+2003Q2,New South Wales,Construction,240.3734811
+2003Q2,New South Wales,Education and Training,217.52391871
+2003Q2,New South Wales,Health Care and Social Assistance,315.56798772
+2003Q2,New South Wales,Manufacturing,320.88353417
+2003Q2,New South Wales,"Professional, Scientific and Technical Services",226.47373812
+2003Q2,Queensland,Accommodation and Food Services,108.87036903999999
+2003Q2,Queensland,Construction,138.91303884
+2003Q2,Queensland,Education and Training,131.48038757999998
+2003Q2,Queensland,Health Care and Social Assistance,166.77350058
+2003Q2,Queensland,Manufacturing,171.98021568000001
+2003Q2,Queensland,"Professional, Scientific and Technical Services",105.10506292
+2003Q2,Victoria,Accommodation and Food Services,129.25013759
+2003Q2,Victoria,Construction,176.52083642
+2003Q2,Victoria,Education and Training,170.77808968
+2003Q2,Victoria,Health Care and Social Assistance,226.12835349
+2003Q2,Victoria,Manufacturing,331.67855137
+2003Q2,Victoria,"Professional, Scientific and Technical Services",161.24411168
+2003Q3,New South Wales,Accommodation and Food Services,154.40138510999998
+2003Q3,New South Wales,Construction,249.07620447999997
+2003Q3,New South Wales,Education and Training,237.86122179
+2003Q3,New South Wales,Health Care and Social Assistance,293.075077
+2003Q3,New South Wales,Manufacturing,320.02709891
+2003Q3,New South Wales,"Professional, Scientific and Technical Services",232.43640405000002
+2003Q3,Queensland,Accommodation and Food Services,110.34806164
+2003Q3,Queensland,Construction,158.16418704999998
+2003Q3,Queensland,Education and Training,133.83370203
+2003Q3,Queensland,Health Care and Social Assistance,171.039898
+2003Q3,Queensland,Manufacturing,173.15315639
+2003Q3,Queensland,"Professional, Scientific and Technical Services",101.71935535
+2003Q3,Victoria,Accommodation and Food Services,123.90519714000001
+2003Q3,Victoria,Construction,179.71928721999998
+2003Q3,Victoria,Education and Training,182.74245449
+2003Q3,Victoria,Health Care and Social Assistance,232.6565428
+2003Q3,Victoria,Manufacturing,320.26305165
+2003Q3,Victoria,"Professional, Scientific and Technical Services",167.3457942
+2003Q4,New South Wales,Accommodation and Food Services,178.01047436
+2003Q4,New South Wales,Construction,265.48517533
+2003Q4,New South Wales,Education and Training,224.05487039000002
+2003Q4,New South Wales,Health Care and Social Assistance,310.84214731000003
+2003Q4,New South Wales,Manufacturing,299.92272847
+2003Q4,New South Wales,"Professional, Scientific and Technical Services",244.76964642
+2003Q4,Queensland,Accommodation and Food Services,122.13083894999998
+2003Q4,Queensland,Construction,159.01243164
+2003Q4,Queensland,Education and Training,133.53299611
+2003Q4,Queensland,Health Care and Social Assistance,173.588744
+2003Q4,Queensland,Manufacturing,167.18490213
+2003Q4,Queensland,"Professional, Scientific and Technical Services",104.19897888
+2003Q4,Victoria,Accommodation and Food Services,124.12753526
+2003Q4,Victoria,Construction,179.43796565
+2003Q4,Victoria,Education and Training,186.27416855
+2003Q4,Victoria,Health Care and Social Assistance,232.42989077
+2003Q4,Victoria,Manufacturing,308.21469637
+2003Q4,Victoria,"Professional, Scientific and Technical Services",165.49522898
+2004Q1,New South Wales,Accommodation and Food Services,175.03307802999998
+2004Q1,New South Wales,Construction,254.81929001
+2004Q1,New South Wales,Education and Training,214.27550012999998
+2004Q1,New South Wales,Health Care and Social Assistance,315.78976077
+2004Q1,New South Wales,Manufacturing,309.03557754
+2004Q1,New South Wales,"Professional, Scientific and Technical Services",226.55514328
+2004Q1,Queensland,Accommodation and Food Services,103.80011871
+2004Q1,Queensland,Construction,160.24017046
+2004Q1,Queensland,Education and Training,130.87363194
+2004Q1,Queensland,Health Care and Social Assistance,178.62586586999998
+2004Q1,Queensland,Manufacturing,183.8800184
+2004Q1,Queensland,"Professional, Scientific and Technical Services",98.42210523
+2004Q1,Victoria,Accommodation and Food Services,125.06989467
+2004Q1,Victoria,Construction,184.54223696
+2004Q1,Victoria,Education and Training,177.13571306
+2004Q1,Victoria,Health Care and Social Assistance,246.3805496
+2004Q1,Victoria,Manufacturing,314.06562185
+2004Q1,Victoria,"Professional, Scientific and Technical Services",164.07797152999999
+2004Q2,New South Wales,Accommodation and Food Services,173.38520979
+2004Q2,New South Wales,Construction,273.4093347
+2004Q2,New South Wales,Education and Training,239.46013928
+2004Q2,New South Wales,Health Care and Social Assistance,309.62621289000003
+2004Q2,New South Wales,Manufacturing,310.18692601
+2004Q2,New South Wales,"Professional, Scientific and Technical Services",230.03776953
+2004Q2,Queensland,Accommodation and Food Services,101.19442887
+2004Q2,Queensland,Construction,169.87455249
+2004Q2,Queensland,Education and Training,137.10787962
+2004Q2,Queensland,Health Care and Social Assistance,184.6500394
+2004Q2,Queensland,Manufacturing,186.5357697
+2004Q2,Queensland,"Professional, Scientific and Technical Services",101.51383186
+2004Q2,Victoria,Accommodation and Food Services,129.70629171000002
+2004Q2,Victoria,Construction,186.58505857
+2004Q2,Victoria,Education and Training,188.08574367
+2004Q2,Victoria,Health Care and Social Assistance,243.99834356
+2004Q2,Victoria,Manufacturing,329.83074081
+2004Q2,Victoria,"Professional, Scientific and Technical Services",163.31794108
+2004Q3,New South Wales,Accommodation and Food Services,159.32419457
+2004Q3,New South Wales,Construction,279.48886216
+2004Q3,New South Wales,Education and Training,232.44486297
+2004Q3,New South Wales,Health Care and Social Assistance,317.32166748
+2004Q3,New South Wales,Manufacturing,320.02605029
+2004Q3,New South Wales,"Professional, Scientific and Technical Services",224.50668369
+2004Q3,Queensland,Accommodation and Food Services,111.37545524000001
+2004Q3,Queensland,Construction,167.27818
+2004Q3,Queensland,Education and Training,139.92645242
+2004Q3,Queensland,Health Care and Social Assistance,182.00498805
+2004Q3,Queensland,Manufacturing,190.38944702
+2004Q3,Queensland,"Professional, Scientific and Technical Services",113.91147318
+2004Q3,Victoria,Accommodation and Food Services,131.26724087000002
+2004Q3,Victoria,Construction,180.82243141
+2004Q3,Victoria,Education and Training,181.81354546
+2004Q3,Victoria,Health Care and Social Assistance,244.32465182
+2004Q3,Victoria,Manufacturing,333.8721368
+2004Q3,Victoria,"Professional, Scientific and Technical Services",160.62494825
+2004Q4,New South Wales,Accommodation and Food Services,173.49149011
+2004Q4,New South Wales,Construction,276.21071738
+2004Q4,New South Wales,Education and Training,218.10500130999998
+2004Q4,New South Wales,Health Care and Social Assistance,307.21078982
+2004Q4,New South Wales,Manufacturing,309.60791968
+2004Q4,New South Wales,"Professional, Scientific and Technical Services",228.69120551999998
+2004Q4,Queensland,Accommodation and Food Services,116.06347584
+2004Q4,Queensland,Construction,177.83778734
+2004Q4,Queensland,Education and Training,149.4651662
+2004Q4,Queensland,Health Care and Social Assistance,177.97691919
+2004Q4,Queensland,Manufacturing,194.35374713000002
+2004Q4,Queensland,"Professional, Scientific and Technical Services",113.14566105
+2004Q4,Victoria,Accommodation and Food Services,127.98693798
+2004Q4,Victoria,Construction,190.80303313
+2004Q4,Victoria,Education and Training,171.43515252
+2004Q4,Victoria,Health Care and Social Assistance,254.46744189999998
+2004Q4,Victoria,Manufacturing,321.13233983
+2004Q4,Victoria,"Professional, Scientific and Technical Services",167.71437305
+2005Q1,New South Wales,Accommodation and Food Services,168.08506178
+2005Q1,New South Wales,Construction,273.36650009
+2005Q1,New South Wales,Education and Training,191.38610211
+2005Q1,New South Wales,Health Care and Social Assistance,323.20501206
+2005Q1,New South Wales,Manufacturing,311.55521149
+2005Q1,New South Wales,"Professional, Scientific and Technical Services",236.51932367
+2005Q1,Queensland,Accommodation and Food Services,112.95748006
+2005Q1,Queensland,Construction,195.58375043
+2005Q1,Queensland,Education and Training,142.20589206
+2005Q1,Queensland,Health Care and Social Assistance,184.08436271
+2005Q1,Queensland,Manufacturing,193.5004667
+2005Q1,Queensland,"Professional, Scientific and Technical Services",110.468141
+2005Q1,Victoria,Accommodation and Food Services,134.88232677
+2005Q1,Victoria,Construction,185.84886606999999
+2005Q1,Victoria,Education and Training,156.04592829
+2005Q1,Victoria,Health Care and Social Assistance,260.87738665
+2005Q1,Victoria,Manufacturing,325.55298229
+2005Q1,Victoria,"Professional, Scientific and Technical Services",167.16300614000002
+2005Q2,New South Wales,Accommodation and Food Services,172.66147956
+2005Q2,New South Wales,Construction,266.83379124
+2005Q2,New South Wales,Education and Training,209.4101578
+2005Q2,New South Wales,Health Care and Social Assistance,312.49099962
+2005Q2,New South Wales,Manufacturing,303.39706765
+2005Q2,New South Wales,"Professional, Scientific and Technical Services",249.39173572
+2005Q2,Queensland,Accommodation and Food Services,119.24857717
+2005Q2,Queensland,Construction,193.94396687
+2005Q2,Queensland,Education and Training,146.25590616999997
+2005Q2,Queensland,Health Care and Social Assistance,183.049077
+2005Q2,Queensland,Manufacturing,182.22196917
+2005Q2,Queensland,"Professional, Scientific and Technical Services",117.59783004
+2005Q2,Victoria,Accommodation and Food Services,132.4833336
+2005Q2,Victoria,Construction,195.22727483
+2005Q2,Victoria,Education and Training,174.4384703
+2005Q2,Victoria,Health Care and Social Assistance,264.70079534
+2005Q2,Victoria,Manufacturing,318.61651199
+2005Q2,Victoria,"Professional, Scientific and Technical Services",170.46259835
+2005Q3,New South Wales,Accommodation and Food Services,177.05150701
+2005Q3,New South Wales,Construction,262.51029769
+2005Q3,New South Wales,Education and Training,227.63180862000002
+2005Q3,New South Wales,Health Care and Social Assistance,323.08491573
+2005Q3,New South Wales,Manufacturing,307.49390201
+2005Q3,New South Wales,"Professional, Scientific and Technical Services",248.47239858
+2005Q3,Queensland,Accommodation and Food Services,109.32493477
+2005Q3,Queensland,Construction,199.70638954
+2005Q3,Queensland,Education and Training,156.30522584
+2005Q3,Queensland,Health Care and Social Assistance,190.59354671
+2005Q3,Queensland,Manufacturing,163.90895394
+2005Q3,Queensland,"Professional, Scientific and Technical Services",122.02427811999999
+2005Q3,Victoria,Accommodation and Food Services,122.93314081
+2005Q3,Victoria,Construction,203.56064339
+2005Q3,Victoria,Education and Training,180.92794788
+2005Q3,Victoria,Health Care and Social Assistance,252.75196499
+2005Q3,Victoria,Manufacturing,312.12552243
+2005Q3,Victoria,"Professional, Scientific and Technical Services",185.63067952
+2005Q4,New South Wales,Accommodation and Food Services,184.90356229999998
+2005Q4,New South Wales,Construction,259.39394794
+2005Q4,New South Wales,Education and Training,243.26373782
+2005Q4,New South Wales,Health Care and Social Assistance,310.37972525000004
+2005Q4,New South Wales,Manufacturing,313.6901913
+2005Q4,New South Wales,"Professional, Scientific and Technical Services",255.07158841
+2005Q4,Queensland,Accommodation and Food Services,108.20503496
+2005Q4,Queensland,Construction,196.36994841
+2005Q4,Queensland,Education and Training,155.50893918
+2005Q4,Queensland,Health Care and Social Assistance,197.31338519
+2005Q4,Queensland,Manufacturing,175.34569947
+2005Q4,Queensland,"Professional, Scientific and Technical Services",116.75683833
+2005Q4,Victoria,Accommodation and Food Services,122.7407433
+2005Q4,Victoria,Construction,205.10150116
+2005Q4,Victoria,Education and Training,178.33435283999998
+2005Q4,Victoria,Health Care and Social Assistance,256.89831204
+2005Q4,Victoria,Manufacturing,323.19108654
+2005Q4,Victoria,"Professional, Scientific and Technical Services",193.07687459000002
+2006Q1,New South Wales,Accommodation and Food Services,160.76328495
+2006Q1,New South Wales,Construction,266.9925604
+2006Q1,New South Wales,Education and Training,242.02007662
+2006Q1,New South Wales,Health Care and Social Assistance,333.79319212
+2006Q1,New South Wales,Manufacturing,300.65775365
+2006Q1,New South Wales,"Professional, Scientific and Technical Services",262.79107683
+2006Q1,Queensland,Accommodation and Food Services,108.86546532999999
+2006Q1,Queensland,Construction,201.39970862
+2006Q1,Queensland,Education and Training,150.47654458
+2006Q1,Queensland,Health Care and Social Assistance,190.4760767
+2006Q1,Queensland,Manufacturing,180.4928713
+2006Q1,Queensland,"Professional, Scientific and Technical Services",118.82549386
+2006Q1,Victoria,Accommodation and Food Services,110.40116237
+2006Q1,Victoria,Construction,211.81231693
+2006Q1,Victoria,Education and Training,179.99175312
+2006Q1,Victoria,Health Care and Social Assistance,269.06581717
+2006Q1,Victoria,Manufacturing,329.0465456
+2006Q1,Victoria,"Professional, Scientific and Technical Services",189.02543355
+2006Q2,New South Wales,Accommodation and Food Services,163.69096631
+2006Q2,New South Wales,Construction,271.56950106
+2006Q2,New South Wales,Education and Training,236.30210921999998
+2006Q2,New South Wales,Health Care and Social Assistance,338.16925488
+2006Q2,New South Wales,Manufacturing,286.40594464
+2006Q2,New South Wales,"Professional, Scientific and Technical Services",258.23421368
+2006Q2,Queensland,Accommodation and Food Services,108.90538998
+2006Q2,Queensland,Construction,197.83029266
+2006Q2,Queensland,Education and Training,150.13512311
+2006Q2,Queensland,Health Care and Social Assistance,199.15279759
+2006Q2,Queensland,Manufacturing,188.98475356
+2006Q2,Queensland,"Professional, Scientific and Technical Services",128.14858031
+2006Q2,Victoria,Accommodation and Food Services,112.96948495
+2006Q2,Victoria,Construction,210.48933970000002
+2006Q2,Victoria,Education and Training,180.69219424000002
+2006Q2,Victoria,Health Care and Social Assistance,284.26417833
+2006Q2,Victoria,Manufacturing,314.3474331
+2006Q2,Victoria,"Professional, Scientific and Technical Services",192.04814601
+2006Q3,New South Wales,Accommodation and Food Services,169.95189566
+2006Q3,New South Wales,Construction,270.75875446000003
+2006Q3,New South Wales,Education and Training,218.01659432000002
+2006Q3,New South Wales,Health Care and Social Assistance,318.50046686
+2006Q3,New South Wales,Manufacturing,284.84489779
+2006Q3,New South Wales,"Professional, Scientific and Technical Services",259.70708035
+2006Q3,Queensland,Accommodation and Food Services,117.80885144999999
+2006Q3,Queensland,Construction,210.04253193
+2006Q3,Queensland,Education and Training,141.9195023
+2006Q3,Queensland,Health Care and Social Assistance,207.57473672
+2006Q3,Queensland,Manufacturing,187.97833608
+2006Q3,Queensland,"Professional, Scientific and Technical Services",136.81491084
+2006Q3,Victoria,Accommodation and Food Services,115.77407084000001
+2006Q3,Victoria,Construction,219.71122071
+2006Q3,Victoria,Education and Training,188.42513931
+2006Q3,Victoria,Health Care and Social Assistance,282.28738423
+2006Q3,Victoria,Manufacturing,305.28418542000003
+2006Q3,Victoria,"Professional, Scientific and Technical Services",196.45417498
+2006Q4,New South Wales,Accommodation and Food Services,161.30685936
+2006Q4,New South Wales,Construction,287.96476118
+2006Q4,New South Wales,Education and Training,231.28002683
+2006Q4,New South Wales,Health Care and Social Assistance,339.92861529000004
+2006Q4,New South Wales,Manufacturing,294.11134467
+2006Q4,New South Wales,"Professional, Scientific and Technical Services",270.28082442
+2006Q4,Queensland,Accommodation and Food Services,118.89626235
+2006Q4,Queensland,Construction,223.54673924
+2006Q4,Queensland,Education and Training,142.94905367
+2006Q4,Queensland,Health Care and Social Assistance,205.31433624000002
+2006Q4,Queensland,Manufacturing,185.28758868
+2006Q4,Queensland,"Professional, Scientific and Technical Services",129.17762965
+2006Q4,Victoria,Accommodation and Food Services,125.20256438
+2006Q4,Victoria,Construction,230.79705426
+2006Q4,Victoria,Education and Training,196.47627235000002
+2006Q4,Victoria,Health Care and Social Assistance,271.44209265
+2006Q4,Victoria,Manufacturing,305.19043059
+2006Q4,Victoria,"Professional, Scientific and Technical Services",186.29819708
+2007Q1,New South Wales,Accommodation and Food Services,176.41653265
+2007Q1,New South Wales,Construction,287.21412689
+2007Q1,New South Wales,Education and Training,225.96906947
+2007Q1,New South Wales,Health Care and Social Assistance,343.04124393
+2007Q1,New South Wales,Manufacturing,301.25389726
+2007Q1,New South Wales,"Professional, Scientific and Technical Services",248.74524922
+2007Q1,Queensland,Accommodation and Food Services,112.12604566
+2007Q1,Queensland,Construction,222.50150436
+2007Q1,Queensland,Education and Training,144.26742126
+2007Q1,Queensland,Health Care and Social Assistance,206.63812005
+2007Q1,Queensland,Manufacturing,175.07993895
+2007Q1,Queensland,"Professional, Scientific and Technical Services",126.57945198
+2007Q1,Victoria,Accommodation and Food Services,136.1379129
+2007Q1,Victoria,Construction,229.08062794
+2007Q1,Victoria,Education and Training,181.92945467
+2007Q1,Victoria,Health Care and Social Assistance,270.39657845
+2007Q1,Victoria,Manufacturing,321.02812835
+2007Q1,Victoria,"Professional, Scientific and Technical Services",189.90303173
+2007Q2,New South Wales,Accommodation and Food Services,170.55038566000002
+2007Q2,New South Wales,Construction,286.59629768
+2007Q2,New South Wales,Education and Training,234.59242617
+2007Q2,New South Wales,Health Care and Social Assistance,361.47239774
+2007Q2,New South Wales,Manufacturing,295.07834866
+2007Q2,New South Wales,"Professional, Scientific and Technical Services",252.07853369
+2007Q2,Queensland,Accommodation and Food Services,112.27062569
+2007Q2,Queensland,Construction,224.36413093
+2007Q2,Queensland,Education and Training,153.24523123
+2007Q2,Queensland,Health Care and Social Assistance,219.44580395
+2007Q2,Queensland,Manufacturing,187.59759196
+2007Q2,Queensland,"Professional, Scientific and Technical Services",128.21840424
+2007Q2,Victoria,Accommodation and Food Services,138.21819416
+2007Q2,Victoria,Construction,215.35741508
+2007Q2,Victoria,Education and Training,200.70314559999997
+2007Q2,Victoria,Health Care and Social Assistance,264.71824844
+2007Q2,Victoria,Manufacturing,335.20444676
+2007Q2,Victoria,"Professional, Scientific and Technical Services",195.59637151
+2007Q3,New South Wales,Accommodation and Food Services,168.70597906
+2007Q3,New South Wales,Construction,279.44212308
+2007Q3,New South Wales,Education and Training,226.88380534
+2007Q3,New South Wales,Health Care and Social Assistance,342.74756432
+2007Q3,New South Wales,Manufacturing,307.92647829
+2007Q3,New South Wales,"Professional, Scientific and Technical Services",246.38981399
+2007Q3,Queensland,Accommodation and Food Services,122.67695801
+2007Q3,Queensland,Construction,220.14732471
+2007Q3,Queensland,Education and Training,156.66472261
+2007Q3,Queensland,Health Care and Social Assistance,218.17401764
+2007Q3,Queensland,Manufacturing,182.74620411
+2007Q3,Queensland,"Professional, Scientific and Technical Services",137.75601981
+2007Q3,Victoria,Accommodation and Food Services,137.87824734999998
+2007Q3,Victoria,Construction,211.22053257
+2007Q3,Victoria,Education and Training,199.90901212
+2007Q3,Victoria,Health Care and Social Assistance,264.56971486
+2007Q3,Victoria,Manufacturing,319.79557738
+2007Q3,Victoria,"Professional, Scientific and Technical Services",212.08484684
+2007Q4,New South Wales,Accommodation and Food Services,155.80043077
+2007Q4,New South Wales,Construction,285.03540158
+2007Q4,New South Wales,Education and Training,234.69548438
+2007Q4,New South Wales,Health Care and Social Assistance,364.31088661
+2007Q4,New South Wales,Manufacturing,317.70196562
+2007Q4,New South Wales,"Professional, Scientific and Technical Services",244.29680905
+2007Q4,Queensland,Accommodation and Food Services,125.7964491
+2007Q4,Queensland,Construction,235.86052307
+2007Q4,Queensland,Education and Training,161.71396088999998
+2007Q4,Queensland,Health Care and Social Assistance,213.20543678
+2007Q4,Queensland,Manufacturing,183.98804637
+2007Q4,Queensland,"Professional, Scientific and Technical Services",142.26550187
+2007Q4,Victoria,Accommodation and Food Services,135.32201683
+2007Q4,Victoria,Construction,212.50214318
+2007Q4,Victoria,Education and Training,206.70382225999998
+2007Q4,Victoria,Health Care and Social Assistance,263.75528046
+2007Q4,Victoria,Manufacturing,319.08561661
+2007Q4,Victoria,"Professional, Scientific and Technical Services",212.8880298
+2008Q1,New South Wales,Accommodation and Food Services,181.02365436
+2008Q1,New South Wales,Construction,303.33356422
+2008Q1,New South Wales,Education and Training,234.70553013
+2008Q1,New South Wales,Health Care and Social Assistance,361.52058243
+2008Q1,New South Wales,Manufacturing,324.51126483
+2008Q1,New South Wales,"Professional, Scientific and Technical Services",278.01840779
+2008Q1,Queensland,Accommodation and Food Services,128.66336687
+2008Q1,Queensland,Construction,237.8274243
+2008Q1,Queensland,Education and Training,155.80006266
+2008Q1,Queensland,Health Care and Social Assistance,210.45631599
+2008Q1,Queensland,Manufacturing,184.95539355
+2008Q1,Queensland,"Professional, Scientific and Technical Services",140.6379623
+2008Q1,Victoria,Accommodation and Food Services,124.79704849
+2008Q1,Victoria,Construction,228.05029747
+2008Q1,Victoria,Education and Training,203.02128722
+2008Q1,Victoria,Health Care and Social Assistance,281.49111119
+2008Q1,Victoria,Manufacturing,326.56773395
+2008Q1,Victoria,"Professional, Scientific and Technical Services",214.96566568
+2008Q2,New South Wales,Accommodation and Food Services,195.98471437999999
+2008Q2,New South Wales,Construction,284.6744926
+2008Q2,New South Wales,Education and Training,257.74031976
+2008Q2,New South Wales,Health Care and Social Assistance,357.86687878
+2008Q2,New South Wales,Manufacturing,304.73135491
+2008Q2,New South Wales,"Professional, Scientific and Technical Services",286.48251232
+2008Q2,Queensland,Accommodation and Food Services,124.71020293
+2008Q2,Queensland,Construction,237.13829829
+2008Q2,Queensland,Education and Training,163.73980304
+2008Q2,Queensland,Health Care and Social Assistance,217.89497859
+2008Q2,Queensland,Manufacturing,195.02711345
+2008Q2,Queensland,"Professional, Scientific and Technical Services",128.93274802
+2008Q2,Victoria,Accommodation and Food Services,127.76059317
+2008Q2,Victoria,Construction,228.75114095
+2008Q2,Victoria,Education and Training,202.30790003
+2008Q2,Victoria,Health Care and Social Assistance,282.18500756
+2008Q2,Victoria,Manufacturing,337.15220384
+2008Q2,Victoria,"Professional, Scientific and Technical Services",205.54522377
+2008Q3,New South Wales,Accommodation and Food Services,179.17986113
+2008Q3,New South Wales,Construction,297.57760887
+2008Q3,New South Wales,Education and Training,239.74328441999998
+2008Q3,New South Wales,Health Care and Social Assistance,371.91927978
+2008Q3,New South Wales,Manufacturing,296.30371933
+2008Q3,New South Wales,"Professional, Scientific and Technical Services",278.13398513
+2008Q3,Queensland,Accommodation and Food Services,130.47051621
+2008Q3,Queensland,Construction,247.6166224
+2008Q3,Queensland,Education and Training,175.85885618999998
+2008Q3,Queensland,Health Care and Social Assistance,200.13033382
+2008Q3,Queensland,Manufacturing,198.91318866
+2008Q3,Queensland,"Professional, Scientific and Technical Services",135.22470206999998
+2008Q3,Victoria,Accommodation and Food Services,129.57935518
+2008Q3,Victoria,Construction,213.43423113
+2008Q3,Victoria,Education and Training,211.18582546999997
+2008Q3,Victoria,Health Care and Social Assistance,278.01524317
+2008Q3,Victoria,Manufacturing,316.83885731
+2008Q3,Victoria,"Professional, Scientific and Technical Services",193.65828843
+2008Q4,New South Wales,Accommodation and Food Services,183.36728314
+2008Q4,New South Wales,Construction,294.95563164
+2008Q4,New South Wales,Education and Training,245.02992894
+2008Q4,New South Wales,Health Care and Social Assistance,356.2930155
+2008Q4,New South Wales,Manufacturing,297.64111161
+2008Q4,New South Wales,"Professional, Scientific and Technical Services",279.59915207
+2008Q4,Queensland,Accommodation and Food Services,130.49903342
+2008Q4,Queensland,Construction,246.0468137
+2008Q4,Queensland,Education and Training,161.21850923
+2008Q4,Queensland,Health Care and Social Assistance,211.34646376
+2008Q4,Queensland,Manufacturing,188.41218393
+2008Q4,Queensland,"Professional, Scientific and Technical Services",152.71707747000002
+2008Q4,Victoria,Accommodation and Food Services,130.05898259
+2008Q4,Victoria,Construction,223.93770961
+2008Q4,Victoria,Education and Training,198.10336769
+2008Q4,Victoria,Health Care and Social Assistance,286.49088886
+2008Q4,Victoria,Manufacturing,305.95296281
+2008Q4,Victoria,"Professional, Scientific and Technical Services",215.25617951
+2009Q1,New South Wales,Accommodation and Food Services,175.94711482000002
+2009Q1,New South Wales,Construction,297.25816824000003
+2009Q1,New South Wales,Education and Training,227.4995847
+2009Q1,New South Wales,Health Care and Social Assistance,358.49474911
+2009Q1,New South Wales,Manufacturing,296.24613708
+2009Q1,New South Wales,"Professional, Scientific and Technical Services",267.09519787
+2009Q1,Queensland,Accommodation and Food Services,126.83755056999999
+2009Q1,Queensland,Construction,242.81147399
+2009Q1,Queensland,Education and Training,167.65923708
+2009Q1,Queensland,Health Care and Social Assistance,244.97145324000002
+2009Q1,Queensland,Manufacturing,176.51823018
+2009Q1,Queensland,"Professional, Scientific and Technical Services",147.25083064
+2009Q1,Victoria,Accommodation and Food Services,137.76590249
+2009Q1,Victoria,Construction,226.10283266
+2009Q1,Victoria,Education and Training,193.23932914
+2009Q1,Victoria,Health Care and Social Assistance,296.95828561
+2009Q1,Victoria,Manufacturing,315.2694781
+2009Q1,Victoria,"Professional, Scientific and Technical Services",204.46128059
+2009Q2,New South Wales,Accommodation and Food Services,173.29522745
+2009Q2,New South Wales,Construction,296.37788112
+2009Q2,New South Wales,Education and Training,233.42577196
+2009Q2,New South Wales,Health Care and Social Assistance,371.36524312
+2009Q2,New South Wales,Manufacturing,305.38874738
+2009Q2,New South Wales,"Professional, Scientific and Technical Services",269.22694799
+2009Q2,Queensland,Accommodation and Food Services,131.24408668
+2009Q2,Queensland,Construction,233.25063025
+2009Q2,Queensland,Education and Training,170.20863894000001
+2009Q2,Queensland,Health Care and Social Assistance,253.17281183
+2009Q2,Queensland,Manufacturing,182.41543744
+2009Q2,Queensland,"Professional, Scientific and Technical Services",144.43748025
+2009Q2,Victoria,Accommodation and Food Services,152.04750198
+2009Q2,Victoria,Construction,227.25012367
+2009Q2,Victoria,Education and Training,211.86311686
+2009Q2,Victoria,Health Care and Social Assistance,292.92402463
+2009Q2,Victoria,Manufacturing,297.82508744
+2009Q2,Victoria,"Professional, Scientific and Technical Services",193.3277654
+2009Q3,New South Wales,Accommodation and Food Services,188.9249928
+2009Q3,New South Wales,Construction,285.87870965
+2009Q3,New South Wales,Education and Training,245.96032108
+2009Q3,New South Wales,Health Care and Social Assistance,384.08472577
+2009Q3,New South Wales,Manufacturing,305.16386752
+2009Q3,New South Wales,"Professional, Scientific and Technical Services",274.03859102
+2009Q3,Queensland,Accommodation and Food Services,127.48792153
+2009Q3,Queensland,Construction,224.75496145
+2009Q3,Queensland,Education and Training,157.46900137
+2009Q3,Queensland,Health Care and Social Assistance,253.75680456
+2009Q3,Queensland,Manufacturing,189.85835427
+2009Q3,Queensland,"Professional, Scientific and Technical Services",143.82608244
+2009Q3,Victoria,Accommodation and Food Services,146.63198518000002
+2009Q3,Victoria,Construction,224.44520721
+2009Q3,Victoria,Education and Training,212.3834843
+2009Q3,Victoria,Health Care and Social Assistance,306.83855825
+2009Q3,Victoria,Manufacturing,304.28845626
+2009Q3,Victoria,"Professional, Scientific and Technical Services",207.42547205
+2009Q4,New South Wales,Accommodation and Food Services,178.64715446000002
+2009Q4,New South Wales,Construction,284.13173195
+2009Q4,New South Wales,Education and Training,253.03995283
+2009Q4,New South Wales,Health Care and Social Assistance,380.69972137999997
+2009Q4,New South Wales,Manufacturing,301.61523935
+2009Q4,New South Wales,"Professional, Scientific and Technical Services",275.6450558
+2009Q4,Queensland,Accommodation and Food Services,126.0203658
+2009Q4,Queensland,Construction,235.43952504
+2009Q4,Queensland,Education and Training,160.28388111
+2009Q4,Queensland,Health Care and Social Assistance,234.6390835
+2009Q4,Queensland,Manufacturing,180.82118556
+2009Q4,Queensland,"Professional, Scientific and Technical Services",151.40670099000002
+2009Q4,Victoria,Accommodation and Food Services,142.95477133999998
+2009Q4,Victoria,Construction,220.77557171
+2009Q4,Victoria,Education and Training,213.2878812
+2009Q4,Victoria,Health Care and Social Assistance,309.88402888
+2009Q4,Victoria,Manufacturing,293.29569871
+2009Q4,Victoria,"Professional, Scientific and Technical Services",222.90230628
+2010Q1,New South Wales,Accommodation and Food Services,175.29500973
+2010Q1,New South Wales,Construction,286.62954528
+2010Q1,New South Wales,Education and Training,230.42146680000002
+2010Q1,New South Wales,Health Care and Social Assistance,383.52587205
+2010Q1,New South Wales,Manufacturing,304.10293314
+2010Q1,New South Wales,"Professional, Scientific and Technical Services",300.02505325
+2010Q1,Queensland,Accommodation and Food Services,115.66607999
+2010Q1,Queensland,Construction,230.4248782
+2010Q1,Queensland,Education and Training,155.16486135999997
+2010Q1,Queensland,Health Care and Social Assistance,239.39411166000002
+2010Q1,Queensland,Manufacturing,175.20067809
+2010Q1,Queensland,"Professional, Scientific and Technical Services",152.44030842
+2010Q1,Victoria,Accommodation and Food Services,141.959041
+2010Q1,Victoria,Construction,238.59836162
+2010Q1,Victoria,Education and Training,205.08356578000001
+2010Q1,Victoria,Health Care and Social Assistance,306.9718661
+2010Q1,Victoria,Manufacturing,309.72173828
+2010Q1,Victoria,"Professional, Scientific and Technical Services",220.25494601
+2010Q2,New South Wales,Accommodation and Food Services,178.74945954999998
+2010Q2,New South Wales,Construction,293.77161
+2010Q2,New South Wales,Education and Training,251.06249363
+2010Q2,New South Wales,Health Care and Social Assistance,396.0105177
+2010Q2,New South Wales,Manufacturing,288.82132951
+2010Q2,New South Wales,"Professional, Scientific and Technical Services",292.81418795
+2010Q2,Queensland,Accommodation and Food Services,134.86266258
+2010Q2,Queensland,Construction,223.02111217
+2010Q2,Queensland,Education and Training,162.86655308
+2010Q2,Queensland,Health Care and Social Assistance,256.48428356
+2010Q2,Queensland,Manufacturing,189.38168529
+2010Q2,Queensland,"Professional, Scientific and Technical Services",147.76045106
+2010Q2,Victoria,Accommodation and Food Services,167.07796893999998
+2010Q2,Victoria,Construction,251.87180445
+2010Q2,Victoria,Education and Training,214.33237429
+2010Q2,Victoria,Health Care and Social Assistance,301.50596354
+2010Q2,Victoria,Manufacturing,289.35179669
+2010Q2,Victoria,"Professional, Scientific and Technical Services",216.8804487
+2010Q3,New South Wales,Accommodation and Food Services,175.64501243
+2010Q3,New South Wales,Construction,269.95112251
+2010Q3,New South Wales,Education and Training,269.71028108999997
+2010Q3,New South Wales,Health Care and Social Assistance,415.02781261999996
+2010Q3,New South Wales,Manufacturing,288.64563228
+2010Q3,New South Wales,"Professional, Scientific and Technical Services",308.9734542
+2010Q3,Queensland,Accommodation and Food Services,123.67341077
+2010Q3,Queensland,Construction,220.44085693
+2010Q3,Queensland,Education and Training,166.63015132
+2010Q3,Queensland,Health Care and Social Assistance,244.19073221
+2010Q3,Queensland,Manufacturing,197.18659659
+2010Q3,Queensland,"Professional, Scientific and Technical Services",141.53987075
+2010Q3,Victoria,Accommodation and Food Services,152.46459757
+2010Q3,Victoria,Construction,244.75162061
+2010Q3,Victoria,Education and Training,231.08108252
+2010Q3,Victoria,Health Care and Social Assistance,320.15606048999996
+2010Q3,Victoria,Manufacturing,299.48653537
+2010Q3,Victoria,"Professional, Scientific and Technical Services",218.95932807
+2010Q4,New South Wales,Accommodation and Food Services,181.9414918
+2010Q4,New South Wales,Construction,294.39467984
+2010Q4,New South Wales,Education and Training,263.23619326
+2010Q4,New South Wales,Health Care and Social Assistance,422.17711749
+2010Q4,New South Wales,Manufacturing,294.40181055
+2010Q4,New South Wales,"Professional, Scientific and Technical Services",298.54882375
+2010Q4,Queensland,Accommodation and Food Services,134.57424264
+2010Q4,Queensland,Construction,234.58305889
+2010Q4,Queensland,Education and Training,173.25050481
+2010Q4,Queensland,Health Care and Social Assistance,254.45404274
+2010Q4,Queensland,Manufacturing,189.58475964000002
+2010Q4,Queensland,"Professional, Scientific and Technical Services",142.56455098
+2010Q4,Victoria,Accommodation and Food Services,153.31552271
+2010Q4,Victoria,Construction,246.69315693
+2010Q4,Victoria,Education and Training,218.92945116
+2010Q4,Victoria,Health Care and Social Assistance,324.98416467
+2010Q4,Victoria,Manufacturing,304.72810198999997
+2010Q4,Victoria,"Professional, Scientific and Technical Services",218.09121626
+2011Q1,New South Wales,Accommodation and Food Services,207.19334351
+2011Q1,New South Wales,Construction,265.95833903
+2011Q1,New South Wales,Education and Training,247.68637483
+2011Q1,New South Wales,Health Care and Social Assistance,422.26115712
+2011Q1,New South Wales,Manufacturing,309.27116215
+2011Q1,New South Wales,"Professional, Scientific and Technical Services",302.59814934999997
+2011Q1,Queensland,Accommodation and Food Services,130.27646855
+2011Q1,Queensland,Construction,228.60328891
+2011Q1,Queensland,Education and Training,159.66270181
+2011Q1,Queensland,Health Care and Social Assistance,260.54969972
+2011Q1,Queensland,Manufacturing,168.97156447
+2011Q1,Queensland,"Professional, Scientific and Technical Services",160.04491102
+2011Q1,Victoria,Accommodation and Food Services,153.29730696000001
+2011Q1,Victoria,Construction,252.70246038
+2011Q1,Victoria,Education and Training,199.49968164
+2011Q1,Victoria,Health Care and Social Assistance,328.92268386
+2011Q1,Victoria,Manufacturing,301.83491669
+2011Q1,Victoria,"Professional, Scientific and Technical Services",233.96046081
+2011Q2,New South Wales,Accommodation and Food Services,197.47725414
+2011Q2,New South Wales,Construction,287.09188644
+2011Q2,New South Wales,Education and Training,269.5016494
+2011Q2,New South Wales,Health Care and Social Assistance,396.38076033
+2011Q2,New South Wales,Manufacturing,279.13457772
+2011Q2,New South Wales,"Professional, Scientific and Technical Services",287.8092436
+2011Q2,Queensland,Accommodation and Food Services,137.57392576
+2011Q2,Queensland,Construction,231.25995240999998
+2011Q2,Queensland,Education and Training,169.36591041
+2011Q2,Queensland,Health Care and Social Assistance,276.64754273
+2011Q2,Queensland,Manufacturing,173.72691065
+2011Q2,Queensland,"Professional, Scientific and Technical Services",157.34346564
+2011Q2,Victoria,Accommodation and Food Services,153.48851781000002
+2011Q2,Victoria,Construction,253.40936826
+2011Q2,Victoria,Education and Training,222.7677065
+2011Q2,Victoria,Health Care and Social Assistance,339.98844654
+2011Q2,Victoria,Manufacturing,300.57761044
+2011Q2,Victoria,"Professional, Scientific and Technical Services",222.52213392
+2011Q3,New South Wales,Accommodation and Food Services,182.57137345
+2011Q3,New South Wales,Construction,277.1533248
+2011Q3,New South Wales,Education and Training,253.35699753999998
+2011Q3,New South Wales,Health Care and Social Assistance,425.58550176
+2011Q3,New South Wales,Manufacturing,269.35548571
+2011Q3,New South Wales,"Professional, Scientific and Technical Services",302.96589838
+2011Q3,Queensland,Accommodation and Food Services,125.53746047000001
+2011Q3,Queensland,Construction,223.71280891
+2011Q3,Queensland,Education and Training,172.58000145
+2011Q3,Queensland,Health Care and Social Assistance,262.20561380000004
+2011Q3,Queensland,Manufacturing,185.46940783
+2011Q3,Queensland,"Professional, Scientific and Technical Services",151.85739762999998
+2011Q3,Victoria,Accommodation and Food Services,152.54681209
+2011Q3,Victoria,Construction,255.0134695
+2011Q3,Victoria,Education and Training,214.06778318
+2011Q3,Victoria,Health Care and Social Assistance,338.25653124
+2011Q3,Victoria,Manufacturing,287.5652593
+2011Q3,Victoria,"Professional, Scientific and Technical Services",236.91117558
+2011Q4,New South Wales,Accommodation and Food Services,189.40069791
+2011Q4,New South Wales,Construction,292.8890771
+2011Q4,New South Wales,Education and Training,252.22608997
+2011Q4,New South Wales,Health Care and Social Assistance,436.59015724
+2011Q4,New South Wales,Manufacturing,279.85516299
+2011Q4,New South Wales,"Professional, Scientific and Technical Services",301.14051188
+2011Q4,Queensland,Accommodation and Food Services,124.90139097000001
+2011Q4,Queensland,Construction,228.58385648
+2011Q4,Queensland,Education and Training,175.98356196
+2011Q4,Queensland,Health Care and Social Assistance,282.74983665
+2011Q4,Queensland,Manufacturing,176.21255042
+2011Q4,Queensland,"Professional, Scientific and Technical Services",145.23493274
+2011Q4,Victoria,Accommodation and Food Services,144.05151935
+2011Q4,Victoria,Construction,261.00455483
+2011Q4,Victoria,Education and Training,216.69198092
+2011Q4,Victoria,Health Care and Social Assistance,335.9964649
+2011Q4,Victoria,Manufacturing,290.45176763
+2011Q4,Victoria,"Professional, Scientific and Technical Services",221.07343035
+2012Q1,New South Wales,Accommodation and Food Services,176.92460472
+2012Q1,New South Wales,Construction,296.27076722000004
+2012Q1,New South Wales,Education and Training,230.76972047
+2012Q1,New South Wales,Health Care and Social Assistance,420.9306458
+2012Q1,New South Wales,Manufacturing,282.62365025
+2012Q1,New South Wales,"Professional, Scientific and Technical Services",311.39254431
+2012Q1,Queensland,Accommodation and Food Services,114.84996565
+2012Q1,Queensland,Construction,222.64987031
+2012Q1,Queensland,Education and Training,175.54044103
+2012Q1,Queensland,Health Care and Social Assistance,279.31487415
+2012Q1,Queensland,Manufacturing,173.07901335
+2012Q1,Queensland,"Professional, Scientific and Technical Services",141.44559615
+2012Q1,Victoria,Accommodation and Food Services,147.84098583
+2012Q1,Victoria,Construction,236.69851447
+2012Q1,Victoria,Education and Training,214.84444492
+2012Q1,Victoria,Health Care and Social Assistance,336.42392361000003
+2012Q1,Victoria,Manufacturing,304.81077923
+2012Q1,Victoria,"Professional, Scientific and Technical Services",241.94721112
+2012Q2,New South Wales,Accommodation and Food Services,189.96380981
+2012Q2,New South Wales,Construction,302.09787183
+2012Q2,New South Wales,Education and Training,271.29869209000003
+2012Q2,New South Wales,Health Care and Social Assistance,434.22267418
+2012Q2,New South Wales,Manufacturing,266.18979197
+2012Q2,New South Wales,"Professional, Scientific and Technical Services",330.2103487
+2012Q2,Queensland,Accommodation and Food Services,124.33435736999999
+2012Q2,Queensland,Construction,214.87433147000002
+2012Q2,Queensland,Education and Training,174.26534265
+2012Q2,Queensland,Health Care and Social Assistance,287.9100388
+2012Q2,Queensland,Manufacturing,168.56838927
+2012Q2,Queensland,"Professional, Scientific and Technical Services",159.31767956000002
+2012Q2,Victoria,Accommodation and Food Services,172.94775866
+2012Q2,Victoria,Construction,234.64602229
+2012Q2,Victoria,Education and Training,237.10819277
+2012Q2,Victoria,Health Care and Social Assistance,319.0354079
+2012Q2,Victoria,Manufacturing,307.87716374
+2012Q2,Victoria,"Professional, Scientific and Technical Services",246.39737320999998
+2012Q3,New South Wales,Accommodation and Food Services,197.05367889
+2012Q3,New South Wales,Construction,277.5872282
+2012Q3,New South Wales,Education and Training,260.51600227
+2012Q3,New South Wales,Health Care and Social Assistance,424.46190253
+2012Q3,New South Wales,Manufacturing,291.00226887
+2012Q3,New South Wales,"Professional, Scientific and Technical Services",310.62192301
+2012Q3,Queensland,Accommodation and Food Services,135.70509739
+2012Q3,Queensland,Construction,217.76050159
+2012Q3,Queensland,Education and Training,181.81106175000002
+2012Q3,Queensland,Health Care and Social Assistance,286.70716106
+2012Q3,Queensland,Manufacturing,160.43628556000002
+2012Q3,Queensland,"Professional, Scientific and Technical Services",156.58726507999998
+2012Q3,Victoria,Accommodation and Food Services,156.66835862
+2012Q3,Victoria,Construction,218.04855364
+2012Q3,Victoria,Education and Training,227.92522414
+2012Q3,Victoria,Health Care and Social Assistance,343.85726258
+2012Q3,Victoria,Manufacturing,304.30767482
+2012Q3,Victoria,"Professional, Scientific and Technical Services",245.629707
+2012Q4,New South Wales,Accommodation and Food Services,207.93423337
+2012Q4,New South Wales,Construction,277.10467527
+2012Q4,New South Wales,Education and Training,261.38004811999997
+2012Q4,New South Wales,Health Care and Social Assistance,428.39180087
+2012Q4,New South Wales,Manufacturing,310.30701697
+2012Q4,New South Wales,"Professional, Scientific and Technical Services",304.38833139999997
+2012Q4,Queensland,Accommodation and Food Services,130.17663946
+2012Q4,Queensland,Construction,230.80206091
+2012Q4,Queensland,Education and Training,183.6522926
+2012Q4,Queensland,Health Care and Social Assistance,274.24530895
+2012Q4,Queensland,Manufacturing,170.11071816999998
+2012Q4,Queensland,"Professional, Scientific and Technical Services",157.86857988
+2012Q4,Victoria,Accommodation and Food Services,146.98257272
+2012Q4,Victoria,Construction,250.32100124
+2012Q4,Victoria,Education and Training,231.28626635
+2012Q4,Victoria,Health Care and Social Assistance,344.00255913
+2012Q4,Victoria,Manufacturing,279.75921692
+2012Q4,Victoria,"Professional, Scientific and Technical Services",248.03116857999999
+2013Q1,New South Wales,Accommodation and Food Services,218.81626644
+2013Q1,New South Wales,Construction,275.06126314
+2013Q1,New South Wales,Education and Training,262.66762831
+2013Q1,New South Wales,Health Care and Social Assistance,442.21392486
+2013Q1,New South Wales,Manufacturing,297.10146389
+2013Q1,New South Wales,"Professional, Scientific and Technical Services",299.44674884
+2013Q1,Queensland,Accommodation and Food Services,125.4548282
+2013Q1,Queensland,Construction,244.12089082
+2013Q1,Queensland,Education and Training,169.48080622
+2013Q1,Queensland,Health Care and Social Assistance,286.42123169
+2013Q1,Queensland,Manufacturing,156.20730789
+2013Q1,Queensland,"Professional, Scientific and Technical Services",156.53432402
+2013Q1,Victoria,Accommodation and Food Services,163.60607613000002
+2013Q1,Victoria,Construction,251.48209194999998
+2013Q1,Victoria,Education and Training,222.55117153999998
+2013Q1,Victoria,Health Care and Social Assistance,345.0845435
+2013Q1,Victoria,Manufacturing,289.77484047
+2013Q1,Victoria,"Professional, Scientific and Technical Services",253.78441316
+2013Q2,New South Wales,Accommodation and Food Services,215.88315848
+2013Q2,New South Wales,Construction,276.17674161
+2013Q2,New South Wales,Education and Training,289.37779061
+2013Q2,New South Wales,Health Care and Social Assistance,434.82076721
+2013Q2,New South Wales,Manufacturing,284.48738032
+2013Q2,New South Wales,"Professional, Scientific and Technical Services",303.25038863
+2013Q2,Queensland,Accommodation and Food Services,143.18988947
+2013Q2,Queensland,Construction,222.96260694
+2013Q2,Queensland,Education and Training,172.07770665
+2013Q2,Queensland,Health Care and Social Assistance,272.6872074
+2013Q2,Queensland,Manufacturing,155.73789776
+2013Q2,Queensland,"Professional, Scientific and Technical Services",176.42366753000002
+2013Q2,Victoria,Accommodation and Food Services,158.68905372
+2013Q2,Victoria,Construction,237.5296923
+2013Q2,Victoria,Education and Training,234.70000734999996
+2013Q2,Victoria,Health Care and Social Assistance,357.57496752
+2013Q2,Victoria,Manufacturing,287.0318309
+2013Q2,Victoria,"Professional, Scientific and Technical Services",244.77273014
+2013Q3,New South Wales,Accommodation and Food Services,199.60845849
+2013Q3,New South Wales,Construction,287.72786706
+2013Q3,New South Wales,Education and Training,278.33869176
+2013Q3,New South Wales,Health Care and Social Assistance,457.8152918
+2013Q3,New South Wales,Manufacturing,263.20414137
+2013Q3,New South Wales,"Professional, Scientific and Technical Services",292.9866605
+2013Q3,Queensland,Accommodation and Food Services,125.18024577000001
+2013Q3,Queensland,Construction,233.67075136
+2013Q3,Queensland,Education and Training,166.46774665
+2013Q3,Queensland,Health Care and Social Assistance,265.43131764
+2013Q3,Queensland,Manufacturing,174.06986412999998
+2013Q3,Queensland,"Professional, Scientific and Technical Services",165.44301142
+2013Q3,Victoria,Accommodation and Food Services,164.41009089
+2013Q3,Victoria,Construction,248.8812253
+2013Q3,Victoria,Education and Training,221.72173880000003
+2013Q3,Victoria,Health Care and Social Assistance,353.77070715
+2013Q3,Victoria,Manufacturing,283.29907504
+2013Q3,Victoria,"Professional, Scientific and Technical Services",272.44148455
+2013Q4,New South Wales,Accommodation and Food Services,196.8187542
+2013Q4,New South Wales,Construction,273.86985889
+2013Q4,New South Wales,Education and Training,282.61752966
+2013Q4,New South Wales,Health Care and Social Assistance,449.76370586
+2013Q4,New South Wales,Manufacturing,269.09824679
+2013Q4,New South Wales,"Professional, Scientific and Technical Services",304.13827795
+2013Q4,Queensland,Accommodation and Food Services,122.03383575000001
+2013Q4,Queensland,Construction,230.76470392
+2013Q4,Queensland,Education and Training,170.37614241999998
+2013Q4,Queensland,Health Care and Social Assistance,286.20810217
+2013Q4,Queensland,Manufacturing,194.76240718
+2013Q4,Queensland,"Professional, Scientific and Technical Services",149.75242539
+2013Q4,Victoria,Accommodation and Food Services,156.63425144
+2013Q4,Victoria,Construction,243.96958634
+2013Q4,Victoria,Education and Training,236.63595497
+2013Q4,Victoria,Health Care and Social Assistance,365.80249972
+2013Q4,Victoria,Manufacturing,270.92338218
+2013Q4,Victoria,"Professional, Scientific and Technical Services",250.0181576
+2014Q1,New South Wales,Accommodation and Food Services,190.62287500999997
+2014Q1,New South Wales,Construction,303.87240934
+2014Q1,New South Wales,Education and Training,284.03563863
+2014Q1,New South Wales,Health Care and Social Assistance,469.83993178
+2014Q1,New South Wales,Manufacturing,287.10137806
+2014Q1,New South Wales,"Professional, Scientific and Technical Services",297.49754061
+2014Q1,Queensland,Accommodation and Food Services,116.48690506
+2014Q1,Queensland,Construction,231.4311247
+2014Q1,Queensland,Education and Training,173.52782072
+2014Q1,Queensland,Health Care and Social Assistance,303.14468617
+2014Q1,Queensland,Manufacturing,177.20005136
+2014Q1,Queensland,"Professional, Scientific and Technical Services",164.21811911999998
+2014Q1,Victoria,Accommodation and Food Services,137.47240684000002
+2014Q1,Victoria,Construction,251.80461714
+2014Q1,Victoria,Education and Training,221.42793272
+2014Q1,Victoria,Health Care and Social Assistance,364.32115011999997
+2014Q1,Victoria,Manufacturing,280.61290289
+2014Q1,Victoria,"Professional, Scientific and Technical Services",245.17249213
+2014Q2,New South Wales,Accommodation and Food Services,199.28706007
+2014Q2,New South Wales,Construction,323.25272811
+2014Q2,New South Wales,Education and Training,278.16924232
+2014Q2,New South Wales,Health Care and Social Assistance,424.62733018
+2014Q2,New South Wales,Manufacturing,281.3020359
+2014Q2,New South Wales,"Professional, Scientific and Technical Services",311.96864938
+2014Q2,Queensland,Accommodation and Food Services,137.46242539
+2014Q2,Queensland,Construction,221.16014326
+2014Q2,Queensland,Education and Training,191.94216011
+2014Q2,Queensland,Health Care and Social Assistance,293.27516385999996
+2014Q2,Queensland,Manufacturing,164.0337672
+2014Q2,Queensland,"Professional, Scientific and Technical Services",175.47868929999998
+2014Q2,Victoria,Accommodation and Food Services,158.0310987
+2014Q2,Victoria,Construction,239.66302154
+2014Q2,Victoria,Education and Training,240.1184237
+2014Q2,Victoria,Health Care and Social Assistance,363.7600799
+2014Q2,Victoria,Manufacturing,275.54978989
+2014Q2,Victoria,"Professional, Scientific and Technical Services",250.38375819
+2014Q3,New South Wales,Accommodation and Food Services,202.14588887
+2014Q3,New South Wales,Construction,316.85914391
+2014Q3,New South Wales,Education and Training,305.19748493000003
+2014Q3,New South Wales,Health Care and Social Assistance,439.79870506000003
+2014Q3,New South Wales,Manufacturing,269.49411966
+2014Q3,New South Wales,"Professional, Scientific and Technical Services",296.30866608
+2014Q3,Queensland,Accommodation and Food Services,139.34568815
+2014Q3,Queensland,Construction,224.61513732999998
+2014Q3,Queensland,Education and Training,179.98689568
+2014Q3,Queensland,Health Care and Social Assistance,313.82076638
+2014Q3,Queensland,Manufacturing,169.48583708
+2014Q3,Queensland,"Professional, Scientific and Technical Services",177.14264167
+2014Q3,Victoria,Accommodation and Food Services,162.53640541
+2014Q3,Victoria,Construction,232.12056256
+2014Q3,Victoria,Education and Training,240.83065718
+2014Q3,Victoria,Health Care and Social Assistance,356.31711026000005
+2014Q3,Victoria,Manufacturing,289.2739316
+2014Q3,Victoria,"Professional, Scientific and Technical Services",246.54442659
+2014Q4,New South Wales,Accommodation and Food Services,209.18512583999998
+2014Q4,New South Wales,Construction,339.77418930000005
+2014Q4,New South Wales,Education and Training,283.95997638
+2014Q4,New South Wales,Health Care and Social Assistance,435.73351217
+2014Q4,New South Wales,Manufacturing,287.56283887
+2014Q4,New South Wales,"Professional, Scientific and Technical Services",316.88763059
+2014Q4,Queensland,Accommodation and Food Services,151.32821410999998
+2014Q4,Queensland,Construction,217.73431918
+2014Q4,Queensland,Education and Training,169.3196022
+2014Q4,Queensland,Health Care and Social Assistance,286.01359125
+2014Q4,Queensland,Manufacturing,156.49825874
+2014Q4,Queensland,"Professional, Scientific and Technical Services",185.00114721
+2014Q4,Victoria,Accommodation and Food Services,164.4887614
+2014Q4,Victoria,Construction,236.81143022
+2014Q4,Victoria,Education and Training,237.76425045000002
+2014Q4,Victoria,Health Care and Social Assistance,353.77383219
+2014Q4,Victoria,Manufacturing,288.13258276
+2014Q4,Victoria,"Professional, Scientific and Technical Services",240.07776377
+2015Q1,New South Wales,Accommodation and Food Services,212.04494567
+2015Q1,New South Wales,Construction,306.73195792
+2015Q1,New South Wales,Education and Training,274.96868589
+2015Q1,New South Wales,Health Care and Social Assistance,470.52115447
+2015Q1,New South Wales,Manufacturing,279.92467871
+2015Q1,New South Wales,"Professional, Scientific and Technical Services",328.34063177999997
+2015Q1,Queensland,Accommodation and Food Services,153.86623069
+2015Q1,Queensland,Construction,217.68402806
+2015Q1,Queensland,Education and Training,182.42472971
+2015Q1,Queensland,Health Care and Social Assistance,294.55631976
+2015Q1,Queensland,Manufacturing,168.52999357
+2015Q1,Queensland,"Professional, Scientific and Technical Services",176.2072272
+2015Q1,Victoria,Accommodation and Food Services,175.87413591
+2015Q1,Victoria,Construction,248.80025041
+2015Q1,Victoria,Education and Training,237.36075914
+2015Q1,Victoria,Health Care and Social Assistance,370.61273322
+2015Q1,Victoria,Manufacturing,283.55798432
+2015Q1,Victoria,"Professional, Scientific and Technical Services",277.18950954999997
+2015Q2,New South Wales,Accommodation and Food Services,208.08693756
+2015Q2,New South Wales,Construction,319.06292586
+2015Q2,New South Wales,Education and Training,285.83343133
+2015Q2,New South Wales,Health Care and Social Assistance,495.94934193
+2015Q2,New South Wales,Manufacturing,266.29193098
+2015Q2,New South Wales,"Professional, Scientific and Technical Services",354.31301048
+2015Q2,Queensland,Accommodation and Food Services,153.19592231000001
+2015Q2,Queensland,Construction,205.94511115
+2015Q2,Queensland,Education and Training,193.44081925999998
+2015Q2,Queensland,Health Care and Social Assistance,296.00519446
+2015Q2,Queensland,Manufacturing,173.42368871
+2015Q2,Queensland,"Professional, Scientific and Technical Services",190.21760731
+2015Q2,Victoria,Accommodation and Food Services,175.2727586
+2015Q2,Victoria,Construction,251.96608781
+2015Q2,Victoria,Education and Training,244.45361964
+2015Q2,Victoria,Health Care and Social Assistance,361.65326757
+2015Q2,Victoria,Manufacturing,290.01088041
+2015Q2,Victoria,"Professional, Scientific and Technical Services",279.54665044
+2015Q3,New South Wales,Accommodation and Food Services,205.26984337
+2015Q3,New South Wales,Construction,304.57104032
+2015Q3,New South Wales,Education and Training,294.29865918999997
+2015Q3,New South Wales,Health Care and Social Assistance,486.65068342
+2015Q3,New South Wales,Manufacturing,265.4035836
+2015Q3,New South Wales,"Professional, Scientific and Technical Services",347.29074843
+2015Q3,Queensland,Accommodation and Food Services,131.6157542
+2015Q3,Queensland,Construction,191.5049609
+2015Q3,Queensland,Education and Training,197.47581019
+2015Q3,Queensland,Health Care and Social Assistance,320.69861918
+2015Q3,Queensland,Manufacturing,164.18690442
+2015Q3,Queensland,"Professional, Scientific and Technical Services",178.57250323
+2015Q3,Victoria,Accommodation and Food Services,166.3071327
+2015Q3,Victoria,Construction,250.601201
+2015Q3,Victoria,Education and Training,257.9730073
+2015Q3,Victoria,Health Care and Social Assistance,380.28995983000004
+2015Q3,Victoria,Manufacturing,262.19975466
+2015Q3,Victoria,"Professional, Scientific and Technical Services",254.36730323
+2015Q4,New South Wales,Accommodation and Food Services,211.2739989
+2015Q4,New South Wales,Construction,312.72940889
+2015Q4,New South Wales,Education and Training,299.44996969
+2015Q4,New South Wales,Health Care and Social Assistance,506.13119453999997
+2015Q4,New South Wales,Manufacturing,245.64581714
+2015Q4,New South Wales,"Professional, Scientific and Technical Services",373.83781383999997
+2015Q4,Queensland,Accommodation and Food Services,139.24639267999999
+2015Q4,Queensland,Construction,203.59812239000001
+2015Q4,Queensland,Education and Training,205.69577104
+2015Q4,Queensland,Health Care and Social Assistance,332.18520501
+2015Q4,Queensland,Manufacturing,172.45631294
+2015Q4,Queensland,"Professional, Scientific and Technical Services",176.64270563000002
+2015Q4,Victoria,Accommodation and Food Services,167.96854937
+2015Q4,Victoria,Construction,270.43074788
+2015Q4,Victoria,Education and Training,231.75310404
+2015Q4,Victoria,Health Care and Social Assistance,384.05214297
+2015Q4,Victoria,Manufacturing,265.0837267
+2015Q4,Victoria,"Professional, Scientific and Technical Services",260.78705415
+2016Q1,New South Wales,Accommodation and Food Services,208.82301711999997
+2016Q1,New South Wales,Construction,299.26575974
+2016Q1,New South Wales,Education and Training,280.9464693
+2016Q1,New South Wales,Health Care and Social Assistance,499.70165305
+2016Q1,New South Wales,Manufacturing,280.52221031
+2016Q1,New South Wales,"Professional, Scientific and Technical Services",371.26682108
+2016Q1,Queensland,Accommodation and Food Services,139.26152045999999
+2016Q1,Queensland,Construction,215.31206787
+2016Q1,Queensland,Education and Training,191.10481491
+2016Q1,Queensland,Health Care and Social Assistance,307.70200391
+2016Q1,Queensland,Manufacturing,175.99090535
+2016Q1,Queensland,"Professional, Scientific and Technical Services",191.97597729
+2016Q1,Victoria,Accommodation and Food Services,173.16872275
+2016Q1,Victoria,Construction,286.30786984
+2016Q1,Victoria,Education and Training,230.29116861
+2016Q1,Victoria,Health Care and Social Assistance,396.81757096
+2016Q1,Victoria,Manufacturing,273.36803326
+2016Q1,Victoria,"Professional, Scientific and Technical Services",263.21557213
+2016Q2,New South Wales,Accommodation and Food Services,221.36241385
+2016Q2,New South Wales,Construction,343.15639142
+2016Q2,New South Wales,Education and Training,313.63097162
+2016Q2,New South Wales,Health Care and Social Assistance,508.99217215
+2016Q2,New South Wales,Manufacturing,263.39093673
+2016Q2,New South Wales,"Professional, Scientific and Technical Services",357.66560119
+2016Q2,Queensland,Accommodation and Food Services,139.11984733
+2016Q2,Queensland,Construction,222.82395735
+2016Q2,Queensland,Education and Training,194.8278912
+2016Q2,Queensland,Health Care and Social Assistance,327.0090981
+2016Q2,Queensland,Manufacturing,163.14411962
+2016Q2,Queensland,"Professional, Scientific and Technical Services",161.19556938
+2016Q2,Victoria,Accommodation and Food Services,187.1870004
+2016Q2,Victoria,Construction,278.68573761
+2016Q2,Victoria,Education and Training,241.35860721
+2016Q2,Victoria,Health Care and Social Assistance,415.08552425
+2016Q2,Victoria,Manufacturing,278.32403423
+2016Q2,Victoria,"Professional, Scientific and Technical Services",273.41731948
+2016Q3,New South Wales,Accommodation and Food Services,202.7941447
+2016Q3,New South Wales,Construction,337.77318893
+2016Q3,New South Wales,Education and Training,306.70674043
+2016Q3,New South Wales,Health Care and Social Assistance,502.11295192
+2016Q3,New South Wales,Manufacturing,248.62470682
+2016Q3,New South Wales,"Professional, Scientific and Technical Services",374.51178403
+2016Q3,Queensland,Accommodation and Food Services,142.60755004
+2016Q3,Queensland,Construction,213.8787203
+2016Q3,Queensland,Education and Training,197.25387208
+2016Q3,Queensland,Health Care and Social Assistance,313.86075979000003
+2016Q3,Queensland,Manufacturing,158.42827812000002
+2016Q3,Queensland,"Professional, Scientific and Technical Services",183.31269757
+2016Q3,Victoria,Accommodation and Food Services,185.86013233
+2016Q3,Victoria,Construction,258.76877239
+2016Q3,Victoria,Education and Training,262.56229523
+2016Q3,Victoria,Health Care and Social Assistance,404.13930815
+2016Q3,Victoria,Manufacturing,276.91512366
+2016Q3,Victoria,"Professional, Scientific and Technical Services",281.10576074
+2016Q4,New South Wales,Accommodation and Food Services,208.88658037
+2016Q4,New South Wales,Construction,337.78657184
+2016Q4,New South Wales,Education and Training,319.499684
+2016Q4,New South Wales,Health Care and Social Assistance,501.30129196999997
+2016Q4,New South Wales,Manufacturing,286.72659992
+2016Q4,New South Wales,"Professional, Scientific and Technical Services",371.90850424999996
+2016Q4,Queensland,Accommodation and Food Services,147.14355767
+2016Q4,Queensland,Construction,226.78045816
+2016Q4,Queensland,Education and Training,193.2495105
+2016Q4,Queensland,Health Care and Social Assistance,320.71757718
+2016Q4,Queensland,Manufacturing,174.04157405
+2016Q4,Queensland,"Professional, Scientific and Technical Services",175.30566013
+2016Q4,Victoria,Accommodation and Food Services,196.27784985000002
+2016Q4,Victoria,Construction,256.27797175
+2016Q4,Victoria,Education and Training,271.46228342
+2016Q4,Victoria,Health Care and Social Assistance,414.90670258
+2016Q4,Victoria,Manufacturing,308.72520708999997
+2016Q4,Victoria,"Professional, Scientific and Technical Services",262.89977038
+2017Q1,New South Wales,Accommodation and Food Services,215.38274004
+2017Q1,New South Wales,Construction,359.80083790000003
+2017Q1,New South Wales,Education and Training,299.07342269
+2017Q1,New South Wales,Health Care and Social Assistance,484.23895241
+2017Q1,New South Wales,Manufacturing,273.99131024
+2017Q1,New South Wales,"Professional, Scientific and Technical Services",377.94594315
+2017Q1,Queensland,Accommodation and Food Services,142.75651217
+2017Q1,Queensland,Construction,227.31230055
+2017Q1,Queensland,Education and Training,180.29858073
+2017Q1,Queensland,Health Care and Social Assistance,295.22027757
+2017Q1,Queensland,Manufacturing,172.21568448
+2017Q1,Queensland,"Professional, Scientific and Technical Services",173.19238363
+2017Q1,Victoria,Accommodation and Food Services,189.93254344
+2017Q1,Victoria,Construction,263.10905275
+2017Q1,Victoria,Education and Training,258.42235297
+2017Q1,Victoria,Health Care and Social Assistance,424.54606703
+2017Q1,Victoria,Manufacturing,282.38666641
+2017Q1,Victoria,"Professional, Scientific and Technical Services",283.39143281
+2017Q2,New South Wales,Accommodation and Food Services,231.69754724
+2017Q2,New South Wales,Construction,335.73819496
+2017Q2,New South Wales,Education and Training,300.02811637
+2017Q2,New South Wales,Health Care and Social Assistance,502.00543754
+2017Q2,New South Wales,Manufacturing,276.70560121
+2017Q2,New South Wales,"Professional, Scientific and Technical Services",396.88622841
+2017Q2,Queensland,Accommodation and Food Services,145.78010814
+2017Q2,Queensland,Construction,252.18629681000002
+2017Q2,Queensland,Education and Training,195.12631071
+2017Q2,Queensland,Health Care and Social Assistance,347.44439871
+2017Q2,Queensland,Manufacturing,157.15078476
+2017Q2,Queensland,"Professional, Scientific and Technical Services",159.43298837
+2017Q2,Victoria,Accommodation and Food Services,181.96624545999998
+2017Q2,Victoria,Construction,279.96384547
+2017Q2,Victoria,Education and Training,281.3053243
+2017Q2,Victoria,Health Care and Social Assistance,433.34887982
+2017Q2,Victoria,Manufacturing,281.01245383
+2017Q2,Victoria,"Professional, Scientific and Technical Services",264.1951123
+2017Q3,New South Wales,Accommodation and Food Services,214.92773675
+2017Q3,New South Wales,Construction,357.40496693
+2017Q3,New South Wales,Education and Training,325.95658418
+2017Q3,New South Wales,Health Care and Social Assistance,525.51528215
+2017Q3,New South Wales,Manufacturing,257.98465343
+2017Q3,New South Wales,"Professional, Scientific and Technical Services",372.98292506
+2017Q3,Queensland,Accommodation and Food Services,153.4520554
+2017Q3,Queensland,Construction,244.26372805
+2017Q3,Queensland,Education and Training,214.26104314
+2017Q3,Queensland,Health Care and Social Assistance,353.15066977
+2017Q3,Queensland,Manufacturing,156.70972111
+2017Q3,Queensland,"Professional, Scientific and Technical Services",167.77645450999998
+2017Q3,Victoria,Accommodation and Food Services,184.9556427
+2017Q3,Victoria,Construction,285.50353523
+2017Q3,Victoria,Education and Training,261.31622497
+2017Q3,Victoria,Health Care and Social Assistance,434.88019727
+2017Q3,Victoria,Manufacturing,279.74641277
+2017Q3,Victoria,"Professional, Scientific and Technical Services",277.5758454
+2017Q4,New South Wales,Accommodation and Food Services,213.99973814
+2017Q4,New South Wales,Construction,377.18373197
+2017Q4,New South Wales,Education and Training,328.19181162999996
+2017Q4,New South Wales,Health Care and Social Assistance,544.93508683
+2017Q4,New South Wales,Manufacturing,266.60953556
+2017Q4,New South Wales,"Professional, Scientific and Technical Services",354.40573109999997
+2017Q4,Queensland,Accommodation and Food Services,154.74475241
+2017Q4,Queensland,Construction,236.50797512
+2017Q4,Queensland,Education and Training,197.69876647
+2017Q4,Queensland,Health Care and Social Assistance,353.1667407
+2017Q4,Queensland,Manufacturing,162.79026167
+2017Q4,Queensland,"Professional, Scientific and Technical Services",163.94514241000002
+2017Q4,Victoria,Accommodation and Food Services,201.11358224999998
+2017Q4,Victoria,Construction,288.73967409
+2017Q4,Victoria,Education and Training,269.45286453
+2017Q4,Victoria,Health Care and Social Assistance,410.93546977
+2017Q4,Victoria,Manufacturing,284.36063935
+2017Q4,Victoria,"Professional, Scientific and Technical Services",306.05982325
+2018Q1,New South Wales,Accommodation and Food Services,217.51443486
+2018Q1,New South Wales,Construction,387.61953604999997
+2018Q1,New South Wales,Education and Training,322.79215912
+2018Q1,New South Wales,Health Care and Social Assistance,536.61542307
+2018Q1,New South Wales,Manufacturing,269.62078552
+2018Q1,New South Wales,"Professional, Scientific and Technical Services",363.44474846
+2018Q1,Queensland,Accommodation and Food Services,146.46251884999998
+2018Q1,Queensland,Construction,239.92147372
+2018Q1,Queensland,Education and Training,197.53903545999998
+2018Q1,Queensland,Health Care and Social Assistance,371.55212171
+2018Q1,Queensland,Manufacturing,184.03572797
+2018Q1,Queensland,"Professional, Scientific and Technical Services",169.48601595
+2018Q1,Victoria,Accommodation and Food Services,199.31892203
+2018Q1,Victoria,Construction,305.7716289
+2018Q1,Victoria,Education and Training,258.38593149
+2018Q1,Victoria,Health Care and Social Assistance,407.55057157
+2018Q1,Victoria,Manufacturing,285.45757111
+2018Q1,Victoria,"Professional, Scientific and Technical Services",299.64328307
+2018Q2,New South Wales,Accommodation and Food Services,225.425762
+2018Q2,New South Wales,Construction,359.76130571
+2018Q2,New South Wales,Education and Training,302.88071042999997
+2018Q2,New South Wales,Health Care and Social Assistance,521.10125879
+2018Q2,New South Wales,Manufacturing,314.46918787
+2018Q2,New South Wales,"Professional, Scientific and Technical Services",387.60399952
+2018Q2,Queensland,Accommodation and Food Services,145.94846073000002
+2018Q2,Queensland,Construction,233.80924249
+2018Q2,Queensland,Education and Training,201.7848649
+2018Q2,Queensland,Health Care and Social Assistance,356.9068228
+2018Q2,Queensland,Manufacturing,175.09607180999998
+2018Q2,Queensland,"Professional, Scientific and Technical Services",181.65558478
+2018Q2,Victoria,Accommodation and Food Services,203.87976437
+2018Q2,Victoria,Construction,328.97897999
+2018Q2,Victoria,Education and Training,263.43526812
+2018Q2,Victoria,Health Care and Social Assistance,416.05855312
+2018Q2,Victoria,Manufacturing,283.09789651
+2018Q2,Victoria,"Professional, Scientific and Technical Services",291.89223182
+2018Q3,New South Wales,Accommodation and Food Services,211.24189258
+2018Q3,New South Wales,Construction,380.06428749
+2018Q3,New South Wales,Education and Training,317.18650846
+2018Q3,New South Wales,Health Care and Social Assistance,522.33586586
+2018Q3,New South Wales,Manufacturing,295.2499481
+2018Q3,New South Wales,"Professional, Scientific and Technical Services",423.125332
+2018Q3,Queensland,Accommodation and Food Services,154.29266031999998
+2018Q3,Queensland,Construction,235.0746847
+2018Q3,Queensland,Education and Training,225.62418261
+2018Q3,Queensland,Health Care and Social Assistance,340.97561738
+2018Q3,Queensland,Manufacturing,188.25977474
+2018Q3,Queensland,"Professional, Scientific and Technical Services",175.63448128
+2018Q3,Victoria,Accommodation and Food Services,180.34035921999998
+2018Q3,Victoria,Construction,314.462791
+2018Q3,Victoria,Education and Training,263.53843133000004
+2018Q3,Victoria,Health Care and Social Assistance,449.07687681
+2018Q3,Victoria,Manufacturing,286.21754505
+2018Q3,Victoria,"Professional, Scientific and Technical Services",280.51050843
+2018Q4,New South Wales,Accommodation and Food Services,223.09706855000002
+2018Q4,New South Wales,Construction,391.69494521
+2018Q4,New South Wales,Education and Training,331.64825823
+2018Q4,New South Wales,Health Care and Social Assistance,536.62932479
+2018Q4,New South Wales,Manufacturing,249.14604741
+2018Q4,New South Wales,"Professional, Scientific and Technical Services",407.86515627
+2018Q4,Queensland,Accommodation and Food Services,160.22550506000002
+2018Q4,Queensland,Construction,225.91670921
+2018Q4,Queensland,Education and Training,219.77693332
+2018Q4,Queensland,Health Care and Social Assistance,345.12598108
+2018Q4,Queensland,Manufacturing,173.65506732
+2018Q4,Queensland,"Professional, Scientific and Technical Services",164.68301396
+2018Q4,Victoria,Accommodation and Food Services,184.32947669000004
+2018Q4,Victoria,Construction,293.72061446
+2018Q4,Victoria,Education and Training,278.00767085
+2018Q4,Victoria,Health Care and Social Assistance,449.55833466
+2018Q4,Victoria,Manufacturing,277.43801171
+2018Q4,Victoria,"Professional, Scientific and Technical Services",301.94739792
+2019Q1,New South Wales,Accommodation and Food Services,237.17917974
+2019Q1,New South Wales,Construction,352.76988425
+2019Q1,New South Wales,Education and Training,291.76922133
+2019Q1,New South Wales,Health Care and Social Assistance,523.50505273
+2019Q1,New South Wales,Manufacturing,249.26312807
+2019Q1,New South Wales,"Professional, Scientific and Technical Services",418.1404667
+2019Q1,Queensland,Accommodation and Food Services,157.89108262
+2019Q1,Queensland,Construction,249.68870551
+2019Q1,Queensland,Education and Training,217.47989568
+2019Q1,Queensland,Health Care and Social Assistance,386.99912644
+2019Q1,Queensland,Manufacturing,149.69526047
+2019Q1,Queensland,"Professional, Scientific and Technical Services",169.76701955
+2019Q1,Victoria,Accommodation and Food Services,171.8461233
+2019Q1,Victoria,Construction,297.35956551
+2019Q1,Victoria,Education and Training,266.88273156
+2019Q1,Victoria,Health Care and Social Assistance,442.62446405000003
+2019Q1,Victoria,Manufacturing,269.74941157
+2019Q1,Victoria,"Professional, Scientific and Technical Services",320.42169424
+2019Q2,New South Wales,Accommodation and Food Services,237.69778028
+2019Q2,New South Wales,Construction,364.79147915
+2019Q2,New South Wales,Education and Training,314.78556551
+2019Q2,New South Wales,Health Care and Social Assistance,541.52797065
+2019Q2,New South Wales,Manufacturing,274.35617832
+2019Q2,New South Wales,"Professional, Scientific and Technical Services",401.39055812
+2019Q2,Queensland,Accommodation and Food Services,162.54837604
+2019Q2,Queensland,Construction,238.624116
+2019Q2,Queensland,Education and Training,215.16154369
+2019Q2,Queensland,Health Care and Social Assistance,364.24564271
+2019Q2,Queensland,Manufacturing,169.04747307
+2019Q2,Queensland,"Professional, Scientific and Technical Services",172.88571063
+2019Q2,Victoria,Accommodation and Food Services,164.24918064
+2019Q2,Victoria,Construction,312.31845716
+2019Q2,Victoria,Education and Training,293.63944714999997
+2019Q2,Victoria,Health Care and Social Assistance,423.26917193
+2019Q2,Victoria,Manufacturing,270.3158995
+2019Q2,Victoria,"Professional, Scientific and Technical Services",332.63909209
+2019Q3,New South Wales,Accommodation and Food Services,232.00159853999997
+2019Q3,New South Wales,Construction,360.53695859000004
+2019Q3,New South Wales,Education and Training,328.12126075
+2019Q3,New South Wales,Health Care and Social Assistance,576.08051669
+2019Q3,New South Wales,Manufacturing,246.29554021
+2019Q3,New South Wales,"Professional, Scientific and Technical Services",403.41948337
+2019Q3,Queensland,Accommodation and Food Services,161.02206823
+2019Q3,Queensland,Construction,248.99663538
+2019Q3,Queensland,Education and Training,214.34996873
+2019Q3,Queensland,Health Care and Social Assistance,369.41679794
+2019Q3,Queensland,Manufacturing,165.19540419
+2019Q3,Queensland,"Professional, Scientific and Technical Services",177.77596173
+2019Q3,Victoria,Accommodation and Food Services,174.23553361999998
+2019Q3,Victoria,Construction,304.93931818
+2019Q3,Victoria,Education and Training,306.51915686
+2019Q3,Victoria,Health Care and Social Assistance,436.02395247
+2019Q3,Victoria,Manufacturing,272.12298799
+2019Q3,Victoria,"Professional, Scientific and Technical Services",348.47057529
+2019Q4,New South Wales,Accommodation and Food Services,243.42413839
+2019Q4,New South Wales,Construction,357.69337637
+2019Q4,New South Wales,Education and Training,330.22742389
+2019Q4,New South Wales,Health Care and Social Assistance,574.20553566
+2019Q4,New South Wales,Manufacturing,265.87520252
+2019Q4,New South Wales,"Professional, Scientific and Technical Services",409.97325673
+2019Q4,Queensland,Accommodation and Food Services,182.72749653
+2019Q4,Queensland,Construction,248.95086779
+2019Q4,Queensland,Education and Training,208.27046957000002
+2019Q4,Queensland,Health Care and Social Assistance,367.64994124
+2019Q4,Queensland,Manufacturing,166.91847925
+2019Q4,Queensland,"Professional, Scientific and Technical Services",193.14822825
+2019Q4,Victoria,Accommodation and Food Services,178.30114658
+2019Q4,Victoria,Construction,333.05194126
+2019Q4,Victoria,Education and Training,295.24233128000003
+2019Q4,Victoria,Health Care and Social Assistance,470.25512749
+2019Q4,Victoria,Manufacturing,298.17882313
+2019Q4,Victoria,"Professional, Scientific and Technical Services",308.50415166
+2020Q1,New South Wales,Accommodation and Food Services,235.60470847
+2020Q1,New South Wales,Construction,371.75514807999997
+2020Q1,New South Wales,Education and Training,319.37946748
+2020Q1,New South Wales,Health Care and Social Assistance,585.9776945899999
+2020Q1,New South Wales,Manufacturing,279.87290466
+2020Q1,New South Wales,"Professional, Scientific and Technical Services",416.17120745
+2020Q1,Queensland,Accommodation and Food Services,176.76378866
+2020Q1,Queensland,Construction,252.42612203000002
+2020Q1,Queensland,Education and Training,228.88266253
+2020Q1,Queensland,Health Care and Social Assistance,361.82246748
+2020Q1,Queensland,Manufacturing,160.21828898
+2020Q1,Queensland,"Professional, Scientific and Technical Services",204.70521736999999
+2020Q1,Victoria,Accommodation and Food Services,192.44959149
+2020Q1,Victoria,Construction,308.26545867
+2020Q1,Victoria,Education and Training,294.42141046
+2020Q1,Victoria,Health Care and Social Assistance,485.59525043
+2020Q1,Victoria,Manufacturing,291.69548234
+2020Q1,Victoria,"Professional, Scientific and Technical Services",313.58163275
+2020Q2,New South Wales,Accommodation and Food Services,172.42409359
+2020Q2,New South Wales,Construction,394.94399542
+2020Q2,New South Wales,Education and Training,315.14170178
+2020Q2,New South Wales,Health Care and Social Assistance,532.93963171
+2020Q2,New South Wales,Manufacturing,229.49575878
+2020Q2,New South Wales,"Professional, Scientific and Technical Services",380.4148507
+2020Q2,Queensland,Accommodation and Food Services,132.17444994
+2020Q2,Queensland,Construction,230.78684934
+2020Q2,Queensland,Education and Training,218.39923645000002
+2020Q2,Queensland,Health Care and Social Assistance,349.62870605999996
+2020Q2,Queensland,Manufacturing,166.33271314
+2020Q2,Queensland,"Professional, Scientific and Technical Services",190.64191079
+2020Q2,Victoria,Accommodation and Food Services,132.36809817
+2020Q2,Victoria,Construction,298.48965900999997
+2020Q2,Victoria,Education and Training,262.65325966
+2020Q2,Victoria,Health Care and Social Assistance,482.4394022
+2020Q2,Victoria,Manufacturing,290.38514921
+2020Q2,Victoria,"Professional, Scientific and Technical Services",309.33585809000004
+2020Q3,New South Wales,Accommodation and Food Services,210.3126582
+2020Q3,New South Wales,Construction,388.84497872000003
+2020Q3,New South Wales,Education and Training,337.04969285
+2020Q3,New South Wales,Health Care and Social Assistance,541.79217102
+2020Q3,New South Wales,Manufacturing,246.78055518
+2020Q3,New South Wales,"Professional, Scientific and Technical Services",395.19426381
+2020Q3,Queensland,Accommodation and Food Services,140.08060698
+2020Q3,Queensland,Construction,223.88601912
+2020Q3,Queensland,Education and Training,230.81214733000002
+2020Q3,Queensland,Health Care and Social Assistance,386.6884851
+2020Q3,Queensland,Manufacturing,162.48969267
+2020Q3,Queensland,"Professional, Scientific and Technical Services",176.18130675
+2020Q3,Victoria,Accommodation and Food Services,135.84408438
+2020Q3,Victoria,Construction,292.90115065000003
+2020Q3,Victoria,Education and Training,296.46404598
+2020Q3,Victoria,Health Care and Social Assistance,473.52501612
+2020Q3,Victoria,Manufacturing,262.74560897
+2020Q3,Victoria,"Professional, Scientific and Technical Services",307.02152207
+2020Q4,New South Wales,Accommodation and Food Services,207.51498791
+2020Q4,New South Wales,Construction,392.84559454
+2020Q4,New South Wales,Education and Training,352.88929521
+2020Q4,New South Wales,Health Care and Social Assistance,522.74147323
+2020Q4,New South Wales,Manufacturing,237.2530452
+2020Q4,New South Wales,"Professional, Scientific and Technical Services",421.10005315
+2020Q4,Queensland,Accommodation and Food Services,150.24209603
+2020Q4,Queensland,Construction,237.68532445
+2020Q4,Queensland,Education and Training,201.97287655
+2020Q4,Queensland,Health Care and Social Assistance,372.06122418
+2020Q4,Queensland,Manufacturing,176.34967732
+2020Q4,Queensland,"Professional, Scientific and Technical Services",180.83036768
+2020Q4,Victoria,Accommodation and Food Services,147.86952995000001
+2020Q4,Victoria,Construction,295.39908653000003
+2020Q4,Victoria,Education and Training,304.93727718
+2020Q4,Victoria,Health Care and Social Assistance,476.13865525
+2020Q4,Victoria,Manufacturing,260.35231674
+2020Q4,Victoria,"Professional, Scientific and Technical Services",320.99488761
+2021Q1,New South Wales,Accommodation and Food Services,215.47754418
+2021Q1,New South Wales,Construction,362.92009651
+2021Q1,New South Wales,Education and Training,334.37886679
+2021Q1,New South Wales,Health Care and Social Assistance,537.05458838
+2021Q1,New South Wales,Manufacturing,269.352312
+2021Q1,New South Wales,"Professional, Scientific and Technical Services",438.40015391
+2021Q1,Queensland,Accommodation and Food Services,144.14395602
+2021Q1,Queensland,Construction,231.91596404999999
+2021Q1,Queensland,Education and Training,198.80617985
+2021Q1,Queensland,Health Care and Social Assistance,376.57027148
+2021Q1,Queensland,Manufacturing,177.69424982
+2021Q1,Queensland,"Professional, Scientific and Technical Services",203.22096508
+2021Q1,Victoria,Accommodation and Food Services,162.53965298999998
+2021Q1,Victoria,Construction,315.52556816
+2021Q1,Victoria,Education and Training,280.6422335
+2021Q1,Victoria,Health Care and Social Assistance,472.85273202999997
+2021Q1,Victoria,Manufacturing,265.62322131999997
+2021Q1,Victoria,"Professional, Scientific and Technical Services",326.10969011
+2021Q2,New South Wales,Accommodation and Food Services,211.28035773
+2021Q2,New South Wales,Construction,346.90125018
+2021Q2,New South Wales,Education and Training,377.89846828000003
+2021Q2,New South Wales,Health Care and Social Assistance,572.0271391699999
+2021Q2,New South Wales,Manufacturing,267.45798011
+2021Q2,New South Wales,"Professional, Scientific and Technical Services",437.75248393000004
+2021Q2,Queensland,Accommodation and Food Services,173.06040385
+2021Q2,Queensland,Construction,231.98834908
+2021Q2,Queensland,Education and Training,214.28837277999997
+2021Q2,Queensland,Health Care and Social Assistance,382.46680123
+2021Q2,Queensland,Manufacturing,194.23448144
+2021Q2,Queensland,"Professional, Scientific and Technical Services",199.45400176
+2021Q2,Victoria,Accommodation and Food Services,187.11882631999998
+2021Q2,Victoria,Construction,315.02983464
+2021Q2,Victoria,Education and Training,292.41984019
+2021Q2,Victoria,Health Care and Social Assistance,472.16315678
+2021Q2,Victoria,Manufacturing,269.64255656
+2021Q2,Victoria,"Professional, Scientific and Technical Services",336.02785059
+2021Q3,New South Wales,Accommodation and Food Services,160.05802123
+2021Q3,New South Wales,Construction,303.53992708
+2021Q3,New South Wales,Education and Training,353.34974057
+2021Q3,New South Wales,Health Care and Social Assistance,572.40050256
+2021Q3,New South Wales,Manufacturing,273.73212558
+2021Q3,New South Wales,"Professional, Scientific and Technical Services",415.81839639
+2021Q3,Queensland,Accommodation and Food Services,168.72272615000003
+2021Q3,Queensland,Construction,239.62723249
+2021Q3,Queensland,Education and Training,218.05442447
+2021Q3,Queensland,Health Care and Social Assistance,391.27052299999997
+2021Q3,Queensland,Manufacturing,203.64435589
+2021Q3,Queensland,"Professional, Scientific and Technical Services",193.26832034
+2021Q3,Victoria,Accommodation and Food Services,178.0777008
+2021Q3,Victoria,Construction,317.62847332
+2021Q3,Victoria,Education and Training,284.6111624
+2021Q3,Victoria,Health Care and Social Assistance,492.89025198
+2021Q3,Victoria,Manufacturing,286.78170557
+2021Q3,Victoria,"Professional, Scientific and Technical Services",326.09907838000004
+2021Q4,New South Wales,Accommodation and Food Services,200.85572145
+2021Q4,New South Wales,Construction,338.3910591
+2021Q4,New South Wales,Education and Training,359.17897995
+2021Q4,New South Wales,Health Care and Social Assistance,574.6925557999999
+2021Q4,New South Wales,Manufacturing,232.40326136000002
+2021Q4,New South Wales,"Professional, Scientific and Technical Services",414.19272406
+2021Q4,Queensland,Accommodation and Food Services,175.58600291
+2021Q4,Queensland,Construction,232.85020348
+2021Q4,Queensland,Education and Training,230.28444565
+2021Q4,Queensland,Health Care and Social Assistance,400.31710982
+2021Q4,Queensland,Manufacturing,180.79870589
+2021Q4,Queensland,"Professional, Scientific and Technical Services",212.24519734
+2021Q4,Victoria,Accommodation and Food Services,175.07846468
+2021Q4,Victoria,Construction,317.44763227
+2021Q4,Victoria,Education and Training,299.02385525
+2021Q4,Victoria,Health Care and Social Assistance,501.16152091
+2021Q4,Victoria,Manufacturing,260.5677397
+2021Q4,Victoria,"Professional, Scientific and Technical Services",333.47903246
+2022Q1,New South Wales,Accommodation and Food Services,217.10060607999998
+2022Q1,New South Wales,Construction,359.24358429
+2022Q1,New South Wales,Education and Training,331.20489416
+2022Q1,New South Wales,Health Care and Social Assistance,624.14025339
+2022Q1,New South Wales,Manufacturing,231.94014148
+2022Q1,New South Wales,"Professional, Scientific and Technical Services",414.83959616
+2022Q1,Queensland,Accommodation and Food Services,178.25343433
+2022Q1,Queensland,Construction,239.85739285
+2022Q1,Queensland,Education and Training,239.72336169
+2022Q1,Queensland,Health Care and Social Assistance,442.68262422
+2022Q1,Queensland,Manufacturing,188.73158967
+2022Q1,Queensland,"Professional, Scientific and Technical Services",220.75495766
+2022Q1,Victoria,Accommodation and Food Services,175.01075508999998
+2022Q1,Victoria,Construction,304.86278733
+2022Q1,Victoria,Education and Training,305.03327319
+2022Q1,Victoria,Health Care and Social Assistance,518.86918014
+2022Q1,Victoria,Manufacturing,259.29624875
+2022Q1,Victoria,"Professional, Scientific and Technical Services",376.12007261
+2022Q2,New South Wales,Accommodation and Food Services,220.28053866
+2022Q2,New South Wales,Construction,367.18823693
+2022Q2,New South Wales,Education and Training,337.37777343
+2022Q2,New South Wales,Health Care and Social Assistance,597.65851115
+2022Q2,New South Wales,Manufacturing,240.94543877
+2022Q2,New South Wales,"Professional, Scientific and Technical Services",440.39875599
+2022Q2,Queensland,Accommodation and Food Services,178.31564486
+2022Q2,Queensland,Construction,235.92837498
+2022Q2,Queensland,Education and Training,248.10643564
+2022Q2,Queensland,Health Care and Social Assistance,475.90348941
+2022Q2,Queensland,Manufacturing,170.64158847
+2022Q2,Queensland,"Professional, Scientific and Technical Services",218.00412318
+2022Q2,Victoria,Accommodation and Food Services,187.86608844
+2022Q2,Victoria,Construction,327.54143242
+2022Q2,Victoria,Education and Training,298.88705508
+2022Q2,Victoria,Health Care and Social Assistance,511.74765247
+2022Q2,Victoria,Manufacturing,244.39188014
+2022Q2,Victoria,"Professional, Scientific and Technical Services",362.5636351
+2022Q3,New South Wales,Accommodation and Food Services,223.48735947
+2022Q3,New South Wales,Construction,386.36350901
+2022Q3,New South Wales,Education and Training,341.62504409
+2022Q3,New South Wales,Health Care and Social Assistance,620.00075354
+2022Q3,New South Wales,Manufacturing,236.08818609
+2022Q3,New South Wales,"Professional, Scientific and Technical Services",440.45316455
+2022Q3,Queensland,Accommodation and Food Services,179.56050967
+2022Q3,Queensland,Construction,258.41011196
+2022Q3,Queensland,Education and Training,244.12936101
+2022Q3,Queensland,Health Care and Social Assistance,463.69218691000003
+2022Q3,Queensland,Manufacturing,167.82609026
+2022Q3,Queensland,"Professional, Scientific and Technical Services",213.70714084
+2022Q3,Victoria,Accommodation and Food Services,185.83072696
+2022Q3,Victoria,Construction,337.14325961000003
+2022Q3,Victoria,Education and Training,297.7236501
+2022Q3,Victoria,Health Care and Social Assistance,545.83901081
+2022Q3,Victoria,Manufacturing,255.70688861
+2022Q3,Victoria,"Professional, Scientific and Technical Services",350.99214932999996
+2022Q4,New South Wales,Accommodation and Food Services,244.32771305
+2022Q4,New South Wales,Construction,395.86534837
+2022Q4,New South Wales,Education and Training,353.8630153
+2022Q4,New South Wales,Health Care and Social Assistance,642.0564348099999
+2022Q4,New South Wales,Manufacturing,260.34459551
+2022Q4,New South Wales,"Professional, Scientific and Technical Services",448.52170399
+2022Q4,Queensland,Accommodation and Food Services,179.98701332000002
+2022Q4,Queensland,Construction,259.51734045
+2022Q4,Queensland,Education and Training,239.39659380000003
+2022Q4,Queensland,Health Care and Social Assistance,452.29280028
+2022Q4,Queensland,Manufacturing,175.90537348
+2022Q4,Queensland,"Professional, Scientific and Technical Services",219.85144559
+2022Q4,Victoria,Accommodation and Food Services,184.82999811000002
+2022Q4,Victoria,Construction,355.38800513
+2022Q4,Victoria,Education and Training,314.1289387
+2022Q4,Victoria,Health Care and Social Assistance,546.54264929
+2022Q4,Victoria,Manufacturing,260.03197747
+2022Q4,Victoria,"Professional, Scientific and Technical Services",345.96721154
+2023Q1,New South Wales,Accommodation and Food Services,248.34909216
+2023Q1,New South Wales,Construction,400.77450296
+2023Q1,New South Wales,Education and Training,344.14642959
+2023Q1,New South Wales,Health Care and Social Assistance,651.83541115
+2023Q1,New South Wales,Manufacturing,236.92436873
+2023Q1,New South Wales,"Professional, Scientific and Technical Services",452.20227918
+2023Q1,Queensland,Accommodation and Food Services,162.80943133
+2023Q1,Queensland,Construction,261.86749984
+2023Q1,Queensland,Education and Training,245.79115833999998
+2023Q1,Queensland,Health Care and Social Assistance,464.28468039
+2023Q1,Queensland,Manufacturing,182.07672955
+2023Q1,Queensland,"Professional, Scientific and Technical Services",211.49067527999998
+2023Q1,Victoria,Accommodation and Food Services,200.46972341999998
+2023Q1,Victoria,Construction,369.39203504
+2023Q1,Victoria,Education and Training,293.37867848
+2023Q1,Victoria,Health Care and Social Assistance,564.12293538
+2023Q1,Victoria,Manufacturing,256.44383973
+2023Q1,Victoria,"Professional, Scientific and Technical Services",364.80138405
+2023Q2,New South Wales,Accommodation and Food Services,256.07510415
+2023Q2,New South Wales,Construction,426.11107842
+2023Q2,New South Wales,Education and Training,343.12473826
+2023Q2,New South Wales,Health Care and Social Assistance,659.04574062
+2023Q2,New South Wales,Manufacturing,250.87171444
+2023Q2,New South Wales,"Professional, Scientific and Technical Services",457.02225984
+2023Q2,Queensland,Accommodation and Food Services,177.98117808
+2023Q2,Queensland,Construction,275.98549819
+2023Q2,Queensland,Education and Training,275.32106834
+2023Q2,Queensland,Health Care and Social Assistance,472.85854422
+2023Q2,Queensland,Manufacturing,179.44364475
+2023Q2,Queensland,"Professional, Scientific and Technical Services",232.12874526
+2023Q2,Victoria,Accommodation and Food Services,202.91735438
+2023Q2,Victoria,Construction,347.07992804
+2023Q2,Victoria,Education and Training,295.58916425
+2023Q2,Victoria,Health Care and Social Assistance,565.72946609
+2023Q2,Victoria,Manufacturing,283.04568803
+2023Q2,Victoria,"Professional, Scientific and Technical Services",408.17622528
+2023Q3,New South Wales,Accommodation and Food Services,231.89100372000001
+2023Q3,New South Wales,Construction,402.14723937
+2023Q3,New South Wales,Education and Training,351.30374072
+2023Q3,New South Wales,Health Care and Social Assistance,642.16272044
+2023Q3,New South Wales,Manufacturing,267.74599735
+2023Q3,New South Wales,"Professional, Scientific and Technical Services",452.3184376
+2023Q3,Queensland,Accommodation and Food Services,165.75048567
+2023Q3,Queensland,Construction,288.42561911999996
+2023Q3,Queensland,Education and Training,242.28086907
+2023Q3,Queensland,Health Care and Social Assistance,455.7205051
+2023Q3,Queensland,Manufacturing,161.15074972
+2023Q3,Queensland,"Professional, Scientific and Technical Services",218.52698417
+2023Q3,Victoria,Accommodation and Food Services,196.38252401
+2023Q3,Victoria,Construction,324.98521524
+2023Q3,Victoria,Education and Training,294.56451960000004
+2023Q3,Victoria,Health Care and Social Assistance,588.10005268
+2023Q3,Victoria,Manufacturing,296.75660065
+2023Q3,Victoria,"Professional, Scientific and Technical Services",374.05630729
+2023Q4,New South Wales,Accommodation and Food Services,226.91377849999998
+2023Q4,New South Wales,Construction,418.61754303
+2023Q4,New South Wales,Education and Training,377.31554637
+2023Q4,New South Wales,Health Care and Social Assistance,680.40156973
+2023Q4,New South Wales,Manufacturing,292.49624217
+2023Q4,New South Wales,"Professional, Scientific and Technical Services",447.727431
+2023Q4,Queensland,Accommodation and Food Services,162.86008594
+2023Q4,Queensland,Construction,281.25605082
+2023Q4,Queensland,Education and Training,239.54413843
+2023Q4,Queensland,Health Care and Social Assistance,461.7712143
+2023Q4,Queensland,Manufacturing,185.72934711
+2023Q4,Queensland,"Professional, Scientific and Technical Services",237.81758162
+2023Q4,Victoria,Accommodation and Food Services,181.27315596
+2023Q4,Victoria,Construction,355.73415783
+2023Q4,Victoria,Education and Training,342.70655127
+2023Q4,Victoria,Health Care and Social Assistance,604.3250811400001
+2023Q4,Victoria,Manufacturing,262.06791883
+2023Q4,Victoria,"Professional, Scientific and Technical Services",370.8890247
+2024Q1,New South Wales,Accommodation and Food Services,220.54874202
+2024Q1,New South Wales,Construction,407.77312736000005
+2024Q1,New South Wales,Education and Training,362.05649945
+2024Q1,New South Wales,Health Care and Social Assistance,683.383358
+2024Q1,New South Wales,Manufacturing,286.43929448
+2024Q1,New South Wales,"Professional, Scientific and Technical Services",463.42300639
+2024Q1,Queensland,Accommodation and Food Services,172.46182202
+2024Q1,Queensland,Construction,270.07496001
+2024Q1,Queensland,Education and Training,240.27753471
+2024Q1,Queensland,Health Care and Social Assistance,449.22155938
+2024Q1,Queensland,Manufacturing,183.98686639
+2024Q1,Queensland,"Professional, Scientific and Technical Services",254.95410763
+2024Q1,Victoria,Accommodation and Food Services,191.29402321999999
+2024Q1,Victoria,Construction,353.70973776
+2024Q1,Victoria,Education and Training,315.8061127
+2024Q1,Victoria,Health Care and Social Assistance,585.51801003
+2024Q1,Victoria,Manufacturing,264.45226902
+2024Q1,Victoria,"Professional, Scientific and Technical Services",356.61087152
+2024Q2,New South Wales,Accommodation and Food Services,245.33972326999998
+2024Q2,New South Wales,Construction,417.37078556
+2024Q2,New South Wales,Education and Training,382.37901672000004
+2024Q2,New South Wales,Health Care and Social Assistance,702.37790893
+2024Q2,New South Wales,Manufacturing,248.34704959
+2024Q2,New South Wales,"Professional, Scientific and Technical Services",496.00417106
+2024Q2,Queensland,Accommodation and Food Services,181.13577493999998
+2024Q2,Queensland,Construction,273.7711499
+2024Q2,Queensland,Education and Training,246.63259012
+2024Q2,Queensland,Health Care and Social Assistance,471.94111723
+2024Q2,Queensland,Manufacturing,190.27972343
+2024Q2,Queensland,"Professional, Scientific and Technical Services",219.13206598
+2024Q2,Victoria,Accommodation and Food Services,186.44276928
+2024Q2,Victoria,Construction,366.37043988
+2024Q2,Victoria,Education and Training,315.58402258
+2024Q2,Victoria,Health Care and Social Assistance,587.70147258
+2024Q2,Victoria,Manufacturing,285.52353059
+2024Q2,Victoria,"Professional, Scientific and Technical Services",340.93615761
+2024Q3,New South Wales,Accommodation and Food Services,248.0029083
+2024Q3,New South Wales,Construction,383.30742538000004
+2024Q3,New South Wales,Education and Training,397.22155539
+2024Q3,New South Wales,Health Care and Social Assistance,692.5318199
+2024Q3,New South Wales,Manufacturing,228.1039942
+2024Q3,New South Wales,"Professional, Scientific and Technical Services",452.74036985
+2024Q3,Queensland,Accommodation and Food Services,193.49566188
+2024Q3,Queensland,Construction,268.74529709
+2024Q3,Queensland,Education and Training,247.74185517
+2024Q3,Queensland,Health Care and Social Assistance,445.64609153
+2024Q3,Queensland,Manufacturing,179.58871999000002
+2024Q3,Queensland,"Professional, Scientific and Technical Services",218.67702735
+2024Q3,Victoria,Accommodation and Food Services,182.71516637000002
+2024Q3,Victoria,Construction,350.07533854999997
+2024Q3,Victoria,Education and Training,336.55403831
+2024Q3,Victoria,Health Care and Social Assistance,601.2177531
+2024Q3,Victoria,Manufacturing,290.18055398
+2024Q3,Victoria,"Professional, Scientific and Technical Services",364.4145933
+2024Q4,New South Wales,Accommodation and Food Services,254.41497223
+2024Q4,New South Wales,Construction,411.72478808
+2024Q4,New South Wales,Education and Training,401.3484573
+2024Q4,New South Wales,Health Care and Social Assistance,693.41326964
+2024Q4,New South Wales,Manufacturing,250.32427479
+2024Q4,New South Wales,"Professional, Scientific and Technical Services",439.35969288
+2024Q4,Queensland,Accommodation and Food Services,179.77447605999998
+2024Q4,Queensland,Construction,292.19146154
+2024Q4,Queensland,Education and Training,252.78698661
+2024Q4,Queensland,Health Care and Social Assistance,488.03081765999997
+2024Q4,Queensland,Manufacturing,168.50424816
+2024Q4,Queensland,"Professional, Scientific and Technical Services",218.12821836999998
+2024Q4,Victoria,Accommodation and Food Services,204.75129726
+2024Q4,Victoria,Construction,348.17271718
+2024Q4,Victoria,Education and Training,355.67740972
+2024Q4,Victoria,Health Care and Social Assistance,589.26287459
+2024Q4,Victoria,Manufacturing,287.03835703
+2024Q4,Victoria,"Professional, Scientific and Technical Services",388.29487919
+2025Q1,New South Wales,Accommodation and Food Services,264.22929240999997
+2025Q1,New South Wales,Construction,448.63735503
+2025Q1,New South Wales,Education and Training,378.7592897
+2025Q1,New South Wales,Health Care and Social Assistance,719.69352586
+2025Q1,New South Wales,Manufacturing,257.08576378000004
+2025Q1,New South Wales,"Professional, Scientific and Technical Services",413.46264355
+2025Q1,Queensland,Accommodation and Food Services,183.24294774000003
+2025Q1,Queensland,Construction,290.29593697
+2025Q1,Queensland,Education and Training,233.39539621
+2025Q1,Queensland,Health Care and Social Assistance,504.76439579000004
+2025Q1,Queensland,Manufacturing,172.30293845
+2025Q1,Queensland,"Professional, Scientific and Technical Services",226.28011913
+2025Q1,Victoria,Accommodation and Food Services,196.27408793
+2025Q1,Victoria,Construction,356.45847341
+2025Q1,Victoria,Education and Training,341.17642113
+2025Q1,Victoria,Health Care and Social Assistance,613.27525658
+2025Q1,Victoria,Manufacturing,273.09355431
+2025Q1,Victoria,"Professional, Scientific and Technical Services",365.8745646
+2025Q2,New South Wales,Accommodation and Food Services,217.12232374999996
+2025Q2,New South Wales,Construction,403.17789145
+2025Q2,New South Wales,Education and Training,398.99593139999996
+2025Q2,New South Wales,Health Care and Social Assistance,722.27405042
+2025Q2,New South Wales,Manufacturing,251.00049277
+2025Q2,New South Wales,"Professional, Scientific and Technical Services",471.80885416
+2025Q2,Queensland,Accommodation and Food Services,182.17251943
+2025Q2,Queensland,Construction,287.86322963
+2025Q2,Queensland,Education and Training,245.92939969000003
+2025Q2,Queensland,Health Care and Social Assistance,548.91802098
+2025Q2,Queensland,Manufacturing,175.6060331
+2025Q2,Queensland,"Professional, Scientific and Technical Services",247.23906713
+2025Q2,Victoria,Accommodation and Food Services,215.39197510000002
+2025Q2,Victoria,Construction,341.86419738
+2025Q2,Victoria,Education and Training,334.76680595
+2025Q2,Victoria,Health Care and Social Assistance,618.05700036
+2025Q2,Victoria,Manufacturing,249.76415332
+2025Q2,Victoria,"Professional, Scientific and Technical Services",395.34211997
+2025Q3,New South Wales,Accommodation and Food Services,214.98359149
+2025Q3,New South Wales,Construction,424.1787112
+2025Q3,New South Wales,Education and Training,422.64688934000003
+2025Q3,New South Wales,Health Care and Social Assistance,690.2639225199999
+2025Q3,New South Wales,Manufacturing,243.37939342
+2025Q3,New South Wales,"Professional, Scientific and Technical Services",476.01154718
+2025Q3,Queensland,Accommodation and Food Services,161.57446662
+2025Q3,Queensland,Construction,269.35587601
+2025Q3,Queensland,Education and Training,243.05318081000001
+2025Q3,Queensland,Health Care and Social Assistance,521.21567164
+2025Q3,Queensland,Manufacturing,172.57271929
+2025Q3,Queensland,"Professional, Scientific and Technical Services",224.58161468999998
+2025Q3,Victoria,Accommodation and Food Services,212.81302857999998
+2025Q3,Victoria,Construction,319.72091149
+2025Q3,Victoria,Education and Training,364.48866803
+2025Q3,Victoria,Health Care and Social Assistance,628.48684977
+2025Q3,Victoria,Manufacturing,246.78279677
+2025Q3,Victoria,"Professional, Scientific and Technical Services",411.30706383
+2025Q4,New South Wales,Accommodation and Food Services,235.39921673000003
+2025Q4,New South Wales,Construction,420.14823508
+2025Q4,New South Wales,Education and Training,427.74733917
+2025Q4,New South Wales,Health Care and Social Assistance,666.91789066
+2025Q4,New South Wales,Manufacturing,250.51691973
+2025Q4,New South Wales,"Professional, Scientific and Technical Services",461.98442226
+2025Q4,Queensland,Accommodation and Food Services,190.34669713
+2025Q4,Queensland,Construction,304.30164285
+2025Q4,Queensland,Education and Training,257.28969672
+2025Q4,Queensland,Health Care and Social Assistance,525.51260319
+2025Q4,Queensland,Manufacturing,163.18946438
+2025Q4,Queensland,"Professional, Scientific and Technical Services",232.2932119
+2025Q4,Victoria,Accommodation and Food Services,218.41601242999997
+2025Q4,Victoria,Construction,329.24937133
+2025Q4,Victoria,Education and Training,372.04098787000004
+2025Q4,Victoria,Health Care and Social Assistance,635.71353861
+2025Q4,Victoria,Manufacturing,268.32308583
+2025Q4,Victoria,"Professional, Scientific and Technical Services",404.41476943
+2026Q1,New South Wales,Accommodation and Food Services,222.8177646
+2026Q1,New South Wales,Construction,430.83715028
+2026Q1,New South Wales,Education and Training,390.04014038
+2026Q1,New South Wales,Health Care and Social Assistance,698.13978284
+2026Q1,New South Wales,Manufacturing,248.46194059
+2026Q1,New South Wales,"Professional, Scientific and Technical Services",519.97707991
+2026Q1,Queensland,Accommodation and Food Services,179.99680252
+2026Q1,Queensland,Construction,281.61785219
+2026Q1,Queensland,Education and Training,261.3330057
+2026Q1,Queensland,Health Care and Social Assistance,541.78842356
+2026Q1,Queensland,Manufacturing,165.23433607
+2026Q1,Queensland,"Professional, Scientific and Technical Services",247.82447656
+2026Q1,Victoria,Accommodation and Food Services,200.37303081
+2026Q1,Victoria,Construction,346.09774249
+2026Q1,Victoria,Education and Training,365.60142839
+2026Q1,Victoria,Health Care and Social Assistance,641.0112148000001
+2026Q1,Victoria,Manufacturing,267.79026852
+2026Q1,Victoria,"Professional, Scientific and Technical Services",395.16124999

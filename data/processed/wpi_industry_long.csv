@@ -1,0 +1,667 @@
+date,industry,wpi_growth
+1998Q3,Manufacturing,3.9
+1998Q4,Manufacturing,3.5
+1999Q1,Manufacturing,2.9
+1999Q2,Manufacturing,2.9
+1999Q3,Manufacturing,2.7
+1999Q4,Manufacturing,2.6
+2000Q1,Manufacturing,2.8
+2000Q2,Manufacturing,2.7
+2000Q3,Manufacturing,2.8
+2000Q4,Manufacturing,3.3
+2001Q1,Manufacturing,3.5
+2001Q2,Manufacturing,3.6
+2001Q3,Manufacturing,3.7
+2001Q4,Manufacturing,3.2
+2002Q1,Manufacturing,3.2
+2002Q2,Manufacturing,3.2
+2002Q3,Manufacturing,3.5
+2002Q4,Manufacturing,3.8
+2003Q1,Manufacturing,3.6
+2003Q2,Manufacturing,3.6
+2003Q3,Manufacturing,3.2
+2003Q4,Manufacturing,3.4
+2004Q1,Manufacturing,3.4
+2004Q2,Manufacturing,3.5
+2004Q3,Manufacturing,3.9
+2004Q4,Manufacturing,3.5
+2005Q1,Manufacturing,3.9
+2005Q2,Manufacturing,4.0
+2005Q3,Manufacturing,3.9
+2005Q4,Manufacturing,4.1
+2006Q1,Manufacturing,4.1
+2006Q2,Manufacturing,4.0
+2006Q3,Manufacturing,3.6
+2006Q4,Manufacturing,3.5
+2007Q1,Manufacturing,3.7
+2007Q2,Manufacturing,4.1
+2007Q3,Manufacturing,4.4
+2007Q4,Manufacturing,4.4
+2008Q1,Manufacturing,4.3
+2008Q2,Manufacturing,4.6
+2008Q3,Manufacturing,4.1
+2008Q4,Manufacturing,4.3
+2009Q1,Manufacturing,3.6
+2009Q2,Manufacturing,2.6
+2009Q3,Manufacturing,2.5
+2009Q4,Manufacturing,2.0
+2010Q1,Manufacturing,2.1
+2010Q2,Manufacturing,2.5
+2010Q3,Manufacturing,3.2
+2010Q4,Manufacturing,3.9
+2011Q1,Manufacturing,4.1
+2011Q2,Manufacturing,4.1
+2011Q3,Manufacturing,3.6
+2011Q4,Manufacturing,3.7
+2012Q1,Manufacturing,3.8
+2012Q2,Manufacturing,3.8
+2012Q3,Manufacturing,3.7
+2012Q4,Manufacturing,3.2
+2013Q1,Manufacturing,3.0
+2013Q2,Manufacturing,2.9
+2013Q3,Manufacturing,3.0
+2013Q4,Manufacturing,2.8
+2014Q1,Manufacturing,3.1
+2014Q2,Manufacturing,2.7
+2014Q3,Manufacturing,2.7
+2014Q4,Manufacturing,2.8
+2015Q1,Manufacturing,2.6
+2015Q2,Manufacturing,2.7
+2015Q3,Manufacturing,2.6
+2015Q4,Manufacturing,2.5
+2016Q1,Manufacturing,2.2
+2016Q2,Manufacturing,2.2
+2016Q3,Manufacturing,2.0
+2016Q4,Manufacturing,1.8
+2017Q1,Manufacturing,2.0
+2017Q2,Manufacturing,2.0
+2017Q3,Manufacturing,2.2
+2017Q4,Manufacturing,2.3
+2018Q1,Manufacturing,2.2
+2018Q2,Manufacturing,2.2
+2018Q3,Manufacturing,2.3
+2018Q4,Manufacturing,2.2
+2019Q1,Manufacturing,2.0
+2019Q2,Manufacturing,2.0
+2019Q3,Manufacturing,1.8
+2019Q4,Manufacturing,1.8
+2020Q1,Manufacturing,2.0
+2020Q2,Manufacturing,1.7
+2020Q3,Manufacturing,1.5
+2020Q4,Manufacturing,1.5
+2021Q1,Manufacturing,1.5
+2021Q2,Manufacturing,1.7
+2021Q3,Manufacturing,2.0
+2021Q4,Manufacturing,2.5
+2022Q1,Manufacturing,2.7
+2022Q2,Manufacturing,3.1
+2022Q3,Manufacturing,3.6
+2022Q4,Manufacturing,4.0
+2023Q1,Manufacturing,4.2
+2023Q2,Manufacturing,4.1
+2023Q3,Manufacturing,4.4
+2023Q4,Manufacturing,4.2
+2024Q1,Manufacturing,4.0
+2024Q2,Manufacturing,3.9
+2024Q3,Manufacturing,3.8
+2024Q4,Manufacturing,3.7
+2025Q1,Manufacturing,3.5
+2025Q2,Manufacturing,3.4
+2025Q3,Manufacturing,3.2
+2025Q4,Manufacturing,2.9
+2026Q1,Manufacturing,3.2
+1998Q3,Construction,3.9
+1998Q4,Construction,3.6
+1999Q1,Construction,2.8
+1999Q2,Construction,2.8
+1999Q3,Construction,2.4
+1999Q4,Construction,2.4
+2000Q1,Construction,3.1
+2000Q2,Construction,3.4
+2000Q3,Construction,4.3
+2000Q4,Construction,4.3
+2001Q1,Construction,3.9
+2001Q2,Construction,4.0
+2001Q3,Construction,3.4
+2001Q4,Construction,3.4
+2002Q1,Construction,3.5
+2002Q2,Construction,2.9
+2002Q3,Construction,3.4
+2002Q4,Construction,3.3
+2003Q1,Construction,3.4
+2003Q2,Construction,3.4
+2003Q3,Construction,3.4
+2003Q4,Construction,3.3
+2004Q1,Construction,3.4
+2004Q2,Construction,4.8
+2004Q3,Construction,4.9
+2004Q4,Construction,6.0
+2005Q1,Construction,5.9
+2005Q2,Construction,4.8
+2005Q3,Construction,4.4
+2005Q4,Construction,4.0
+2006Q1,Construction,5.4
+2006Q2,Construction,5.9
+2006Q3,Construction,5.5
+2006Q4,Construction,5.7
+2007Q1,Construction,4.2
+2007Q2,Construction,3.9
+2007Q3,Construction,4.6
+2007Q4,Construction,4.4
+2008Q1,Construction,4.1
+2008Q2,Construction,4.7
+2008Q3,Construction,4.7
+2008Q4,Construction,4.5
+2009Q1,Construction,4.8
+2009Q2,Construction,4.4
+2009Q3,Construction,3.7
+2009Q4,Construction,3.4
+2010Q1,Construction,3.0
+2010Q2,Construction,2.9
+2010Q3,Construction,3.6
+2010Q4,Construction,4.0
+2011Q1,Construction,4.3
+2011Q2,Construction,3.9
+2011Q3,Construction,3.9
+2011Q4,Construction,4.0
+2012Q1,Construction,4.2
+2012Q2,Construction,4.2
+2012Q3,Construction,3.6
+2012Q4,Construction,3.5
+2013Q1,Construction,2.9
+2013Q2,Construction,3.1
+2013Q3,Construction,3.2
+2013Q4,Construction,2.8
+2014Q1,Construction,3.2
+2014Q2,Construction,2.9
+2014Q3,Construction,2.5
+2014Q4,Construction,2.5
+2015Q1,Construction,1.8
+2015Q2,Construction,1.7
+2015Q3,Construction,1.7
+2015Q4,Construction,1.6
+2016Q1,Construction,1.6
+2016Q2,Construction,1.5
+2016Q3,Construction,1.7
+2016Q4,Construction,1.7
+2017Q1,Construction,1.8
+2017Q2,Construction,1.8
+2017Q3,Construction,1.8
+2017Q4,Construction,1.9
+2018Q1,Construction,1.8
+2018Q2,Construction,2.0
+2018Q3,Construction,1.9
+2018Q4,Construction,1.9
+2019Q1,Construction,1.8
+2019Q2,Construction,1.9
+2019Q3,Construction,1.9
+2019Q4,Construction,1.8
+2020Q1,Construction,1.8
+2020Q2,Construction,0.8
+2020Q3,Construction,0.9
+2020Q4,Construction,1.1
+2021Q1,Construction,1.3
+2021Q2,Construction,2.2
+2021Q3,Construction,2.6
+2021Q4,Construction,2.4
+2022Q1,Construction,2.5
+2022Q2,Construction,3.4
+2022Q3,Construction,3.4
+2022Q4,Construction,3.8
+2023Q1,Construction,3.9
+2023Q2,Construction,3.9
+2023Q3,Construction,4.3
+2023Q4,Construction,4.1
+2024Q1,Construction,4.2
+2024Q2,Construction,3.8
+2024Q3,Construction,3.5
+2024Q4,Construction,3.4
+2025Q1,Construction,3.5
+2025Q2,Construction,3.2
+2025Q3,Construction,3.4
+2025Q4,Construction,3.5
+2026Q1,Construction,3.2
+1998Q3,Accommodation and Food Services,2.5
+1998Q4,Accommodation and Food Services,2.3
+1999Q1,Accommodation and Food Services,2.0
+1999Q2,Accommodation and Food Services,2.2
+1999Q3,Accommodation and Food Services,2.5
+1999Q4,Accommodation and Food Services,2.7
+2000Q1,Accommodation and Food Services,2.4
+2000Q2,Accommodation and Food Services,2.1
+2000Q3,Accommodation and Food Services,2.9
+2000Q4,Accommodation and Food Services,3.1
+2001Q1,Accommodation and Food Services,3.0
+2001Q2,Accommodation and Food Services,3.1
+2001Q3,Accommodation and Food Services,2.9
+2001Q4,Accommodation and Food Services,2.6
+2002Q1,Accommodation and Food Services,2.8
+2002Q2,Accommodation and Food Services,2.9
+2002Q3,Accommodation and Food Services,2.7
+2002Q4,Accommodation and Food Services,3.4
+2003Q1,Accommodation and Food Services,3.7
+2003Q2,Accommodation and Food Services,3.5
+2003Q3,Accommodation and Food Services,3.4
+2003Q4,Accommodation and Food Services,2.7
+2004Q1,Accommodation and Food Services,2.5
+2004Q2,Accommodation and Food Services,2.4
+2004Q3,Accommodation and Food Services,2.3
+2004Q4,Accommodation and Food Services,2.7
+2005Q1,Accommodation and Food Services,2.9
+2005Q2,Accommodation and Food Services,3.1
+2005Q3,Accommodation and Food Services,3.3
+2005Q4,Accommodation and Food Services,3.5
+2006Q1,Accommodation and Food Services,3.4
+2006Q2,Accommodation and Food Services,3.3
+2006Q3,Accommodation and Food Services,2.4
+2006Q4,Accommodation and Food Services,2.1
+2007Q1,Accommodation and Food Services,2.9
+2007Q2,Accommodation and Food Services,3.0
+2007Q3,Accommodation and Food Services,3.2
+2007Q4,Accommodation and Food Services,3.5
+2008Q1,Accommodation and Food Services,2.4
+2008Q2,Accommodation and Food Services,2.3
+2008Q3,Accommodation and Food Services,2.4
+2008Q4,Accommodation and Food Services,2.9
+2009Q1,Accommodation and Food Services,3.5
+2009Q2,Accommodation and Food Services,3.4
+2009Q3,Accommodation and Food Services,3.3
+2009Q4,Accommodation and Food Services,1.9
+2010Q1,Accommodation and Food Services,1.8
+2010Q2,Accommodation and Food Services,2.0
+2010Q3,Accommodation and Food Services,3.4
+2010Q4,Accommodation and Food Services,3.5
+2011Q1,Accommodation and Food Services,3.3
+2011Q2,Accommodation and Food Services,3.0
+2011Q3,Accommodation and Food Services,3.1
+2011Q4,Accommodation and Food Services,3.8
+2012Q1,Accommodation and Food Services,3.4
+2012Q2,Accommodation and Food Services,3.4
+2012Q3,Accommodation and Food Services,2.9
+2012Q4,Accommodation and Food Services,2.2
+2013Q1,Accommodation and Food Services,2.4
+2013Q2,Accommodation and Food Services,2.6
+2013Q3,Accommodation and Food Services,2.3
+2013Q4,Accommodation and Food Services,2.2
+2014Q1,Accommodation and Food Services,2.3
+2014Q2,Accommodation and Food Services,2.1
+2014Q3,Accommodation and Food Services,2.6
+2014Q4,Accommodation and Food Services,2.6
+2015Q1,Accommodation and Food Services,2.4
+2015Q2,Accommodation and Food Services,2.5
+2015Q3,Accommodation and Food Services,2.2
+2015Q4,Accommodation and Food Services,2.4
+2016Q1,Accommodation and Food Services,2.3
+2016Q2,Accommodation and Food Services,2.3
+2016Q3,Accommodation and Food Services,2.3
+2016Q4,Accommodation and Food Services,2.2
+2017Q1,Accommodation and Food Services,2.2
+2017Q2,Accommodation and Food Services,2.1
+2017Q3,Accommodation and Food Services,2.2
+2017Q4,Accommodation and Food Services,2.0
+2018Q1,Accommodation and Food Services,2.1
+2018Q2,Accommodation and Food Services,2.3
+2018Q3,Accommodation and Food Services,2.4
+2018Q4,Accommodation and Food Services,2.4
+2019Q1,Accommodation and Food Services,2.3
+2019Q2,Accommodation and Food Services,2.3
+2019Q3,Accommodation and Food Services,2.0
+2019Q4,Accommodation and Food Services,2.2
+2020Q1,Accommodation and Food Services,2.2
+2020Q2,Accommodation and Food Services,1.9
+2020Q3,Accommodation and Food Services,0.5
+2020Q4,Accommodation and Food Services,0.3
+2021Q1,Accommodation and Food Services,1.4
+2021Q2,Accommodation and Food Services,1.7
+2021Q3,Accommodation and Food Services,2.5
+2021Q4,Accommodation and Food Services,3.5
+2022Q1,Accommodation and Food Services,2.6
+2022Q2,Accommodation and Food Services,2.4
+2022Q3,Accommodation and Food Services,2.7
+2022Q4,Accommodation and Food Services,3.5
+2023Q1,Accommodation and Food Services,3.3
+2023Q2,Accommodation and Food Services,3.6
+2023Q3,Accommodation and Food Services,5.5
+2023Q4,Accommodation and Food Services,4.0
+2024Q1,Accommodation and Food Services,4.0
+2024Q2,Accommodation and Food Services,4.2
+2024Q3,Accommodation and Food Services,3.5
+2024Q4,Accommodation and Food Services,3.3
+2025Q1,Accommodation and Food Services,3.3
+2025Q2,Accommodation and Food Services,3.3
+2025Q3,Accommodation and Food Services,2.9
+2025Q4,Accommodation and Food Services,3.0
+2026Q1,Accommodation and Food Services,3.0
+1998Q3,"Professional, Scientific and Technical Services",3.8
+1998Q4,"Professional, Scientific and Technical Services",3.6
+1999Q1,"Professional, Scientific and Technical Services",3.2
+1999Q2,"Professional, Scientific and Technical Services",3.7
+1999Q3,"Professional, Scientific and Technical Services",4.5
+1999Q4,"Professional, Scientific and Technical Services",4.5
+2000Q1,"Professional, Scientific and Technical Services",4.2
+2000Q2,"Professional, Scientific and Technical Services",4.3
+2000Q3,"Professional, Scientific and Technical Services",3.7
+2000Q4,"Professional, Scientific and Technical Services",4.3
+2001Q1,"Professional, Scientific and Technical Services",5.3
+2001Q2,"Professional, Scientific and Technical Services",5.4
+2001Q3,"Professional, Scientific and Technical Services",5.0
+2001Q4,"Professional, Scientific and Technical Services",4.1
+2002Q1,"Professional, Scientific and Technical Services",3.0
+2002Q2,"Professional, Scientific and Technical Services",2.7
+2002Q3,"Professional, Scientific and Technical Services",2.9
+2002Q4,"Professional, Scientific and Technical Services",3.2
+2003Q1,"Professional, Scientific and Technical Services",3.2
+2003Q2,"Professional, Scientific and Technical Services",3.1
+2003Q3,"Professional, Scientific and Technical Services",3.0
+2003Q4,"Professional, Scientific and Technical Services",2.9
+2004Q1,"Professional, Scientific and Technical Services",3.2
+2004Q2,"Professional, Scientific and Technical Services",3.0
+2004Q3,"Professional, Scientific and Technical Services",3.0
+2004Q4,"Professional, Scientific and Technical Services",3.1
+2005Q1,"Professional, Scientific and Technical Services",3.6
+2005Q2,"Professional, Scientific and Technical Services",3.9
+2005Q3,"Professional, Scientific and Technical Services",4.4
+2005Q4,"Professional, Scientific and Technical Services",4.3
+2006Q1,"Professional, Scientific and Technical Services",4.3
+2006Q2,"Professional, Scientific and Technical Services",4.3
+2006Q3,"Professional, Scientific and Technical Services",4.8
+2006Q4,"Professional, Scientific and Technical Services",4.8
+2007Q1,"Professional, Scientific and Technical Services",4.5
+2007Q2,"Professional, Scientific and Technical Services",4.3
+2007Q3,"Professional, Scientific and Technical Services",4.2
+2007Q4,"Professional, Scientific and Technical Services",4.2
+2008Q1,"Professional, Scientific and Technical Services",4.5
+2008Q2,"Professional, Scientific and Technical Services",5.1
+2008Q3,"Professional, Scientific and Technical Services",5.0
+2008Q4,"Professional, Scientific and Technical Services",5.2
+2009Q1,"Professional, Scientific and Technical Services",5.3
+2009Q2,"Professional, Scientific and Technical Services",5.1
+2009Q3,"Professional, Scientific and Technical Services",3.4
+2009Q4,"Professional, Scientific and Technical Services",2.8
+2010Q1,"Professional, Scientific and Technical Services",2.9
+2010Q2,"Professional, Scientific and Technical Services",2.9
+2010Q3,"Professional, Scientific and Technical Services",4.1
+2010Q4,"Professional, Scientific and Technical Services",4.6
+2011Q1,"Professional, Scientific and Technical Services",4.6
+2011Q2,"Professional, Scientific and Technical Services",4.0
+2011Q3,"Professional, Scientific and Technical Services",4.1
+2011Q4,"Professional, Scientific and Technical Services",4.7
+2012Q1,"Professional, Scientific and Technical Services",4.3
+2012Q2,"Professional, Scientific and Technical Services",4.5
+2012Q3,"Professional, Scientific and Technical Services",4.2
+2012Q4,"Professional, Scientific and Technical Services",3.7
+2013Q1,"Professional, Scientific and Technical Services",3.1
+2013Q2,"Professional, Scientific and Technical Services",2.8
+2013Q3,"Professional, Scientific and Technical Services",1.9
+2013Q4,"Professional, Scientific and Technical Services",1.6
+2014Q1,"Professional, Scientific and Technical Services",1.9
+2014Q2,"Professional, Scientific and Technical Services",2.0
+2014Q3,"Professional, Scientific and Technical Services",2.0
+2014Q4,"Professional, Scientific and Technical Services",1.9
+2015Q1,"Professional, Scientific and Technical Services",1.6
+2015Q2,"Professional, Scientific and Technical Services",1.7
+2015Q3,"Professional, Scientific and Technical Services",1.5
+2015Q4,"Professional, Scientific and Technical Services",1.6
+2016Q1,"Professional, Scientific and Technical Services",1.6
+2016Q2,"Professional, Scientific and Technical Services",1.7
+2016Q3,"Professional, Scientific and Technical Services",1.6
+2016Q4,"Professional, Scientific and Technical Services",1.3
+2017Q1,"Professional, Scientific and Technical Services",1.6
+2017Q2,"Professional, Scientific and Technical Services",1.5
+2017Q3,"Professional, Scientific and Technical Services",1.5
+2017Q4,"Professional, Scientific and Technical Services",1.9
+2018Q1,"Professional, Scientific and Technical Services",1.7
+2018Q2,"Professional, Scientific and Technical Services",1.8
+2018Q3,"Professional, Scientific and Technical Services",2.0
+2018Q4,"Professional, Scientific and Technical Services",2.1
+2019Q1,"Professional, Scientific and Technical Services",2.5
+2019Q2,"Professional, Scientific and Technical Services",2.4
+2019Q3,"Professional, Scientific and Technical Services",2.5
+2019Q4,"Professional, Scientific and Technical Services",2.3
+2020Q1,"Professional, Scientific and Technical Services",2.2
+2020Q2,"Professional, Scientific and Technical Services",1.3
+2020Q3,"Professional, Scientific and Technical Services",0.8
+2020Q4,"Professional, Scientific and Technical Services",1.5
+2021Q1,"Professional, Scientific and Technical Services",1.6
+2021Q2,"Professional, Scientific and Technical Services",2.5
+2021Q3,"Professional, Scientific and Technical Services",3.4
+2021Q4,"Professional, Scientific and Technical Services",2.5
+2022Q1,"Professional, Scientific and Technical Services",2.7
+2022Q2,"Professional, Scientific and Technical Services",2.9
+2022Q3,"Professional, Scientific and Technical Services",3.3
+2022Q4,"Professional, Scientific and Technical Services",3.6
+2023Q1,"Professional, Scientific and Technical Services",3.9
+2023Q2,"Professional, Scientific and Technical Services",4.0
+2023Q3,"Professional, Scientific and Technical Services",3.8
+2023Q4,"Professional, Scientific and Technical Services",3.8
+2024Q1,"Professional, Scientific and Technical Services",3.6
+2024Q2,"Professional, Scientific and Technical Services",3.7
+2024Q3,"Professional, Scientific and Technical Services",3.0
+2024Q4,"Professional, Scientific and Technical Services",2.8
+2025Q1,"Professional, Scientific and Technical Services",2.9
+2025Q2,"Professional, Scientific and Technical Services",3.0
+2025Q3,"Professional, Scientific and Technical Services",3.3
+2025Q4,"Professional, Scientific and Technical Services",3.3
+2026Q1,"Professional, Scientific and Technical Services",2.9
+1998Q3,Education and Training,3.4
+1998Q4,Education and Training,3.4
+1999Q1,Education and Training,3.7
+1999Q2,Education and Training,3.8
+1999Q3,Education and Training,3.2
+1999Q4,Education and Training,3.0
+2000Q1,Education and Training,2.2
+2000Q2,Education and Training,2.7
+2000Q3,Education and Training,3.4
+2000Q4,Education and Training,3.2
+2001Q1,Education and Training,4.1
+2001Q2,Education and Training,4.3
+2001Q3,Education and Training,4.2
+2001Q4,Education and Training,4.5
+2002Q1,Education and Training,3.5
+2002Q2,Education and Training,3.6
+2002Q3,Education and Training,3.9
+2002Q4,Education and Training,3.9
+2003Q1,Education and Training,5.1
+2003Q2,Education and Training,4.5
+2003Q3,Education and Training,3.7
+2003Q4,Education and Training,3.4
+2004Q1,Education and Training,3.8
+2004Q2,Education and Training,3.7
+2004Q3,Education and Training,4.7
+2004Q4,Education and Training,5.3
+2005Q1,Education and Training,5.4
+2005Q2,Education and Training,5.6
+2005Q3,Education and Training,4.7
+2005Q4,Education and Training,4.4
+2006Q1,Education and Training,4.1
+2006Q2,Education and Training,4.3
+2006Q3,Education and Training,4.0
+2006Q4,Education and Training,4.3
+2007Q1,Education and Training,4.3
+2007Q2,Education and Training,4.1
+2007Q3,Education and Training,4.2
+2007Q4,Education and Training,3.9
+2008Q1,Education and Training,3.9
+2008Q2,Education and Training,4.0
+2008Q3,Education and Training,4.2
+2008Q4,Education and Training,4.4
+2009Q1,Education and Training,4.6
+2009Q2,Education and Training,4.5
+2009Q3,Education and Training,4.0
+2009Q4,Education and Training,3.9
+2010Q1,Education and Training,4.3
+2010Q2,Education and Training,3.9
+2010Q3,Education and Training,4.4
+2010Q4,Education and Training,4.4
+2011Q1,Education and Training,3.8
+2011Q2,Education and Training,3.8
+2011Q3,Education and Training,3.9
+2011Q4,Education and Training,3.6
+2012Q1,Education and Training,3.6
+2012Q2,Education and Training,3.6
+2012Q3,Education and Training,3.2
+2012Q4,Education and Training,3.0
+2013Q1,Education and Training,2.7
+2013Q2,Education and Training,2.5
+2013Q3,Education and Training,2.4
+2013Q4,Education and Training,2.9
+2014Q1,Education and Training,3.2
+2014Q2,Education and Training,3.2
+2014Q3,Education and Training,3.2
+2014Q4,Education and Training,3.4
+2015Q1,Education and Training,2.8
+2015Q2,Education and Training,2.7
+2015Q3,Education and Training,3.0
+2015Q4,Education and Training,2.6
+2016Q1,Education and Training,2.6
+2016Q2,Education and Training,2.5
+2016Q3,Education and Training,2.3
+2016Q4,Education and Training,2.4
+2017Q1,Education and Training,2.3
+2017Q2,Education and Training,2.4
+2017Q3,Education and Training,2.4
+2017Q4,Education and Training,2.4
+2018Q1,Education and Training,2.4
+2018Q2,Education and Training,2.5
+2018Q3,Education and Training,2.7
+2018Q4,Education and Training,2.6
+2019Q1,Education and Training,2.4
+2019Q2,Education and Training,2.4
+2019Q3,Education and Training,2.1
+2019Q4,Education and Training,1.9
+2020Q1,Education and Training,2.2
+2020Q2,Education and Training,2.3
+2020Q3,Education and Training,2.4
+2020Q4,Education and Training,2.4
+2021Q1,Education and Training,2.2
+2021Q2,Education and Training,1.9
+2021Q3,Education and Training,2.2
+2021Q4,Education and Training,2.1
+2022Q1,Education and Training,2.2
+2022Q2,Education and Training,2.3
+2022Q3,Education and Training,2.2
+2022Q4,Education and Training,2.4
+2023Q1,Education and Training,3.1
+2023Q2,Education and Training,3.2
+2023Q3,Education and Training,3.6
+2023Q4,Education and Training,4.8
+2024Q1,Education and Training,4.1
+2024Q2,Education and Training,4.3
+2024Q3,Education and Training,4.4
+2024Q4,Education and Training,3.3
+2025Q1,Education and Training,3.8
+2025Q2,Education and Training,3.6
+2025Q3,Education and Training,3.6
+2025Q4,Education and Training,3.7
+2026Q1,Education and Training,3.0
+1998Q3,Health Care and Social Assistance,3.5
+1998Q4,Health Care and Social Assistance,3.6
+1999Q1,Health Care and Social Assistance,3.9
+1999Q2,Health Care and Social Assistance,3.8
+1999Q3,Health Care and Social Assistance,3.4
+1999Q4,Health Care and Social Assistance,2.7
+2000Q1,Health Care and Social Assistance,2.0
+2000Q2,Health Care and Social Assistance,2.3
+2000Q3,Health Care and Social Assistance,2.4
+2000Q4,Health Care and Social Assistance,2.7
+2001Q1,Health Care and Social Assistance,3.1
+2001Q2,Health Care and Social Assistance,3.2
+2001Q3,Health Care and Social Assistance,3.3
+2001Q4,Health Care and Social Assistance,3.1
+2002Q1,Health Care and Social Assistance,3.5
+2002Q2,Health Care and Social Assistance,3.2
+2002Q3,Health Care and Social Assistance,3.1
+2002Q4,Health Care and Social Assistance,3.1
+2003Q1,Health Care and Social Assistance,3.8
+2003Q2,Health Care and Social Assistance,3.9
+2003Q3,Health Care and Social Assistance,5.1
+2003Q4,Health Care and Social Assistance,5.4
+2004Q1,Health Care and Social Assistance,4.2
+2004Q2,Health Care and Social Assistance,4.0
+2004Q3,Health Care and Social Assistance,3.1
+2004Q4,Health Care and Social Assistance,3.2
+2005Q1,Health Care and Social Assistance,4.0
+2005Q2,Health Care and Social Assistance,4.1
+2005Q3,Health Care and Social Assistance,4.9
+2005Q4,Health Care and Social Assistance,4.9
+2006Q1,Health Care and Social Assistance,4.1
+2006Q2,Health Care and Social Assistance,4.5
+2006Q3,Health Care and Social Assistance,4.2
+2006Q4,Health Care and Social Assistance,4.5
+2007Q1,Health Care and Social Assistance,4.8
+2007Q2,Health Care and Social Assistance,4.3
+2007Q3,Health Care and Social Assistance,4.2
+2007Q4,Health Care and Social Assistance,3.9
+2008Q1,Health Care and Social Assistance,3.5
+2008Q2,Health Care and Social Assistance,3.6
+2008Q3,Health Care and Social Assistance,3.3
+2008Q4,Health Care and Social Assistance,3.7
+2009Q1,Health Care and Social Assistance,4.1
+2009Q2,Health Care and Social Assistance,3.9
+2009Q3,Health Care and Social Assistance,4.5
+2009Q4,Health Care and Social Assistance,3.9
+2010Q1,Health Care and Social Assistance,3.8
+2010Q2,Health Care and Social Assistance,4.0
+2010Q3,Health Care and Social Assistance,3.8
+2010Q4,Health Care and Social Assistance,3.6
+2011Q1,Health Care and Social Assistance,3.3
+2011Q2,Health Care and Social Assistance,3.6
+2011Q3,Health Care and Social Assistance,3.1
+2011Q4,Health Care and Social Assistance,3.0
+2012Q1,Health Care and Social Assistance,3.0
+2012Q2,Health Care and Social Assistance,2.6
+2012Q3,Health Care and Social Assistance,3.3
+2012Q4,Health Care and Social Assistance,3.5
+2013Q1,Health Care and Social Assistance,3.3
+2013Q2,Health Care and Social Assistance,3.4
+2013Q3,Health Care and Social Assistance,2.8
+2013Q4,Health Care and Social Assistance,2.7
+2014Q1,Health Care and Social Assistance,2.9
+2014Q2,Health Care and Social Assistance,2.9
+2014Q3,Health Care and Social Assistance,3.0
+2014Q4,Health Care and Social Assistance,2.8
+2015Q1,Health Care and Social Assistance,2.6
+2015Q2,Health Care and Social Assistance,2.7
+2015Q3,Health Care and Social Assistance,2.6
+2015Q4,Health Care and Social Assistance,2.4
+2016Q1,Health Care and Social Assistance,2.6
+2016Q2,Health Care and Social Assistance,2.3
+2016Q3,Health Care and Social Assistance,2.4
+2016Q4,Health Care and Social Assistance,2.4
+2017Q1,Health Care and Social Assistance,2.3
+2017Q2,Health Care and Social Assistance,2.6
+2017Q3,Health Care and Social Assistance,2.7
+2017Q4,Health Care and Social Assistance,2.8
+2018Q1,Health Care and Social Assistance,2.7
+2018Q2,Health Care and Social Assistance,2.7
+2018Q3,Health Care and Social Assistance,2.8
+2018Q4,Health Care and Social Assistance,2.8
+2019Q1,Health Care and Social Assistance,3.0
+2019Q2,Health Care and Social Assistance,3.3
+2019Q3,Health Care and Social Assistance,3.2
+2019Q4,Health Care and Social Assistance,3.1
+2020Q1,Health Care and Social Assistance,3.0
+2020Q2,Health Care and Social Assistance,2.4
+2020Q3,Health Care and Social Assistance,1.9
+2020Q4,Health Care and Social Assistance,1.6
+2021Q1,Health Care and Social Assistance,1.7
+2021Q2,Health Care and Social Assistance,1.8
+2021Q3,Health Care and Social Assistance,1.9
+2021Q4,Health Care and Social Assistance,2.4
+2022Q1,Health Care and Social Assistance,2.1
+2022Q2,Health Care and Social Assistance,2.3
+2022Q3,Health Care and Social Assistance,2.9
+2022Q4,Health Care and Social Assistance,3.0
+2023Q1,Health Care and Social Assistance,3.2
+2023Q2,Health Care and Social Assistance,3.3
+2023Q3,Health Care and Social Assistance,4.9
+2023Q4,Health Care and Social Assistance,5.5
+2024Q1,Health Care and Social Assistance,5.3
+2024Q2,Health Care and Social Assistance,5.0
+2024Q3,Health Care and Social Assistance,3.6
+2024Q4,Health Care and Social Assistance,2.8
+2025Q1,Health Care and Social Assistance,3.8
+2025Q2,Health Care and Social Assistance,3.9
+2025Q3,Health Care and Social Assistance,3.8
+2025Q4,Health Care and Social Assistance,4.4
+2026Q1,Health Care and Social Assistance,3.6
