@@ -2,15 +2,11 @@
 
 > **An end-to-end labour market analytics project that develops a composite Labour Market Stress Index (LMSI) using Australian Bureau of Statistics (ABS) data.**
 
-<p align="center">
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-ETL-3776AB?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Analysis-blue)
 ![Excel](https://img.shields.io/badge/Excel-Validation-217346?logo=microsoftexcel&logoColor=white)
-
-</p>
 
 ---
 
@@ -34,10 +30,7 @@
 
 # 📊 Dashboard Preview
 
-
-<p align="center">
-<img src="dashboard/screenshots/page01.png" width="900">
-</p>
+![](dashboard/screenshots/page01.png)
 
 ---
 
@@ -65,20 +58,20 @@ The project aims to:
 
 # 📈 Dashboard Structure
 
-| Page | Question Answered |
-|------|-------------------|
-| **01** | What is the LMSI and why does it matter? |
-| **02** | Where is labour market stress highest? |
-| **03** | What is driving labour market stress? |
+| Page   | Question Answered                               |
+| ------ | ----------------------------------------------- |
+| **01** | What is the LMSI and why does it matter?        |
+| **02** | Where is labour market stress highest?          |
+| **03** | What is driving labour market stress?           |
 | **04** | How has labour market stress evolved over time? |
-| **05** | What are the policy implications? |
-| **06** | How was the index constructed? |
+| **05** | What are the policy implications?               |
+| **06** | How was the index constructed?                  |
 
 ---
 
 # ⚙️ Analytical Workflow
 
-```text
+```
 Australian Bureau of Statistics (ABS)
                 │
                 ▼
@@ -106,11 +99,11 @@ Analytical Memo
 
 The Labour Market Stress Index combines three labour market dimensions into a weighted composite framework.
 
-| Component | Weight | Purpose |
-|-----------|-------:|---------|
-| Vacancy Intensity | **40%** | Measures labour demand |
-| Wage Pressure | **30%** | Measures wage growth |
-| Labour Tightness | **30%** | Measures labour scarcity |
+| Component         | Weight  | Purpose                  |
+| ----------------- | ------- | ------------------------ |
+| Vacancy Intensity | **40%** | Measures labour demand   |
+| Wage Pressure     | **30%** | Measures wage growth     |
+| Labour Tightness  | **30%** | Measures labour scarcity |
 
 The weighting framework reflects analytical judgement informed by labour economics while maintaining transparency and interpretability.
 
@@ -118,7 +111,7 @@ The weighting framework reflects analytical judgement informed by labour economi
 
 # 📂 Repository Structure
 
-```text
+```
 australian-labour-market-stress-index/
 
 ├── dashboard/
@@ -148,9 +141,9 @@ australian-labour-market-stress-index/
 
 # 📌 Key Findings
 
-- Labour market stress has eased from its 2023 peak but remains structurally elevated.
-- Wage pressure has become the dominant driver across most industries.
-- Accommodation & Food Services remains Australia's highest-stress sector.
+- Labour market stress has eased from its 2023 peak but remains structurally elevated: the average LMSI is down 30.6% from its 2023Q3 peak, yet still 47.4% above the 2019 pre-pandemic level.
+- Wage pressure is the dominant driver in 85% of observations.
+- Accommodation & Food Services is the highest-stress sector across all three states analysed (QLD 44.1, 2026Q1).
 - Health Care continues to experience persistent labour shortages.
 - Education & Training currently records the lowest labour market stress.
 
@@ -158,25 +151,29 @@ australian-labour-market-stress-index/
 
 # 🛠 Technology Stack
 
-| Category | Technology |
-|----------|------------|
-| Data Source | Australian Bureau of Statistics (ABS) |
-| Data Processing | Python |
-| Database | PostgreSQL |
-| Query Language | SQL |
-| Validation | Microsoft Excel |
-| Dashboard | Power BI |
-| Reporting | Analytical Memo |
+| Category        | Technology                                                                                |
+| --------------- | ----------------------------------------------------------------------------------------- |
+| Data Source     | Australian Bureau of Statistics (ABS)                                                     |
+| Data Processing | Python (AI-assisted ETL scripts)
+| Database        | PostgreSQL                                                                                |
+| Query Language  | SQL                                                                                       |
+| Validation      | Microsoft Excel                                                                           |
+| Dashboard       | Power BI                                                                                  |
+| Reporting       | Analytical Memo                                                                           |
 
 ---
 
 # 📑 Data Sources
 
-The project integrates **10 Australian Bureau of Statistics datasets** from three statistical collections:
+The project draws on **10 raw ABS data files** from three statistical collections. **Four core tables** feed the final index; the remaining files were used for exploration and cross-checking.
 
-- Job Vacancies
-- Labour Force
-- Wage Price Index
+| Collection | Raw files | Used in LMSI |
+| --- | --- | --- |
+| **Job Vacancies** | Table 1 (vacancies by state), Table 4 (vacancies by industry) | ✅ Table 4 → Vacancy Intensity, Labour Tightness |
+| **Labour Force** | EQ06 (employment by industry × state), Table 5 (state × industry, .xlsx and .csv), UQ2b (unemployment by industry × state) | ✅ EQ06 → employment denominator · ✅ UQ2b → Labour Tightness |
+| **Wage Price Index** | Table 1 (wages by state), Table 2 (wages by industry), Table 3b (industry, quarterly), Table 5b (industry, quarterly) | ✅ Table 5b → Wage Pressure |
+
+All data is publicly available from the Australian Bureau of Statistics.
 
 ---
 
@@ -188,10 +185,12 @@ The analytical workflow includes:
 - 66 quarterly periods (2009Q4–2026Q1)
 - 6 industries
 - 3 Australian states
+- Zero missing values
 - Zero duplicate records
 - Standardised indicators before aggregation
 - Cross-validation in Excel
-- Robustness comparison across model versions
+- Component correlation (Vacancy Intensity vs Labour Tightness) reduced from 0.85 to 0.52 after redesigning the tightness metric (v1.0 → v1.1)
+- Top-3 ranking stable across five weighting scenarios
 
 ---
 
