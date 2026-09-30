@@ -24,6 +24,7 @@
 - Data Sources
 - Validation
 - Limitations
+- Notes on v1.1 Outputs
 - Future Improvements
 
 ---
@@ -154,7 +155,7 @@ australian-labour-market-stress-index/
 | Category        | Technology                                                                                |
 | --------------- | ----------------------------------------------------------------------------------------- |
 | Data Source     | Australian Bureau of Statistics (ABS)                                                     |
-| Data Processing | Python (AI-assisted ETL scripts)
+| Data Processing | Python (AI-assisted ETL scripts; outputs validated by the author in PostgreSQL and Excel) |
 | Database        | PostgreSQL                                                                                |
 | Query Language  | SQL                                                                                       |
 | Validation      | Microsoft Excel                                                                           |
@@ -189,8 +190,8 @@ The analytical workflow includes:
 - Zero duplicate records
 - Standardised indicators before aggregation
 - Cross-validation in Excel
-- Component correlation (Vacancy Intensity vs Labour Tightness) reduced from 0.85 to 0.52 after redesigning the tightness metric (v1.0 → v1.1)
-- Top-3 ranking stable across five weighting scenarios
+- Component correlation (Vacancy Intensity vs Labour Tightness) reduced to 0.52 after redesigning the tightness metric (v1.0 → v1.1)
+- Top-ranked sector (QLD Accommodation & Food Services) held first place across all five weighting scenarios
 
 ---
 
@@ -198,9 +199,21 @@ The analytical workflow includes:
 
 - Measures labour market stress rather than labour market performance.
 - Some indicators rely on proxy measures.
+- Job vacancies and WPI are national industry-level series; state differences reflect workforce size, not state-specific demand.
 - Weights reflect analytical judgement rather than statistical optimisation.
 - One documented outlier was excluded due to an unstable denominator.
 - Results support—not replace—policy judgement.
+
+---
+
+# 📝 Notes on v1.1 Outputs
+
+The memo and dashboard PDFs are being updated. Until then, the following corrections apply:
+
+- Professional Services 2026Q1 LMSI is 36.83 (approx. 44% below its 65.84 peak).
+- The pre-redesign correlation figure (0.85) cited in the memo and dashboard is being re-verified; the post-redesign value of 0.52 is confirmed.
+- Robustness: the top-ranked sector held first place in all five weighting scenarios; the full top-3 was stable in three of five.
+- Cross-state comparisons in the memo and dashboard should be read with the national-data limitation above.
 
 ---
 
